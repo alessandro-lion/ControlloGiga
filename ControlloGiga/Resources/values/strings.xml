@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ControlloGiga</string>
+    <string name="title_credenziali">Credenziali:</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Configurazione</string>
+    <string name="label_utilizzati">Utilizzati:</string>
+    <string name="label_charge">Credito residuo:</string>
+    <string name="label_datascad">Data Scadenza:</string>
+    <string name="content_refresh">Refresh</string>
+    <string name="title_cred">Credenziali:</string>
+    <string name="label_cred">Account</string>
+    <string name="label_pass">Password</string>
+    <string name="title_saving">Memorizzazione in corso...</string>
+    <string name="title_refreshing">Lettura dati in corso...</string>
+    <string name="title_refreshskip">Dati recenti, riprovare più tardi.</string>
+    <string name="title_refreshfailed">Lettura dati fallita, controllare credenziali o riprovare più tardi.</string>
+    <string name="title_refreshfailednet">Lettura dati fallita, controllare la connessione alla rete.</string>
+    <string name="title_refreshdone">Lettura dati completata.</string>
+    <string name="buttontext_ok">OK</string>
+    <string name="url_iliad">https://www.iliad.it/account/</string>
+    <string name="account_store">account_id</string>
+    <string name="pass_store">account_pass</string>
+    <string name="label_credits">Applicazione controllo Giga usati Iliad creata da Alex Pi Lion</string>
+</resources>
