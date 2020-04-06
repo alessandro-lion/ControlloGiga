@@ -57,6 +57,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\20200504_apk_build.zip" />
     <None Include="Resources\AboutResources.txt" />
   </ItemGroup>
   <ItemGroup>
