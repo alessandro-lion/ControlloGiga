@@ -141,14 +141,10 @@ namespace ControlloGiga
                 //EXIT
             }
 
-            String strunitm, strcurr;
-            DateTime dtrenew;
-            decimal deccred, quotamax;
-
             try
             {
                 prgBar1.SetProgress(0, false);
-                if ((StrUser!=null)&&(StrUser !=""))
+                if ((StrUser != null) && (StrUser != ""))
                 {
                     textStatus.SetText(Resource.String.title_refreshing);
                 }
@@ -160,28 +156,28 @@ namespace ControlloGiga
                 }
 
                 String strval = Resources.GetString(Resource.String.url_iliad);
-                decimal result = UsedDataCheckLibrary.IliadUsedDataCheck(strval, StrUser, StrPass, out strunitm, out quotamax, out strcurr, out deccred, out dtrenew);
-                
+                decimal result = UsedDataCheckLibrary.IliadUsedDataCheck(strval, StrUser, StrPass, out string strunitm, out decimal quotamax, out string strcurr, out decimal deccred, out DateTime dtrenew);
+
                 if (result > 0)
-                    {
+                {
                     LastDataFetch = DateTime.Now;
                     //Update Show Results View Objects on Layout home
-                    textUsage.Text = Resources.GetString(Resource.String.label_utilizzati) + " " + result.ToString() + " / " + quotamax.ToString() +" " + strunitm;
-                    textCharge.Text = Resources.GetString(Resource.String.label_charge)+" " +deccred.ToString() + " " + strcurr;
+                    textUsage.Text = Resources.GetString(Resource.String.label_utilizzati) + " " + result.ToString() + " / " + quotamax.ToString() + " " + strunitm;
+                    textCharge.Text = Resources.GetString(Resource.String.label_charge) + " " + deccred.ToString() + " " + strcurr;
                     textDate.Text = Resources.GetString(Resource.String.label_datascad) + " " + dtrenew.ToString();
-                    if (quotamax>0)
+                    if (quotamax > 0)
                     {
-                        prgBar1.SetMinimumHeight(textCharge.Height);
-                        prgBar1.IncrementProgressBy(Convert.ToInt16(result / quotamax*100));
+                        //prgBar1.SetMinimumHeight(textCharge.Height);
+                        prgBar1.IncrementProgressBy(Convert.ToInt16(result / quotamax * 100));
                     }
-                    textStatus.SetText(Resource.String.title_refreshskip);
+                    textStatus.SetText(Resource.String.title_refreshdone);
                     return true;
-                    }
+                }
                 else
-                    {
+                {
                     textStatus.SetText(Resource.String.title_refreshfailednet);
                     return false;
-                    }
+                }
             }
             catch (Exception ex)
             {
