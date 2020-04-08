@@ -48,7 +48,11 @@ namespace PilionUtilities
                 decQuotaMax = IliadExtractQuotaMaxFromSource(StrRetVal);
                 decCredito = IliadExtractCreditLeftFromSource(StrRetVal, out strCurrency);
                 dtRenewal = IliadExtractRenewalDateFromSource(StrRetVal);
-
+                //FIX: Converting to mb the quota value in case used is returned as mb
+                if (strUnit=="mb")
+                {
+                    decQuotaMax = decQuotaMax * 1024;
+                }
             }
             catch
             {
