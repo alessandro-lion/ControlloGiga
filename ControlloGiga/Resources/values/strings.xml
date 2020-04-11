@@ -15,7 +15,7 @@
     <string name="title_refreshskip">Dati recenti, riprovare più tardi.</string>
     <string name="title_refreshfailed">Lettura dati fallita, controllare credenziali o riprovare più tardi.</string>
     <string name="title_refreshfailednet">Lettura dati fallita, controllare la connessione alla rete.</string>
-    <string name="title_refreshdone">Lettura dati completata.</string>
+    <string name="title_refreshdone">Lettura dati completata per sim</string>
     <string name="buttontext_ok">OK</string>
     <string name="url_iliad">https://www.iliad.it/account/</string>
     <string name="account_store">account_id</string>

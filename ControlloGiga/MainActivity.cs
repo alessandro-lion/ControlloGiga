@@ -156,21 +156,21 @@ namespace ControlloGiga
                 }
 
                 String strval = Resources.GetString(Resource.String.url_iliad);
-                decimal result = UsedDataCheckLibrary.IliadUsedDataCheck(strval, StrUser, StrPass, out string strunitm, out decimal quotamax, out string strcurr, out decimal deccred, out DateTime dtrenew);
+                decimal result = UsedDataCheckLibrary.IliadUsedDataCheck(strval, StrUser, StrPass, out string strunitm, out decimal quotamax, out string strcurr, out decimal deccred, out DateTime dtrenew, out string strnumber);
 
                 if (result > 0)
                 {
                     LastDataFetch = DateTime.Now;
                     //Update Show Results View Objects on Layout home
-                    textUsage.Text = Resources.GetString(Resource.String.label_utilizzati) + " " + result.ToString() + " / " + quotamax.ToString() + " " + strunitm;
-                    textCharge.Text = Resources.GetString(Resource.String.label_charge) + " " + deccred.ToString() + " " + strcurr;
-                    textDate.Text = Resources.GetString(Resource.String.label_datascad) + " " + dtrenew.ToString();
                     if (quotamax > 0)
                     {
-                        //prgBar1.SetMinimumHeight(textCharge.Height);
                         prgBar1.IncrementProgressBy(Convert.ToInt16(result / quotamax * 100));
                     }
-                    textStatus.SetText(Resource.String.title_refreshdone);
+                    
+                    textUsage.Text = Resources.GetString(Resource.String.label_utilizzati) + " " + result.ToString() + " / " + quotamax.ToString() + " " + strunitm;
+                    textCharge.Text = Resources.GetString(Resource.String.label_charge) + " " + deccred.ToString() + " " + strcurr;
+                    textDate.Text = Resources.GetString(Resource.String.label_datascad) + " " + dtrenew.ToString("dd/MM/yyyy");
+                    textStatus.Text = Resources.GetString(Resource.String.title_refreshdone) + " " + strnumber;
                     return true;
                 }
                 else

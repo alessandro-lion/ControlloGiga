@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -12,12 +12,13 @@
         android:layout_height="wrap_content" >
         <TextView
             android:id="@+id/labelcred"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginStart="@dimen/activity_horizontal_margin"
             android:layout_marginTop="@dimen/activity_vertical_margin"
-            android:text="@string/title_cred"/>
+            android:text="@string/title_cred"
+            android:layout_centerHorizontal="false" />
         <EditText
             android:inputType="text"
             android:id="@+id/entry"
@@ -45,13 +46,14 @@
         android:layout_height="wrap_content" >
         <TextView
             android:id="@+id/message"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/activity_horizontal_margin"
             android:layout_marginStart="@dimen/activity_horizontal_margin"
             android:layout_marginTop="@dimen/activity_vertical_margin"
             android:text="@string/title_home"
-            android:visibility="visible" />
+            android:visibility="visible"
+            android:layout_centerHorizontal="false" />
         <ProgressBar
             style="?android:attr/progressBarStyleHorizontal"
             android:layout_width="fill_parent"
@@ -67,7 +69,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textViewUsage"
-            android:layout_below="@+id/progressBar1" />
+            android:layout_below="@+id/progressBar1"
+            android:layout_centerHorizontal="false" />
         <Space
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -95,15 +98,14 @@
             android:minHeight="@dimen/abc_action_bar_content_inset_material" 
             android:layout_below="@+id/textViewDate" />
         <ImageButton
-            android:src="@android:drawable/ic_media_play"
+            android:src="@mipmap/ic_launcher"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/imageButtonRefresh"
             android:layout_centerHorizontal="true"
             app:backgroundTint="@color/ic_launcher_background"
             android:contentDescription="@string/content_refresh"
-            android:layout_below="@+id/space2"
-            android:background="@android:color/holo_red_dark" />
+            android:layout_below="@+id/space2"/>
         <Space
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -121,12 +123,13 @@
     <TextView
         android:text=""
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:layout_width="wrap_content"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/textViewStatus"
         android:layout_above="@+id/navigation"
         android:layout_centerVertical="false"
-        android:textStyle="italic" />
+        android:textStyle="italic"
+        android:shadowColor="#ff324da5" />
 
     
     <android.support.design.widget.BottomNavigationView

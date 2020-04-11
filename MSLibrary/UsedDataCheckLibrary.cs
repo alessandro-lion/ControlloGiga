@@ -21,7 +21,7 @@ namespace PilionUtilities
 
     public static class UsedDataCheckLibrary
     {
-        public static decimal IliadUsedDataCheck(this String strURL, String strUser, string strPassword, out string strUnit, out decimal decQuotaMax, out string strCurrency, out decimal decCredito, out DateTime dtRenewal)
+        public static decimal IliadUsedDataCheck(this String strURL, String strUser, string strPassword, out string strUnit, out decimal decQuotaMax, out string strCurrency, out decimal decCredito, out DateTime dtRenewal, out string strMobileNo)
         {
             //Based on sample at https://stackoverflow.com/questions/930807/login-to-website-via-c-sharp
 
@@ -48,6 +48,7 @@ namespace PilionUtilities
                 decQuotaMax = IliadExtractQuotaMaxFromSource(StrRetVal);
                 decCredito = IliadExtractCreditLeftFromSource(StrRetVal, out strCurrency);
                 dtRenewal = IliadExtractRenewalDateFromSource(StrRetVal);
+                strMobileNo = IliadExtractMobileNumberFromSource(StrRetVal);
                 //FIX: Converting to mb the quota value in case used is returned as mb
                 if (strUnit=="mb")
                 {
@@ -63,6 +64,7 @@ namespace PilionUtilities
                 decCredito = -1;
                 strCurrency = "?";
                 dtRenewal = DateTime.Now;
+                strMobileNo = "??";
             }
 
             return decRet;
@@ -86,6 +88,19 @@ namespace PilionUtilities
 
             return dtRet;
         }
+
+        private static String IliadExtractMobileNumberFromSource(this String strSourceHTML)
+        {
+            String strRet;
+
+            int PositionRenew = strSourceHTML.IndexOf(">Numero: ") + 9;
+            int PositionDiv = strSourceHTML.IndexOf("</div>", PositionRenew);
+            string StrRetToInspect = strSourceHTML[PositionRenew..PositionDiv];
+            strRet = StrRetToInspect.TrimStart();
+
+            return strRet;
+        }
+
         private static decimal IliadExtractCreditLeftFromSource(this String strSourceHTML, out String strCurr)
         {
             decimal decCred = 0;
