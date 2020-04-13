@@ -9,7 +9,9 @@
     <RelativeLayout 
         android:id="@+id/conf_layout"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content" >
+        android:layout_height="wrap_content" 
+        app:backgroundTintMode="screen"
+        android:background="@drawable/indacolion" >
         <TextView
             android:id="@+id/labelcred"
             android:layout_width="wrap_content"
@@ -98,14 +100,14 @@
             android:minHeight="@dimen/abc_action_bar_content_inset_material" 
             android:layout_below="@+id/textViewDate" />
         <ImageButton
-            android:src="@mipmap/ic_launcher"
+            android:src="@mipmap/ic_launcher_round"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/imageButtonRefresh"
             android:layout_centerHorizontal="true"
-            app:backgroundTint="@color/ic_launcher_background"
             android:contentDescription="@string/content_refresh"
-            android:layout_below="@+id/space2"/>
+            android:layout_below="@+id/space2"
+            app:backgroundTint="@color/ic_launcher_background" />
         <Space
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

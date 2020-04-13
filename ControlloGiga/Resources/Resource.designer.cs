@@ -1829,6 +1829,5132 @@ namespace ControlloGiga
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_tileMode = global::ControlloGiga.Resource.Styleable.GradientColor_android_tileMode;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColor_android_type = global::ControlloGiga.Resource.Styleable.GradientColor_android_type;
 			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::ControlloGiga.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::ControlloGiga.Resource.Animation.abc_fade_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::ControlloGiga.Resource.Animation.abc_fade_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::ControlloGiga.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_enter = global::ControlloGiga.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_exit = global::ControlloGiga.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::ControlloGiga.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_bottom = global::ControlloGiga.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_top = global::ControlloGiga.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_bottom = global::ControlloGiga.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_top = global::ControlloGiga.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_enter = global::ControlloGiga.Resource.Animation.abc_tooltip_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_exit = global::ControlloGiga.Resource.Animation.abc_tooltip_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_in = global::ControlloGiga.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::ControlloGiga.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_in = global::ControlloGiga.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_out = global::ControlloGiga.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromLeft = global::ControlloGiga.Resource.Animation.EnterFromLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromRight = global::ControlloGiga.Resource.Animation.EnterFromRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToLeft = global::ControlloGiga.Resource.Animation.ExitToLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToRight = global::ControlloGiga.Resource.Animation.ExitToRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_appbar_state_list_animator = global::ControlloGiga.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_hide_motion_spec = global::ControlloGiga.Resource.Animator.design_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_show_motion_spec = global::ControlloGiga.Resource.Animator.design_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_state_list_anim = global::ControlloGiga.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::ControlloGiga.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_chip_state_list_anim = global::ControlloGiga.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_hide_motion_spec = global::ControlloGiga.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_show_motion_spec = global::ControlloGiga.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::ControlloGiga.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::ControlloGiga.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarDivider = global::ControlloGiga.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarItemBackground = global::ControlloGiga.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarPopupTheme = global::ControlloGiga.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::ControlloGiga.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSplitStyle = global::ControlloGiga.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarStyle = global::ControlloGiga.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabBarStyle = global::ControlloGiga.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabStyle = global::ControlloGiga.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabTextStyle = global::ControlloGiga.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTheme = global::ControlloGiga.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarWidgetTheme = global::ControlloGiga.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionButtonStyle = global::ControlloGiga.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionDropDownStyle = global::ControlloGiga.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionLayout = global::ControlloGiga.Resource.Attribute.actionLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextAppearance = global::ControlloGiga.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextColor = global::ControlloGiga.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeBackground = global::ControlloGiga.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseButtonStyle = global::ControlloGiga.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseDrawable = global::ControlloGiga.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCopyDrawable = global::ControlloGiga.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCutDrawable = global::ControlloGiga.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeFindDrawable = global::ControlloGiga.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePasteDrawable = global::ControlloGiga.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePopupWindowStyle = global::ControlloGiga.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSelectAllDrawable = global::ControlloGiga.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeShareDrawable = global::ControlloGiga.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSplitBackground = global::ControlloGiga.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeStyle = global::ControlloGiga.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeWebSearchDrawable = global::ControlloGiga.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowButtonStyle = global::ControlloGiga.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowMenuStyle = global::ControlloGiga.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionProviderClass = global::ControlloGiga.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionViewClass = global::ControlloGiga.Resource.Attribute.actionViewClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.activityChooserViewStyle = global::ControlloGiga.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::ControlloGiga.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogCenterButtons = global::ControlloGiga.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogStyle = global::ControlloGiga.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogTheme = global::ControlloGiga.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.allowStacking = global::ControlloGiga.Resource.Attribute.allowStacking;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alpha = global::ControlloGiga.Resource.Attribute.alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alphabeticModifiers = global::ControlloGiga.Resource.Attribute.alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowHeadLength = global::ControlloGiga.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowShaftLength = global::ControlloGiga.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoCompleteTextViewStyle = global::ControlloGiga.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMaxTextSize = global::ControlloGiga.Resource.Attribute.autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMinTextSize = global::ControlloGiga.Resource.Attribute.autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizePresetSizes = global::ControlloGiga.Resource.Attribute.autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeStepGranularity = global::ControlloGiga.Resource.Attribute.autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeTextType = global::ControlloGiga.Resource.Attribute.autoSizeTextType;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.background = global::ControlloGiga.Resource.Attribute.background;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundSplit = global::ControlloGiga.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundStacked = global::ControlloGiga.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTint = global::ControlloGiga.Resource.Attribute.backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTintMode = global::ControlloGiga.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.barLength = global::ControlloGiga.Resource.Attribute.barLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_autoHide = global::ControlloGiga.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_fitToContents = global::ControlloGiga.Resource.Attribute.behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_hideable = global::ControlloGiga.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_overlapTop = global::ControlloGiga.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_peekHeight = global::ControlloGiga.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_skipCollapsed = global::ControlloGiga.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::ControlloGiga.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderWidth = global::ControlloGiga.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomAppBarStyle = global::ControlloGiga.Resource.Attribute.bottomAppBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomNavigationStyle = global::ControlloGiga.Resource.Attribute.bottomNavigationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::ControlloGiga.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetStyle = global::ControlloGiga.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxBackgroundColor = global::ControlloGiga.Resource.Attribute.boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxBackgroundMode = global::ControlloGiga.Resource.Attribute.boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCollapsedPaddingTop = global::ControlloGiga.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusBottomEnd = global::ControlloGiga.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusBottomStart = global::ControlloGiga.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopEnd = global::ControlloGiga.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopStart = global::ControlloGiga.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeColor = global::ControlloGiga.Resource.Attribute.boxStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeWidth = global::ControlloGiga.Resource.Attribute.boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarButtonStyle = global::ControlloGiga.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::ControlloGiga.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::ControlloGiga.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::ControlloGiga.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarStyle = global::ControlloGiga.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonGravity = global::ControlloGiga.Resource.Attribute.buttonGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonIconDimen = global::ControlloGiga.Resource.Attribute.buttonIconDimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonPanelSideLayout = global::ControlloGiga.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyle = global::ControlloGiga.Resource.Attribute.buttonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyleSmall = global::ControlloGiga.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTint = global::ControlloGiga.Resource.Attribute.buttonTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTintMode = global::ControlloGiga.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardBackgroundColor = global::ControlloGiga.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardCornerRadius = global::ControlloGiga.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardElevation = global::ControlloGiga.Resource.Attribute.cardElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardMaxElevation = global::ControlloGiga.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardPreventCornerOverlap = global::ControlloGiga.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardUseCompatPadding = global::ControlloGiga.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardViewStyle = global::ControlloGiga.Resource.Attribute.cardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkboxStyle = global::ControlloGiga.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedChip = global::ControlloGiga.Resource.Attribute.checkedChip;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIcon = global::ControlloGiga.Resource.Attribute.checkedIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIconEnabled = global::ControlloGiga.Resource.Attribute.checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIconVisible = global::ControlloGiga.Resource.Attribute.checkedIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedTextViewStyle = global::ControlloGiga.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipBackgroundColor = global::ControlloGiga.Resource.Attribute.chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipCornerRadius = global::ControlloGiga.Resource.Attribute.chipCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipEndPadding = global::ControlloGiga.Resource.Attribute.chipEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipGroupStyle = global::ControlloGiga.Resource.Attribute.chipGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIcon = global::ControlloGiga.Resource.Attribute.chipIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconEnabled = global::ControlloGiga.Resource.Attribute.chipIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconSize = global::ControlloGiga.Resource.Attribute.chipIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconTint = global::ControlloGiga.Resource.Attribute.chipIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconVisible = global::ControlloGiga.Resource.Attribute.chipIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipMinHeight = global::ControlloGiga.Resource.Attribute.chipMinHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacing = global::ControlloGiga.Resource.Attribute.chipSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacingHorizontal = global::ControlloGiga.Resource.Attribute.chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacingVertical = global::ControlloGiga.Resource.Attribute.chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStandaloneStyle = global::ControlloGiga.Resource.Attribute.chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStartPadding = global::ControlloGiga.Resource.Attribute.chipStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStrokeColor = global::ControlloGiga.Resource.Attribute.chipStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStrokeWidth = global::ControlloGiga.Resource.Attribute.chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStyle = global::ControlloGiga.Resource.Attribute.chipStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIcon = global::ControlloGiga.Resource.Attribute.closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconEnabled = global::ControlloGiga.Resource.Attribute.closeIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconEndPadding = global::ControlloGiga.Resource.Attribute.closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconSize = global::ControlloGiga.Resource.Attribute.closeIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconStartPadding = global::ControlloGiga.Resource.Attribute.closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconTint = global::ControlloGiga.Resource.Attribute.closeIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconVisible = global::ControlloGiga.Resource.Attribute.closeIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeItemLayout = global::ControlloGiga.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseContentDescription = global::ControlloGiga.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::ControlloGiga.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::ControlloGiga.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::ControlloGiga.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.color = global::ControlloGiga.Resource.Attribute.color;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorAccent = global::ControlloGiga.Resource.Attribute.colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorBackgroundFloating = global::ControlloGiga.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorButtonNormal = global::ControlloGiga.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlActivated = global::ControlloGiga.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlHighlight = global::ControlloGiga.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlNormal = global::ControlloGiga.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorError = global::ControlloGiga.Resource.Attribute.colorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimary = global::ControlloGiga.Resource.Attribute.colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimaryDark = global::ControlloGiga.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSecondary = global::ControlloGiga.Resource.Attribute.colorSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::ControlloGiga.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::ControlloGiga.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentDescription = global::ControlloGiga.Resource.Attribute.contentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEnd = global::ControlloGiga.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEndWithActions = global::ControlloGiga.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetLeft = global::ControlloGiga.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetRight = global::ControlloGiga.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStart = global::ControlloGiga.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStartWithNavigation = global::ControlloGiga.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPadding = global::ControlloGiga.Resource.Attribute.contentPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingBottom = global::ControlloGiga.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingLeft = global::ControlloGiga.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingRight = global::ControlloGiga.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingTop = global::ControlloGiga.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentScrim = global::ControlloGiga.Resource.Attribute.contentScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.controlBackground = global::ControlloGiga.Resource.Attribute.controlBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.coordinatorLayoutStyle = global::ControlloGiga.Resource.Attribute.coordinatorLayoutStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cornerRadius = global::ControlloGiga.Resource.Attribute.cornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterEnabled = global::ControlloGiga.Resource.Attribute.counterEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterMaxLength = global::ControlloGiga.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterOverflowTextAppearance = global::ControlloGiga.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterTextAppearance = global::ControlloGiga.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.customNavigationLayout = global::ControlloGiga.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.defaultQueryHint = global::ControlloGiga.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogCornerRadius = global::ControlloGiga.Resource.Attribute.dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogPreferredPadding = global::ControlloGiga.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogTheme = global::ControlloGiga.Resource.Attribute.dialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.displayOptions = global::ControlloGiga.Resource.Attribute.displayOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.divider = global::ControlloGiga.Resource.Attribute.divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerHorizontal = global::ControlloGiga.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerPadding = global::ControlloGiga.Resource.Attribute.dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerVertical = global::ControlloGiga.Resource.Attribute.dividerVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawableSize = global::ControlloGiga.Resource.Attribute.drawableSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawerArrowStyle = global::ControlloGiga.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::ControlloGiga.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropDownListViewStyle = global::ControlloGiga.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextBackground = global::ControlloGiga.Resource.Attribute.editTextBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextColor = global::ControlloGiga.Resource.Attribute.editTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextStyle = global::ControlloGiga.Resource.Attribute.editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.elevation = global::ControlloGiga.Resource.Attribute.elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceMaterialTheme = global::ControlloGiga.Resource.Attribute.enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceTextAppearance = global::ControlloGiga.Resource.Attribute.enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorEnabled = global::ControlloGiga.Resource.Attribute.errorEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorTextAppearance = global::ControlloGiga.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::ControlloGiga.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expanded = global::ControlloGiga.Resource.Attribute.expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleGravity = global::ControlloGiga.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMargin = global::ControlloGiga.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginBottom = global::ControlloGiga.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginEnd = global::ControlloGiga.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginStart = global::ControlloGiga.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginTop = global::ControlloGiga.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleTextAppearance = global::ControlloGiga.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabAlignmentMode = global::ControlloGiga.Resource.Attribute.fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleMargin = global::ControlloGiga.Resource.Attribute.fabCradleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleRoundedCornerRadius = global::ControlloGiga.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleVerticalOffset = global::ControlloGiga.Resource.Attribute.fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCustomSize = global::ControlloGiga.Resource.Attribute.fabCustomSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabSize = global::ControlloGiga.Resource.Attribute.fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollEnabled = global::ControlloGiga.Resource.Attribute.fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::ControlloGiga.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::ControlloGiga.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::ControlloGiga.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::ControlloGiga.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.firstBaselineToTopHeight = global::ControlloGiga.Resource.Attribute.firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.floatingActionButtonStyle = global::ControlloGiga.Resource.Attribute.floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.font = global::ControlloGiga.Resource.Attribute.font;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontFamily = global::ControlloGiga.Resource.Attribute.fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderAuthority = global::ControlloGiga.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderCerts = global::ControlloGiga.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchStrategy = global::ControlloGiga.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchTimeout = global::ControlloGiga.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderPackage = global::ControlloGiga.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderQuery = global::ControlloGiga.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontStyle = global::ControlloGiga.Resource.Attribute.fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontVariationSettings = global::ControlloGiga.Resource.Attribute.fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontWeight = global::ControlloGiga.Resource.Attribute.fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.foregroundInsidePadding = global::ControlloGiga.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.gapBetweenBars = global::ControlloGiga.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.goIcon = global::ControlloGiga.Resource.Attribute.goIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.headerLayout = global::ControlloGiga.Resource.Attribute.headerLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.height = global::ControlloGiga.Resource.Attribute.height;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperText = global::ControlloGiga.Resource.Attribute.helperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextEnabled = global::ControlloGiga.Resource.Attribute.helperTextEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextTextAppearance = global::ControlloGiga.Resource.Attribute.helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideMotionSpec = global::ControlloGiga.Resource.Attribute.hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnContentScroll = global::ControlloGiga.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnScroll = global::ControlloGiga.Resource.Attribute.hideOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintAnimationEnabled = global::ControlloGiga.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintEnabled = global::ControlloGiga.Resource.Attribute.hintEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintTextAppearance = global::ControlloGiga.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeAsUpIndicator = global::ControlloGiga.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeLayout = global::ControlloGiga.Resource.Attribute.homeLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hoveredFocusedTranslationZ = global::ControlloGiga.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::ControlloGiga.Resource.Attribute.icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconEndPadding = global::ControlloGiga.Resource.Attribute.iconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconGravity = global::ControlloGiga.Resource.Attribute.iconGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::ControlloGiga.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconPadding = global::ControlloGiga.Resource.Attribute.iconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconSize = global::ControlloGiga.Resource.Attribute.iconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconStartPadding = global::ControlloGiga.Resource.Attribute.iconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTint = global::ControlloGiga.Resource.Attribute.iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTintMode = global::ControlloGiga.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.imageButtonStyle = global::ControlloGiga.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.indeterminateProgressStyle = global::ControlloGiga.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.initialActivityCount = global::ControlloGiga.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.insetForeground = global::ControlloGiga.Resource.Attribute.insetForeground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.isLightTheme = global::ControlloGiga.Resource.Attribute.isLightTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemBackground = global::ControlloGiga.Resource.Attribute.itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalPadding = global::ControlloGiga.Resource.Attribute.itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalTranslationEnabled = global::ControlloGiga.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconPadding = global::ControlloGiga.Resource.Attribute.itemIconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconSize = global::ControlloGiga.Resource.Attribute.itemIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconTint = global::ControlloGiga.Resource.Attribute.itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemPadding = global::ControlloGiga.Resource.Attribute.itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemSpacing = global::ControlloGiga.Resource.Attribute.itemSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearance = global::ControlloGiga.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearanceActive = global::ControlloGiga.Resource.Attribute.itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearanceInactive = global::ControlloGiga.Resource.Attribute.itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextColor = global::ControlloGiga.Resource.Attribute.itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.keylines = global::ControlloGiga.Resource.Attribute.keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.labelVisibilityMode = global::ControlloGiga.Resource.Attribute.labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lastBaselineToBottomHeight = global::ControlloGiga.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout = global::ControlloGiga.Resource.Attribute.layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layoutManager = global::ControlloGiga.Resource.Attribute.layoutManager;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchor = global::ControlloGiga.Resource.Attribute.layout_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchorGravity = global::ControlloGiga.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_behavior = global::ControlloGiga.Resource.Attribute.layout_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseMode = global::ControlloGiga.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::ControlloGiga.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_dodgeInsetEdges = global::ControlloGiga.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_insetEdge = global::ControlloGiga.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_keyline = global::ControlloGiga.Resource.Attribute.layout_keyline;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollFlags = global::ControlloGiga.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollInterpolator = global::ControlloGiga.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.liftOnScroll = global::ControlloGiga.Resource.Attribute.liftOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineHeight = global::ControlloGiga.Resource.Attribute.lineHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineSpacing = global::ControlloGiga.Resource.Attribute.lineSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::ControlloGiga.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listDividerAlertDialog = global::ControlloGiga.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listItemLayout = global::ControlloGiga.Resource.Attribute.listItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listLayout = global::ControlloGiga.Resource.Attribute.listLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listMenuViewStyle = global::ControlloGiga.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPopupWindowStyle = global::ControlloGiga.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeight = global::ControlloGiga.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightLarge = global::ControlloGiga.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightSmall = global::ControlloGiga.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::ControlloGiga.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingRight = global::ControlloGiga.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logo = global::ControlloGiga.Resource.Attribute.logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logoDescription = global::ControlloGiga.Resource.Attribute.logoDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialButtonStyle = global::ControlloGiga.Resource.Attribute.materialButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialCardViewStyle = global::ControlloGiga.Resource.Attribute.materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::ControlloGiga.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxButtonHeight = global::ControlloGiga.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxImageSize = global::ControlloGiga.Resource.Attribute.maxImageSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.measureWithLargestChild = global::ControlloGiga.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.menu = global::ControlloGiga.Resource.Attribute.menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.multiChoiceItemLayout = global::ControlloGiga.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationContentDescription = global::ControlloGiga.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationIcon = global::ControlloGiga.Resource.Attribute.navigationIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationMode = global::ControlloGiga.Resource.Attribute.navigationMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationViewStyle = global::ControlloGiga.Resource.Attribute.navigationViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.numericModifiers = global::ControlloGiga.Resource.Attribute.numericModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.overlapAnchor = global::ControlloGiga.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingBottomNoButtons = global::ControlloGiga.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingEnd = global::ControlloGiga.Resource.Attribute.paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingStart = global::ControlloGiga.Resource.Attribute.paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingTopNoTitle = global::ControlloGiga.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelBackground = global::ControlloGiga.Resource.Attribute.panelBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListTheme = global::ControlloGiga.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListWidth = global::ControlloGiga.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleContentDescription = global::ControlloGiga.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleDrawable = global::ControlloGiga.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleEnabled = global::ControlloGiga.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTint = global::ControlloGiga.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTintMode = global::ControlloGiga.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupMenuStyle = global::ControlloGiga.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupTheme = global::ControlloGiga.Resource.Attribute.popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupWindowStyle = global::ControlloGiga.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.preserveIconSpacing = global::ControlloGiga.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.pressedTranslationZ = global::ControlloGiga.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarPadding = global::ControlloGiga.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarStyle = global::ControlloGiga.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryBackground = global::ControlloGiga.Resource.Attribute.queryBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryHint = global::ControlloGiga.Resource.Attribute.queryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.radioButtonStyle = global::ControlloGiga.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyle = global::ControlloGiga.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleIndicator = global::ControlloGiga.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleSmall = global::ControlloGiga.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.reverseLayout = global::ControlloGiga.Resource.Attribute.reverseLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.rippleColor = global::ControlloGiga.Resource.Attribute.rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimAnimationDuration = global::ControlloGiga.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimBackground = global::ControlloGiga.Resource.Attribute.scrimBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::ControlloGiga.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchHintIcon = global::ControlloGiga.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchIcon = global::ControlloGiga.Resource.Attribute.searchIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchViewStyle = global::ControlloGiga.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.seekBarStyle = global::ControlloGiga.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackground = global::ControlloGiga.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::ControlloGiga.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showAsAction = global::ControlloGiga.Resource.Attribute.showAsAction;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showDividers = global::ControlloGiga.Resource.Attribute.showDividers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showMotionSpec = global::ControlloGiga.Resource.Attribute.showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showText = global::ControlloGiga.Resource.Attribute.showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showTitle = global::ControlloGiga.Resource.Attribute.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleChoiceItemLayout = global::ControlloGiga.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleLine = global::ControlloGiga.Resource.Attribute.singleLine;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleSelection = global::ControlloGiga.Resource.Attribute.singleSelection;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarButtonStyle = global::ControlloGiga.Resource.Attribute.snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarStyle = global::ControlloGiga.Resource.Attribute.snackbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spanCount = global::ControlloGiga.Resource.Attribute.spanCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinBars = global::ControlloGiga.Resource.Attribute.spinBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerDropDownItemStyle = global::ControlloGiga.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerStyle = global::ControlloGiga.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.splitTrack = global::ControlloGiga.Resource.Attribute.splitTrack;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.srcCompat = global::ControlloGiga.Resource.Attribute.srcCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.stackFromEnd = global::ControlloGiga.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_above_anchor = global::ControlloGiga.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsed = global::ControlloGiga.Resource.Attribute.state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsible = global::ControlloGiga.Resource.Attribute.state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_liftable = global::ControlloGiga.Resource.Attribute.state_liftable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_lifted = global::ControlloGiga.Resource.Attribute.state_lifted;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarBackground = global::ControlloGiga.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarScrim = global::ControlloGiga.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeColor = global::ControlloGiga.Resource.Attribute.strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeWidth = global::ControlloGiga.Resource.Attribute.strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subMenuArrow = global::ControlloGiga.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.submitBackground = global::ControlloGiga.Resource.Attribute.submitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitle = global::ControlloGiga.Resource.Attribute.subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextAppearance = global::ControlloGiga.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextColor = global::ControlloGiga.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextStyle = global::ControlloGiga.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.suggestionRowLayout = global::ControlloGiga.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchMinWidth = global::ControlloGiga.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchPadding = global::ControlloGiga.Resource.Attribute.switchPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchStyle = global::ControlloGiga.Resource.Attribute.switchStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchTextAppearance = global::ControlloGiga.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabBackground = global::ControlloGiga.Resource.Attribute.tabBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabContentStart = global::ControlloGiga.Resource.Attribute.tabContentStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabGravity = global::ControlloGiga.Resource.Attribute.tabGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTint = global::ControlloGiga.Resource.Attribute.tabIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTintMode = global::ControlloGiga.Resource.Attribute.tabIconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicator = global::ControlloGiga.Resource.Attribute.tabIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorAnimationDuration = global::ControlloGiga.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorColor = global::ControlloGiga.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorFullWidth = global::ControlloGiga.Resource.Attribute.tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorGravity = global::ControlloGiga.Resource.Attribute.tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::ControlloGiga.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabInlineLabel = global::ControlloGiga.Resource.Attribute.tabInlineLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMaxWidth = global::ControlloGiga.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMinWidth = global::ControlloGiga.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMode = global::ControlloGiga.Resource.Attribute.tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPadding = global::ControlloGiga.Resource.Attribute.tabPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingBottom = global::ControlloGiga.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingEnd = global::ControlloGiga.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingStart = global::ControlloGiga.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingTop = global::ControlloGiga.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabRippleColor = global::ControlloGiga.Resource.Attribute.tabRippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::ControlloGiga.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabStyle = global::ControlloGiga.Resource.Attribute.tabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextAppearance = global::ControlloGiga.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextColor = global::ControlloGiga.Resource.Attribute.tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabUnboundedRipple = global::ControlloGiga.Resource.Attribute.tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAllCaps = global::ControlloGiga.Resource.Attribute.textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceBody1 = global::ControlloGiga.Resource.Attribute.textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceBody2 = global::ControlloGiga.Resource.Attribute.textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceButton = global::ControlloGiga.Resource.Attribute.textAppearanceButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceCaption = global::ControlloGiga.Resource.Attribute.textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline1 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline2 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline3 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline4 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline5 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline6 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::ControlloGiga.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItem = global::ControlloGiga.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSecondary = global::ControlloGiga.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSmall = global::ControlloGiga.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceOverline = global::ControlloGiga.Resource.Attribute.textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::ControlloGiga.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::ControlloGiga.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::ControlloGiga.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::ControlloGiga.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle1 = global::ControlloGiga.Resource.Attribute.textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle2 = global::ControlloGiga.Resource.Attribute.textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::ControlloGiga.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorSearchUrl = global::ControlloGiga.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textEndPadding = global::ControlloGiga.Resource.Attribute.textEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textInputStyle = global::ControlloGiga.Resource.Attribute.textInputStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textStartPadding = global::ControlloGiga.Resource.Attribute.textStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.theme = global::ControlloGiga.Resource.Attribute.theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thickness = global::ControlloGiga.Resource.Attribute.thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTextPadding = global::ControlloGiga.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTint = global::ControlloGiga.Resource.Attribute.thumbTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTintMode = global::ControlloGiga.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMark = global::ControlloGiga.Resource.Attribute.tickMark;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTint = global::ControlloGiga.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTintMode = global::ControlloGiga.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tint = global::ControlloGiga.Resource.Attribute.tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tintMode = global::ControlloGiga.Resource.Attribute.tintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.title = global::ControlloGiga.Resource.Attribute.title;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleEnabled = global::ControlloGiga.Resource.Attribute.titleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargin = global::ControlloGiga.Resource.Attribute.titleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginBottom = global::ControlloGiga.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginEnd = global::ControlloGiga.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargins = global::ControlloGiga.Resource.Attribute.titleMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginStart = global::ControlloGiga.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginTop = global::ControlloGiga.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextAppearance = global::ControlloGiga.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextColor = global::ControlloGiga.Resource.Attribute.titleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextStyle = global::ControlloGiga.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarId = global::ControlloGiga.Resource.Attribute.toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::ControlloGiga.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarStyle = global::ControlloGiga.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipForegroundColor = global::ControlloGiga.Resource.Attribute.tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipFrameBackground = global::ControlloGiga.Resource.Attribute.tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipText = global::ControlloGiga.Resource.Attribute.tooltipText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.track = global::ControlloGiga.Resource.Attribute.track;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTint = global::ControlloGiga.Resource.Attribute.trackTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTintMode = global::ControlloGiga.Resource.Attribute.trackTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ttcIndex = global::ControlloGiga.Resource.Attribute.ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.useCompatPadding = global::ControlloGiga.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.viewInflaterClass = global::ControlloGiga.Resource.Attribute.viewInflaterClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.voiceIcon = global::ControlloGiga.Resource.Attribute.voiceIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBar = global::ControlloGiga.Resource.Attribute.windowActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBarOverlay = global::ControlloGiga.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionModeOverlay = global::ControlloGiga.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMajor = global::ControlloGiga.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMinor = global::ControlloGiga.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMajor = global::ControlloGiga.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMinor = global::ControlloGiga.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMajor = global::ControlloGiga.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMinor = global::ControlloGiga.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowNoTitle = global::ControlloGiga.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::ControlloGiga.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::ControlloGiga.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::ControlloGiga.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::ControlloGiga.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::ControlloGiga.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::ControlloGiga.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::ControlloGiga.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_text_material = global::ControlloGiga.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_color_highlight_material = global::ControlloGiga.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_dark = global::ControlloGiga.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_light = global::ControlloGiga.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_input_method_navigation_guard = global::ControlloGiga.Resource.Color.abc_input_method_navigation_guard;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::ControlloGiga.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::ControlloGiga.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_dark = global::ControlloGiga.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_light = global::ControlloGiga.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text = global::ControlloGiga.Resource.Color.abc_search_url_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_normal = global::ControlloGiga.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_pressed = global::ControlloGiga.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_selected = global::ControlloGiga.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_dark = global::ControlloGiga.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_light = global::ControlloGiga.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_btn_checkable = global::ControlloGiga.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_default = global::ControlloGiga.Resource.Color.abc_tint_default;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_edittext = global::ControlloGiga.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_seek_thumb = global::ControlloGiga.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_spinner = global::ControlloGiga.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_switch_track = global::ControlloGiga.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_dark = global::ControlloGiga.Resource.Color.accent_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_light = global::ControlloGiga.Resource.Color.accent_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_dark = global::ControlloGiga.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_light = global::ControlloGiga.Resource.Color.background_floating_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_dark = global::ControlloGiga.Resource.Color.background_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_light = global::ControlloGiga.Resource.Color.background_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_dark = global::ControlloGiga.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_light = global::ControlloGiga.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_dark = global::ControlloGiga.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_light = global::ControlloGiga.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_dark = global::ControlloGiga.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_light = global::ControlloGiga.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_dark = global::ControlloGiga.Resource.Color.button_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_light = global::ControlloGiga.Resource.Color.button_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_dark_background = global::ControlloGiga.Resource.Color.cardview_dark_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_light_background = global::ControlloGiga.Resource.Color.cardview_light_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_end_color = global::ControlloGiga.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_start_color = global::ControlloGiga.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_bottom_navigation_shadow_color = global::ControlloGiga.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary = global::ControlloGiga.Resource.Color.design_default_color_primary;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary_dark = global::ControlloGiga.Resource.Color.design_default_color_primary_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_error = global::ControlloGiga.Resource.Color.design_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_end_color = global::ControlloGiga.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_mid_color = global::ControlloGiga.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_start_color = global::ControlloGiga.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_inner_color = global::ControlloGiga.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_outer_color = global::ControlloGiga.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_inner_color = global::ControlloGiga.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_outer_color = global::ControlloGiga.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_snackbar_background_color = global::ControlloGiga.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_tint_password_toggle = global::ControlloGiga.Resource.Color.design_tint_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_dark = global::ControlloGiga.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_light = global::ControlloGiga.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_dark = global::ControlloGiga.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_light = global::ControlloGiga.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_dark = global::ControlloGiga.Resource.Color.error_color_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_light = global::ControlloGiga.Resource.Color.error_color_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_dark = global::ControlloGiga.Resource.Color.foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_light = global::ControlloGiga.Resource.Color.foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_dark = global::ControlloGiga.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_light = global::ControlloGiga.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_800 = global::ControlloGiga.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_900 = global::ControlloGiga.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_950 = global::ControlloGiga.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_200 = global::ControlloGiga.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_500 = global::ControlloGiga.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_100 = global::ControlloGiga.Resource.Color.material_grey_100;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_300 = global::ControlloGiga.Resource.Color.material_grey_300;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_50 = global::ControlloGiga.Resource.Color.material_grey_50;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_600 = global::ControlloGiga.Resource.Color.material_grey_600;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_800 = global::ControlloGiga.Resource.Color.material_grey_800;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_850 = global::ControlloGiga.Resource.Color.material_grey_850;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_900 = global::ControlloGiga.Resource.Color.material_grey_900;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::ControlloGiga.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_item_tint = global::ControlloGiga.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_disabled = global::ControlloGiga.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_selector = global::ControlloGiga.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_ripple_color = global::ControlloGiga.Resource.Color.mtrl_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_stroke_color_selector = global::ControlloGiga.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_btn_ripple_color = global::ControlloGiga.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_color_disabled = global::ControlloGiga.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_color_selector = global::ControlloGiga.Resource.Color.mtrl_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_transparent_bg_color = global::ControlloGiga.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_background_color = global::ControlloGiga.Resource.Color.mtrl_chip_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_close_icon_tint = global::ControlloGiga.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_ripple_color = global::ControlloGiga.Resource.Color.mtrl_chip_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_text_color = global::ControlloGiga.Resource.Color.mtrl_chip_text_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_fab_ripple_color = global::ControlloGiga.Resource.Color.mtrl_fab_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_scrim_color = global::ControlloGiga.Resource.Color.mtrl_scrim_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_colored_ripple_color = global::ControlloGiga.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector = global::ControlloGiga.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::ControlloGiga.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::ControlloGiga.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_ripple_color = global::ControlloGiga.Resource.Color.mtrl_tabs_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_default_box_stroke_color = global::ControlloGiga.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_disabled_color = global::ControlloGiga.Resource.Color.mtrl_textinput_disabled_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::ControlloGiga.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::ControlloGiga.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::ControlloGiga.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_action_color_filter = global::ControlloGiga.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_icon_bg_color = global::ControlloGiga.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_material_background_media_default_color = global::ControlloGiga.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_dark = global::ControlloGiga.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_light = global::ControlloGiga.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_dark = global::ControlloGiga.Resource.Color.primary_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_light = global::ControlloGiga.Resource.Color.primary_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_dark = global::ControlloGiga.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_light = global::ControlloGiga.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_dark = global::ControlloGiga.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_light = global::ControlloGiga.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_dark = global::ControlloGiga.Resource.Color.ripple_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_light = global::ControlloGiga.Resource.Color.ripple_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_dark = global::ControlloGiga.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_light = global::ControlloGiga.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_dark = global::ControlloGiga.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_light = global::ControlloGiga.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_dark = global::ControlloGiga.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_light = global::ControlloGiga.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_dark = global::ControlloGiga.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_light = global::ControlloGiga.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_dark = global::ControlloGiga.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_light = global::ControlloGiga.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_dark = global::ControlloGiga.Resource.Color.tooltip_background_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_light = global::ControlloGiga.Resource.Color.tooltip_background_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::ControlloGiga.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_height_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_elevation_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::ControlloGiga.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::ControlloGiga.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_height_material = global::ControlloGiga.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_material = global::ControlloGiga.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::ControlloGiga.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::ControlloGiga.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_dimen = global::ControlloGiga.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::ControlloGiga.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_vertical_material = global::ControlloGiga.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::ControlloGiga.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_vertical_material = global::ControlloGiga.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::ControlloGiga.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_config_prefDialogWidth = global::ControlloGiga.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_corner_material = global::ControlloGiga.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_inset_material = global::ControlloGiga.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_padding_material = global::ControlloGiga.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_corner_radius_material = global::ControlloGiga.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::ControlloGiga.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::ControlloGiga.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::ControlloGiga.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::ControlloGiga.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::ControlloGiga.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::ControlloGiga.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_major = global::ControlloGiga.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_minor = global::ControlloGiga.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_material = global::ControlloGiga.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_top_material = global::ControlloGiga.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_title_divider_material = global::ControlloGiga.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::ControlloGiga.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::ControlloGiga.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::ControlloGiga.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::ControlloGiga.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::ControlloGiga.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::ControlloGiga.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::ControlloGiga.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::ControlloGiga.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_floating_window_z = global::ControlloGiga.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::ControlloGiga.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_panel_menu_list_width = global::ControlloGiga.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_progress_bar_height_material = global::ControlloGiga.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_height = global::ControlloGiga.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_width = global::ControlloGiga.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::ControlloGiga.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::ControlloGiga.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::ControlloGiga.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_switch_padding = global::ControlloGiga.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_1_material = global::ControlloGiga.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_2_material = global::ControlloGiga.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_button_material = global::ControlloGiga.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_caption_material = global::ControlloGiga.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_1_material = global::ControlloGiga.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_2_material = global::ControlloGiga.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_3_material = global::ControlloGiga.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_4_material = global::ControlloGiga.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_headline_material = global::ControlloGiga.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_large_material = global::ControlloGiga.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_medium_material = global::ControlloGiga.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_header_material = global::ControlloGiga.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_material = global::ControlloGiga.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_small_material = global::ControlloGiga.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subhead_material = global::ControlloGiga.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::ControlloGiga.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material = global::ControlloGiga.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::ControlloGiga.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_compat_inset_shadow = global::ControlloGiga.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_elevation = global::ControlloGiga.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_radius = global::ControlloGiga.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::ControlloGiga.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_vertical_material = global::ControlloGiga.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::ControlloGiga.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_vertical_material = global::ControlloGiga.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_control_corner_material = global::ControlloGiga.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_height = global::ControlloGiga.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_width = global::ControlloGiga.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::ControlloGiga.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_elevation = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_height = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_icon_size = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_margin = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_text_size = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::ControlloGiga.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::ControlloGiga.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_border_width = global::ControlloGiga.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_elevation = global::ControlloGiga.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_image_size = global::ControlloGiga.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_mini = global::ControlloGiga.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_normal = global::ControlloGiga.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_hovered_focused = global::ControlloGiga.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_pressed = global::ControlloGiga.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_elevation = global::ControlloGiga.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_padding = global::ControlloGiga.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_size = global::ControlloGiga.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_horizontal_padding = global::ControlloGiga.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_icon_padding = global::ControlloGiga.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_max_width = global::ControlloGiga.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_padding_bottom = global::ControlloGiga.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::ControlloGiga.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::ControlloGiga.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::ControlloGiga.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_elevation = global::ControlloGiga.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::ControlloGiga.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_max_width = global::ControlloGiga.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_min_width = global::ControlloGiga.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::ControlloGiga.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical = global::ControlloGiga.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::ControlloGiga.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_text_size = global::ControlloGiga.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_max_width = global::ControlloGiga.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_scrollable_min_width = global::ControlloGiga.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size = global::ControlloGiga.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size_2line = global::ControlloGiga.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_textinput_caption_translate_y = global::ControlloGiga.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_dark = global::ControlloGiga.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_light = global::ControlloGiga.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_default_thickness = global::ControlloGiga.Resource.Dimension.fastscroll_default_thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_margin = global::ControlloGiga.Resource.Dimension.fastscroll_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_minimum_range = global::ControlloGiga.Resource.Dimension.fastscroll_minimum_range;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_colored = global::ControlloGiga.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_dark = global::ControlloGiga.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_light = global::ControlloGiga.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_dark = global::ControlloGiga.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_light = global::ControlloGiga.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::ControlloGiga.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::ControlloGiga.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::ControlloGiga.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::ControlloGiga.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::ControlloGiga.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_height = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_corner_radius = global::ControlloGiga.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::ControlloGiga.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_disabled_elevation = global::ControlloGiga.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_disabled_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_elevation = global::ControlloGiga.Resource.Dimension.mtrl_btn_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_focused_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_focused_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_hovered_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::ControlloGiga.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_icon_padding = global::ControlloGiga.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_inset = global::ControlloGiga.Resource.Dimension.mtrl_btn_inset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_letter_spacing = global::ControlloGiga.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_bottom = global::ControlloGiga.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_left = global::ControlloGiga.Resource.Dimension.mtrl_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_right = global::ControlloGiga.Resource.Dimension.mtrl_btn_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_top = global::ControlloGiga.Resource.Dimension.mtrl_btn_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_pressed_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_stroke_size = global::ControlloGiga.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::ControlloGiga.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::ControlloGiga.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::ControlloGiga.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_size = global::ControlloGiga.Resource.Dimension.mtrl_btn_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_elevation = global::ControlloGiga.Resource.Dimension.mtrl_card_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_spacing = global::ControlloGiga.Resource.Dimension.mtrl_card_spacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_pressed_translation_z = global::ControlloGiga.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_text_size = global::ControlloGiga.Resource.Dimension.mtrl_chip_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_elevation = global::ControlloGiga.Resource.Dimension.mtrl_fab_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::ControlloGiga.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_translation_z_pressed = global::ControlloGiga.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_elevation = global::ControlloGiga.Resource.Dimension.mtrl_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::ControlloGiga.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_item_icon_padding = global::ControlloGiga.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::ControlloGiga.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_margin = global::ControlloGiga.Resource.Dimension.mtrl_snackbar_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_padding_end = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::ControlloGiga.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_toolbar_default_height = global::ControlloGiga.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_icon_size = global::ControlloGiga.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_text_size = global::ControlloGiga.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_big_circle_margin = global::ControlloGiga.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_content_margin_start = global::ControlloGiga.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_height = global::ControlloGiga.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_width = global::ControlloGiga.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_main_column_padding_top = global::ControlloGiga.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_media_narrow_margin = global::ControlloGiga.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_icon_size = global::ControlloGiga.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_side_padding_top = global::ControlloGiga.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_background_padding = global::ControlloGiga.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_size_as_large = global::ControlloGiga.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_subtext_size = global::ControlloGiga.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad = global::ControlloGiga.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad_large_text = global::ControlloGiga.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_corner_radius = global::ControlloGiga.Resource.Dimension.subtitle_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_outline_width = global::ControlloGiga.Resource.Dimension.subtitle_outline_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_offset = global::ControlloGiga.Resource.Dimension.subtitle_shadow_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_radius = global::ControlloGiga.Resource.Dimension.subtitle_shadow_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_corner_radius = global::ControlloGiga.Resource.Dimension.tooltip_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_horizontal_padding = global::ControlloGiga.Resource.Dimension.tooltip_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_margin = global::ControlloGiga.Resource.Dimension.tooltip_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::ControlloGiga.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::ControlloGiga.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_vertical_padding = global::ControlloGiga.Resource.Dimension.tooltip_vertical_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::ControlloGiga.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_touch = global::ControlloGiga.Resource.Dimension.tooltip_y_offset_touch;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_action_bar_item_background_material = global::ControlloGiga.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_borderless_material = global::ControlloGiga.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_material = global::ControlloGiga.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::ControlloGiga.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::ControlloGiga.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_colored_material = global::ControlloGiga.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::ControlloGiga.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_material = global::ControlloGiga.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::ControlloGiga.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::ControlloGiga.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::ControlloGiga.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::ControlloGiga.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_internal_bg = global::ControlloGiga.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_material = global::ControlloGiga.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_control_background_material = global::ControlloGiga.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_dialog_material_background = global::ControlloGiga.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_edit_text_material = global::ControlloGiga.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_ab_back_material = global::ControlloGiga.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::ControlloGiga.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_clear_material = global::ControlloGiga.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_go_search_api_material = global::ControlloGiga.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::ControlloGiga.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_search_api_material = global::ControlloGiga.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_16dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_36dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_48dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::ControlloGiga.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_dark = global::ControlloGiga.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_light = global::ControlloGiga.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_material = global::ControlloGiga.Resource.Drawable.abc_list_divider_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_focused_holo = global::ControlloGiga.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_longpressed_holo = global::ControlloGiga.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::ControlloGiga.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_light = global::ControlloGiga.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::ControlloGiga.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::ControlloGiga.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::ControlloGiga.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::ControlloGiga.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_dark = global::ControlloGiga.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_light = global::ControlloGiga.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::ControlloGiga.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::ControlloGiga.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::ControlloGiga.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_material = global::ControlloGiga.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_small_material = global::ControlloGiga.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::ControlloGiga.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::ControlloGiga.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_thumb_material = global::ControlloGiga.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::ControlloGiga.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_track_material = global::ControlloGiga.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::ControlloGiga.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::ControlloGiga.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_thumb_material = global::ControlloGiga.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_material = global::ControlloGiga.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::ControlloGiga.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_cursor_material = global::ControlloGiga.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_vector_test = global::ControlloGiga.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_hide_password = global::ControlloGiga.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_show_password = global::ControlloGiga.Resource.Drawable.avd_show_password;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_bottom_navigation_item_background = global::ControlloGiga.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_fab_background = global::ControlloGiga.Resource.Drawable.design_fab_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility = global::ControlloGiga.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility_off = global::ControlloGiga.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_password_eye = global::ControlloGiga.Resource.Drawable.design_password_eye;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_snackbar_background = global::ControlloGiga.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_black = global::ControlloGiga.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_circle = global::ControlloGiga.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_close_circle = global::ControlloGiga.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_snackbar_background = global::ControlloGiga.Resource.Drawable.mtrl_snackbar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_tabs_default_indicator = global::ControlloGiga.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.navigation_empty_icon = global::ControlloGiga.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_action_background = global::ControlloGiga.Resource.Drawable.notification_action_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg = global::ControlloGiga.Resource.Drawable.notification_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low = global::ControlloGiga.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_normal = global::ControlloGiga.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_pressed = global::ControlloGiga.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal = global::ControlloGiga.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal_pressed = global::ControlloGiga.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_icon_background = global::ControlloGiga.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_bg = global::ControlloGiga.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_low_bg = global::ControlloGiga.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_tile_bg = global::ControlloGiga.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::ControlloGiga.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_dark = global::ControlloGiga.Resource.Drawable.tooltip_frame_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_light = global::ControlloGiga.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action0 = global::ControlloGiga.Resource.Id.action0;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.actions = global::ControlloGiga.Resource.Id.actions;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar = global::ControlloGiga.Resource.Id.action_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_activity_content = global::ControlloGiga.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_container = global::ControlloGiga.Resource.Id.action_bar_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_root = global::ControlloGiga.Resource.Id.action_bar_root;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_spinner = global::ControlloGiga.Resource.Id.action_bar_spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_subtitle = global::ControlloGiga.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_title = global::ControlloGiga.Resource.Id.action_bar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_container = global::ControlloGiga.Resource.Id.action_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_context_bar = global::ControlloGiga.Resource.Id.action_context_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_divider = global::ControlloGiga.Resource.Id.action_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_image = global::ControlloGiga.Resource.Id.action_image;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_divider = global::ControlloGiga.Resource.Id.action_menu_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_presenter = global::ControlloGiga.Resource.Id.action_menu_presenter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar = global::ControlloGiga.Resource.Id.action_mode_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar_stub = global::ControlloGiga.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_close_button = global::ControlloGiga.Resource.Id.action_mode_close_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_text = global::ControlloGiga.Resource.Id.action_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.activity_chooser_view_content = global::ControlloGiga.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.add = global::ControlloGiga.Resource.Id.add;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.alertTitle = global::ControlloGiga.Resource.Id.alertTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.all = global::ControlloGiga.Resource.Id.all;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ALT = global::ControlloGiga.Resource.Id.ALT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.always = global::ControlloGiga.Resource.Id.always;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.async = global::ControlloGiga.Resource.Id.async;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.auto = global::ControlloGiga.Resource.Id.auto;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.beginning = global::ControlloGiga.Resource.Id.beginning;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.blocking = global::ControlloGiga.Resource.Id.blocking;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottom = global::ControlloGiga.Resource.Id.bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_navarea = global::ControlloGiga.Resource.Id.bottomtab_navarea;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_tabbar = global::ControlloGiga.Resource.Id.bottomtab_tabbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.buttonPanel = global::ControlloGiga.Resource.Id.buttonPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.cancel_action = global::ControlloGiga.Resource.Id.cancel_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center = global::ControlloGiga.Resource.Id.center;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center_horizontal = global::ControlloGiga.Resource.Id.center_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center_vertical = global::ControlloGiga.Resource.Id.center_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.checkbox = global::ControlloGiga.Resource.Id.checkbox;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.chronometer = global::ControlloGiga.Resource.Id.chronometer;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_horizontal = global::ControlloGiga.Resource.Id.clip_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_vertical = global::ControlloGiga.Resource.Id.clip_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.collapseActionView = global::ControlloGiga.Resource.Id.collapseActionView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.container = global::ControlloGiga.Resource.Id.container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.content = global::ControlloGiga.Resource.Id.content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.contentPanel = global::ControlloGiga.Resource.Id.contentPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.coordinator = global::ControlloGiga.Resource.Id.coordinator;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.CTRL = global::ControlloGiga.Resource.Id.CTRL;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.custom = global::ControlloGiga.Resource.Id.custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.customPanel = global::ControlloGiga.Resource.Id.customPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.decor_content_parent = global::ControlloGiga.Resource.Id.decor_content_parent;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.default_activity_button = global::ControlloGiga.Resource.Id.default_activity_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_bottom_sheet = global::ControlloGiga.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area = global::ControlloGiga.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area_stub = global::ControlloGiga.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_text = global::ControlloGiga.Resource.Id.design_menu_item_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_navigation_view = global::ControlloGiga.Resource.Id.design_navigation_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.disableHome = global::ControlloGiga.Resource.Id.disableHome;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.edit_query = global::ControlloGiga.Resource.Id.edit_query;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.end = global::ControlloGiga.Resource.Id.end;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.end_padder = global::ControlloGiga.Resource.Id.end_padder;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlways = global::ControlloGiga.Resource.Id.enterAlways;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlwaysCollapsed = global::ControlloGiga.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.exitUntilCollapsed = global::ControlloGiga.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expanded_menu = global::ControlloGiga.Resource.Id.expanded_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expand_activities_button = global::ControlloGiga.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill = global::ControlloGiga.Resource.Id.fill;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.filled = global::ControlloGiga.Resource.Id.filled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_horizontal = global::ControlloGiga.Resource.Id.fill_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_vertical = global::ControlloGiga.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.@fixed = global::ControlloGiga.Resource.Id.@fixed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_appbar = global::ControlloGiga.Resource.Id.flyoutcontent_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_recycler = global::ControlloGiga.Resource.Id.flyoutcontent_recycler;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.forever = global::ControlloGiga.Resource.Id.forever;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.FUNCTION = global::ControlloGiga.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ghost_view = global::ControlloGiga.Resource.Id.ghost_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.group_divider = global::ControlloGiga.Resource.Id.group_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.home = global::ControlloGiga.Resource.Id.home;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.homeAsUp = global::ControlloGiga.Resource.Id.homeAsUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.icon = global::ControlloGiga.Resource.Id.icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.icon_group = global::ControlloGiga.Resource.Id.icon_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ifRoom = global::ControlloGiga.Resource.Id.ifRoom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.image = global::ControlloGiga.Resource.Id.image;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.info = global::ControlloGiga.Resource.Id.info;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.italic = global::ControlloGiga.Resource.Id.italic;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.item_touch_helper_previous_elevation = global::ControlloGiga.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.labeled = global::ControlloGiga.Resource.Id.labeled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.largeLabel = global::ControlloGiga.Resource.Id.largeLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.left = global::ControlloGiga.Resource.Id.left;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.line1 = global::ControlloGiga.Resource.Id.line1;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.line3 = global::ControlloGiga.Resource.Id.line3;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.listMode = global::ControlloGiga.Resource.Id.listMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.list_item = global::ControlloGiga.Resource.Id.list_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_appbar = global::ControlloGiga.Resource.Id.main_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_tablayout = global::ControlloGiga.Resource.Id.main_tablayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_toolbar = global::ControlloGiga.Resource.Id.main_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_viewpager = global::ControlloGiga.Resource.Id.main_viewpager;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.masked = global::ControlloGiga.Resource.Id.masked;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.media_actions = global::ControlloGiga.Resource.Id.media_actions;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.message = global::ControlloGiga.Resource.Id.message;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.META = global::ControlloGiga.Resource.Id.META;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.middle = global::ControlloGiga.Resource.Id.middle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mini = global::ControlloGiga.Resource.Id.mini;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_child_content_container = global::ControlloGiga.Resource.Id.mtrl_child_content_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_internal_children_alpha_tag = global::ControlloGiga.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.multiply = global::ControlloGiga.Resource.Id.multiply;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.navigation_header_container = global::ControlloGiga.Resource.Id.navigation_header_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.never = global::ControlloGiga.Resource.Id.never;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.none = global::ControlloGiga.Resource.Id.none;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.normal = global::ControlloGiga.Resource.Id.normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_background = global::ControlloGiga.Resource.Id.notification_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column = global::ControlloGiga.Resource.Id.notification_main_column;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column_container = global::ControlloGiga.Resource.Id.notification_main_column_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.outline = global::ControlloGiga.Resource.Id.outline;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parallax = global::ControlloGiga.Resource.Id.parallax;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parentPanel = global::ControlloGiga.Resource.Id.parentPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parent_matrix = global::ControlloGiga.Resource.Id.parent_matrix;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.pin = global::ControlloGiga.Resource.Id.pin;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_circular = global::ControlloGiga.Resource.Id.progress_circular;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_horizontal = global::ControlloGiga.Resource.Id.progress_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.radio = global::ControlloGiga.Resource.Id.radio;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right = global::ControlloGiga.Resource.Id.right;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right_icon = global::ControlloGiga.Resource.Id.right_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right_side = global::ControlloGiga.Resource.Id.right_side;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_image_matrix = global::ControlloGiga.Resource.Id.save_image_matrix;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_non_transition_alpha = global::ControlloGiga.Resource.Id.save_non_transition_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_scale_type = global::ControlloGiga.Resource.Id.save_scale_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.screen = global::ControlloGiga.Resource.Id.screen;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scroll = global::ControlloGiga.Resource.Id.scroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollable = global::ControlloGiga.Resource.Id.scrollable;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorDown = global::ControlloGiga.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorUp = global::ControlloGiga.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollView = global::ControlloGiga.Resource.Id.scrollView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_badge = global::ControlloGiga.Resource.Id.search_badge;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_bar = global::ControlloGiga.Resource.Id.search_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_button = global::ControlloGiga.Resource.Id.search_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_close_btn = global::ControlloGiga.Resource.Id.search_close_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_edit_frame = global::ControlloGiga.Resource.Id.search_edit_frame;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_go_btn = global::ControlloGiga.Resource.Id.search_go_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_mag_icon = global::ControlloGiga.Resource.Id.search_mag_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_plate = global::ControlloGiga.Resource.Id.search_plate;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_src_text = global::ControlloGiga.Resource.Id.search_src_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_voice_btn = global::ControlloGiga.Resource.Id.search_voice_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.selected = global::ControlloGiga.Resource.Id.selected;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.select_dialog_listview = global::ControlloGiga.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_appbar = global::ControlloGiga.Resource.Id.shellcontent_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_toolbar = global::ControlloGiga.Resource.Id.shellcontent_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SHIFT = global::ControlloGiga.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shortcut = global::ControlloGiga.Resource.Id.shortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showCustom = global::ControlloGiga.Resource.Id.showCustom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showHome = global::ControlloGiga.Resource.Id.showHome;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showTitle = global::ControlloGiga.Resource.Id.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.smallLabel = global::ControlloGiga.Resource.Id.smallLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_action = global::ControlloGiga.Resource.Id.snackbar_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_text = global::ControlloGiga.Resource.Id.snackbar_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snap = global::ControlloGiga.Resource.Id.snap;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snapMargins = global::ControlloGiga.Resource.Id.snapMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.spacer = global::ControlloGiga.Resource.Id.spacer;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.split_action_bar = global::ControlloGiga.Resource.Id.split_action_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_atop = global::ControlloGiga.Resource.Id.src_atop;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_in = global::ControlloGiga.Resource.Id.src_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_over = global::ControlloGiga.Resource.Id.src_over;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.start = global::ControlloGiga.Resource.Id.start;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.status_bar_latest_event_content = global::ControlloGiga.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.stretch = global::ControlloGiga.Resource.Id.stretch;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.submenuarrow = global::ControlloGiga.Resource.Id.submenuarrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.submit_area = global::ControlloGiga.Resource.Id.submit_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SYM = global::ControlloGiga.Resource.Id.SYM;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tabMode = global::ControlloGiga.Resource.Id.tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_transition_group = global::ControlloGiga.Resource.Id.tag_transition_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_event_manager = global::ControlloGiga.Resource.Id.tag_unhandled_key_event_manager;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_listeners = global::ControlloGiga.Resource.Id.tag_unhandled_key_listeners;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text = global::ControlloGiga.Resource.Id.text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::ControlloGiga.Resource.Id.text2;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::ControlloGiga.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::ControlloGiga.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_helper_text = global::ControlloGiga.Resource.Id.textinput_helper_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoButtons = global::ControlloGiga.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoTitle = global::ControlloGiga.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textStart = global::ControlloGiga.Resource.Id.textStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text_input_password_toggle = global::ControlloGiga.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.time = global::ControlloGiga.Resource.Id.time;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.title = global::ControlloGiga.Resource.Id.title;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.titleDividerNoCustom = global::ControlloGiga.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.title_template = global::ControlloGiga.Resource.Id.title_template;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.top = global::ControlloGiga.Resource.Id.top;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.topPanel = global::ControlloGiga.Resource.Id.topPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.touch_outside = global::ControlloGiga.Resource.Id.touch_outside;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_current_scene = global::ControlloGiga.Resource.Id.transition_current_scene;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_layout_save = global::ControlloGiga.Resource.Id.transition_layout_save;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_position = global::ControlloGiga.Resource.Id.transition_position;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_scene_layoutid_cache = global::ControlloGiga.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_transform = global::ControlloGiga.Resource.Id.transition_transform;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.uniform = global::ControlloGiga.Resource.Id.uniform;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.unlabeled = global::ControlloGiga.Resource.Id.unlabeled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.up = global::ControlloGiga.Resource.Id.up;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.useLogo = global::ControlloGiga.Resource.Id.useLogo;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.view_offset_helper = global::ControlloGiga.Resource.Id.view_offset_helper;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.visible = global::ControlloGiga.Resource.Id.visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.withText = global::ControlloGiga.Resource.Id.withText;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.wrap_content = global::ControlloGiga.Resource.Id.wrap_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityDefaultDur = global::ControlloGiga.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityShortDur = global::ControlloGiga.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.app_bar_elevation_anim_duration = global::ControlloGiga.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.bottom_sheet_slide_duration = global::ControlloGiga.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.cancel_button_image_alpha = global::ControlloGiga.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.config_tooltipAnimTime = global::ControlloGiga.Resource.Integer.config_tooltipAnimTime;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_snackbar_text_max_lines = global::ControlloGiga.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_tab_indicator_anim_duration_ms = global::ControlloGiga.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.hide_password_duration = global::ControlloGiga.Resource.Integer.hide_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_delay_ms = global::ControlloGiga.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_duration_ms = global::ControlloGiga.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_chip_anim_duration = global::ControlloGiga.Resource.Integer.mtrl_chip_anim_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::ControlloGiga.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.show_password_duration = global::ControlloGiga.Resource.Integer.show_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.status_bar_notification_info_maxnum = global::ControlloGiga.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_linear_in = global::ControlloGiga.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_slow_in = global::ControlloGiga.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear = global::ControlloGiga.Resource.Interpolator.mtrl_linear;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear_out_slow_in = global::ControlloGiga.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_title_item = global::ControlloGiga.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_up_container = global::ControlloGiga.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_item_layout = global::ControlloGiga.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_layout = global::ControlloGiga.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_bar = global::ControlloGiga.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_close_item_material = global::ControlloGiga.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view = global::ControlloGiga.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::ControlloGiga.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::ControlloGiga.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_material = global::ControlloGiga.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_title_material = global::ControlloGiga.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_cascading_menu_item_layout = global::ControlloGiga.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_dialog_title_material = global::ControlloGiga.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_expanded_menu_layout = global::ControlloGiga.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_checkbox = global::ControlloGiga.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_icon = global::ControlloGiga.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_layout = global::ControlloGiga.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_radio = global::ControlloGiga.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::ControlloGiga.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_item_layout = global::ControlloGiga.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_content_include = global::ControlloGiga.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple = global::ControlloGiga.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::ControlloGiga.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_toolbar = global::ControlloGiga.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::ControlloGiga.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_view = global::ControlloGiga.Resource.Layout.abc_search_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_select_dialog_material = global::ControlloGiga.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_tooltip = global::ControlloGiga.Resource.Layout.abc_tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.BottomTabLayout = global::ControlloGiga.Resource.Layout.BottomTabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_navigation_item = global::ControlloGiga.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::ControlloGiga.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar = global::ControlloGiga.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar_include = global::ControlloGiga.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_icon = global::ControlloGiga.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_text = global::ControlloGiga.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_menu_item_action_area = global::ControlloGiga.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item = global::ControlloGiga.Resource.Layout.design_navigation_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_header = global::ControlloGiga.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_separator = global::ControlloGiga.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_subheader = global::ControlloGiga.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu = global::ControlloGiga.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu_item = global::ControlloGiga.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_text_input_password_icon = global::ControlloGiga.Resource.Layout.design_text_input_password_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.FlyoutContent = global::ControlloGiga.Resource.Layout.FlyoutContent;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar = global::ControlloGiga.Resource.Layout.mtrl_layout_snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar_include = global::ControlloGiga.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action = global::ControlloGiga.Resource.Layout.notification_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action_tombstone = global::ControlloGiga.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_action = global::ControlloGiga.Resource.Layout.notification_media_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_cancel_action = global::ControlloGiga.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media = global::ControlloGiga.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_custom = global::ControlloGiga.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow = global::ControlloGiga.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::ControlloGiga.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_custom_big = global::ControlloGiga.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_icon_group = global::ControlloGiga.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_lines_media = global::ControlloGiga.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media = global::ControlloGiga.Resource.Layout.notification_template_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media_custom = global::ControlloGiga.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_chronometer = global::ControlloGiga.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_time = global::ControlloGiga.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.RootLayout = global::ControlloGiga.Resource.Layout.RootLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_item_material = global::ControlloGiga.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_multichoice_material = global::ControlloGiga.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::ControlloGiga.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::ControlloGiga.Resource.Layout.ShellContent;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::ControlloGiga.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::ControlloGiga.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::ControlloGiga.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::ControlloGiga.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_mode_done = global::ControlloGiga.Resource.String.abc_action_mode_done;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::ControlloGiga.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activity_chooser_view_see_all = global::ControlloGiga.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_off = global::ControlloGiga.Resource.String.abc_capital_off;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_on = global::ControlloGiga.Resource.String.abc_capital_on;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_1_material = global::ControlloGiga.Resource.String.abc_font_family_body_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_2_material = global::ControlloGiga.Resource.String.abc_font_family_body_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_button_material = global::ControlloGiga.Resource.String.abc_font_family_button_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_caption_material = global::ControlloGiga.Resource.String.abc_font_family_caption_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_1_material = global::ControlloGiga.Resource.String.abc_font_family_display_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_2_material = global::ControlloGiga.Resource.String.abc_font_family_display_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_3_material = global::ControlloGiga.Resource.String.abc_font_family_display_3_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_4_material = global::ControlloGiga.Resource.String.abc_font_family_display_4_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_headline_material = global::ControlloGiga.Resource.String.abc_font_family_headline_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_menu_material = global::ControlloGiga.Resource.String.abc_font_family_menu_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_subhead_material = global::ControlloGiga.Resource.String.abc_font_family_subhead_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_title_material = global::ControlloGiga.Resource.String.abc_font_family_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_alt_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_alt_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_ctrl_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_delete_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_delete_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_enter_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_enter_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_function_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_function_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_meta_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_meta_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_shift_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_shift_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_space_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_space_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_sym_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_sym_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_prepend_shortcut_label = global::ControlloGiga.Resource.String.abc_prepend_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_clear = global::ControlloGiga.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_query = global::ControlloGiga.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_search = global::ControlloGiga.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_submit = global::ControlloGiga.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_voice = global::ControlloGiga.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::ControlloGiga.Resource.String.abc_search_hint;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with = global::ControlloGiga.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with_application = global::ControlloGiga.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::ControlloGiga.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.appbar_scrolling_view_behavior = global::ControlloGiga.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.bottom_sheet_behavior = global::ControlloGiga.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_content_description = global::ControlloGiga.Resource.String.character_counter_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::ControlloGiga.Resource.String.character_counter_pattern;
+			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_scrim_behavior = global::ControlloGiga.Resource.String.fab_transformation_scrim_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_sheet_behavior = global::ControlloGiga.Resource.String.fab_transformation_sheet_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.hide_bottom_view_on_scroll_behavior = global::ControlloGiga.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.mtrl_chip_close_icon_content_description = global::ControlloGiga.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.password_toggle_content_description = global::ControlloGiga.Resource.String.password_toggle_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye = global::ControlloGiga.Resource.String.path_password_eye;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_strike_through = global::ControlloGiga.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_visible = global::ControlloGiga.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_strike_through = global::ControlloGiga.Resource.String.path_password_strike_through;
+			global::Xamarin.Forms.Platform.Android.Resource.String.search_menu_title = global::ControlloGiga.Resource.String.search_menu_title;
+			global::Xamarin.Forms.Platform.Android.Resource.String.status_bar_notification_info_overflow = global::ControlloGiga.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat = global::ControlloGiga.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat_Light = global::ControlloGiga.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::ControlloGiga.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Tooltip = global::ControlloGiga.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::ControlloGiga.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat = global::ControlloGiga.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::ControlloGiga.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::ControlloGiga.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_CardView = global::ControlloGiga.Resource.Style.Base_CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::ControlloGiga.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::ControlloGiga.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ControlloGiga.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ControlloGiga.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::ControlloGiga.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::ControlloGiga.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::ControlloGiga.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::ControlloGiga.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::ControlloGiga.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::ControlloGiga.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::ControlloGiga.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_Chip = global::ControlloGiga.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::ControlloGiga.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::ControlloGiga.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::ControlloGiga.Resource.Style.CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::ControlloGiga.Resource.Style.CardView_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::ControlloGiga.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewStyle = global::ControlloGiga.Resource.Style.collectionViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.NestedScrollBarStyle = global::ControlloGiga.Resource.Style.NestedScrollBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::ControlloGiga.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::ControlloGiga.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents = global::ControlloGiga.Resource.Style.Platform_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light = global::ControlloGiga.Resource.Style.Platform_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::ControlloGiga.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::ControlloGiga.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::ControlloGiga.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::ControlloGiga.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat = global::ControlloGiga.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat_Light = global::ControlloGiga.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat = global::ControlloGiga.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat_Light = global::ControlloGiga.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::ControlloGiga.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::ControlloGiga.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::ControlloGiga.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::ControlloGiga.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Button = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::ControlloGiga.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter = global::ControlloGiga.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::ControlloGiga.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Error = global::ControlloGiga.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_HelperText = global::ControlloGiga.Resource.Style.TextAppearance_Design_HelperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::ControlloGiga.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::ControlloGiga.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Tab = global::ControlloGiga.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Button = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Caption = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Chip = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Overline = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Tab = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ControlloGiga.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::ControlloGiga.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat = global::ControlloGiga.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::ControlloGiga.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design = global::ControlloGiga.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::ControlloGiga.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light = global::ControlloGiga.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::ControlloGiga.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::ControlloGiga.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::ControlloGiga.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents = global::ControlloGiga.Resource.Style.Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionMode = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::ControlloGiga.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::ControlloGiga.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Small = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::ControlloGiga.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::ControlloGiga.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::ControlloGiga.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::ControlloGiga.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::ControlloGiga.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_EditText = global::ControlloGiga.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ImageButton = global::ControlloGiga.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::ControlloGiga.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::ControlloGiga.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::ControlloGiga.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::ControlloGiga.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::ControlloGiga.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::ControlloGiga.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView = global::ControlloGiga.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::ControlloGiga.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner = global::ControlloGiga.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::ControlloGiga.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::ControlloGiga.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::ControlloGiga.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::ControlloGiga.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::ControlloGiga.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionText = global::ControlloGiga.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_AppBarLayout = global::ControlloGiga.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomNavigationView = global::ControlloGiga.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::ControlloGiga.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::ControlloGiga.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_FloatingActionButton = global::ControlloGiga.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_NavigationView = global::ControlloGiga.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::ControlloGiga.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_Snackbar = global::ControlloGiga.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TabLayout = global::ControlloGiga.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TextInputLayout = global::ControlloGiga.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_CardView = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Action = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_NavigationView = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TabLayout = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Toolbar = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Support_CoordinatorLayout = global::ControlloGiga.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::ControlloGiga.Resource.Styleable.ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout = global::ControlloGiga.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::ControlloGiga.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::ControlloGiga.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::ControlloGiga.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundStacked = global::ControlloGiga.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetRight = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStart = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::ControlloGiga.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_displayOptions = global::ControlloGiga.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_divider = global::ControlloGiga.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_elevation = global::ControlloGiga.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_height = global::ControlloGiga.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::ControlloGiga.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::ControlloGiga.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeLayout = global::ControlloGiga.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_icon = global::ControlloGiga.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::ControlloGiga.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_itemPadding = global::ControlloGiga.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_logo = global::ControlloGiga.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_navigationMode = global::ControlloGiga.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_popupTheme = global::ControlloGiga.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarPadding = global::ControlloGiga.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarStyle = global::ControlloGiga.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitle = global::ControlloGiga.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::ControlloGiga.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_title = global::ControlloGiga.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_titleTextStyle = global::ControlloGiga.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView = global::ControlloGiga.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::ControlloGiga.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuView = global::ControlloGiga.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode = global::ControlloGiga.Resource.Styleable.ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_background = global::ControlloGiga.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_backgroundSplit = global::ControlloGiga.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_closeItemLayout = global::ControlloGiga.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_height = global::ControlloGiga.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::ControlloGiga.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_titleTextStyle = global::ControlloGiga.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView = global::ControlloGiga.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::ControlloGiga.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::ControlloGiga.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog = global::ControlloGiga.Resource.Styleable.AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_android_layout = global::ControlloGiga.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonIconDimen = global::ControlloGiga.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listItemLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_showTitle = global::ControlloGiga.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout = global::ControlloGiga.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::ControlloGiga.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::ControlloGiga.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::ControlloGiga.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::ControlloGiga.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::ControlloGiga.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout = global::ControlloGiga.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::ControlloGiga.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::ControlloGiga.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::ControlloGiga.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView = global::ControlloGiga.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_android_src = global::ControlloGiga.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::ControlloGiga.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tint = global::ControlloGiga.Resource.Styleable.AppCompatImageView_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tintMode = global::ControlloGiga.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView = global::ControlloGiga.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::ControlloGiga.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::ControlloGiga.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::ControlloGiga.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::ControlloGiga.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lineHeight = global::ControlloGiga.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::ControlloGiga.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::ControlloGiga.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::ControlloGiga.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorError = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::ControlloGiga.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::ControlloGiga.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::ControlloGiga.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::ControlloGiga.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::ControlloGiga.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::ControlloGiga.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar = global::ControlloGiga.Resource.Styleable.BottomAppBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_backgroundTint = global::ControlloGiga.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::ControlloGiga.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleMargin = global::ControlloGiga.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::ControlloGiga.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::ControlloGiga.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_hideOnScroll = global::ControlloGiga.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView = global::ControlloGiga.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_elevation = global::ControlloGiga.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconSize = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::ControlloGiga.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_menu = global::ControlloGiga.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout = global::ControlloGiga.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::ControlloGiga.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView = global::ControlloGiga.Resource.Styleable.CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minHeight = global::ControlloGiga.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minWidth = global::ControlloGiga.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardBackgroundColor = global::ControlloGiga.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardCornerRadius = global::ControlloGiga.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardElevation = global::ControlloGiga.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardMaxElevation = global::ControlloGiga.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::ControlloGiga.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::ControlloGiga.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPadding = global::ControlloGiga.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingBottom = global::ControlloGiga.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingLeft = global::ControlloGiga.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::ControlloGiga.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::ControlloGiga.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip = global::ControlloGiga.Resource.Styleable.Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup = global::ControlloGiga.Resource.Styleable.ChipGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_checkedChip = global::ControlloGiga.Resource.Styleable.ChipGroup_checkedChip;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacing = global::ControlloGiga.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::ControlloGiga.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::ControlloGiga.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleLine = global::ControlloGiga.Resource.Styleable.ChipGroup_singleLine;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleSelection = global::ControlloGiga.Resource.Styleable.ChipGroup_singleSelection;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_checkable = global::ControlloGiga.Resource.Styleable.Chip_android_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_ellipsize = global::ControlloGiga.Resource.Styleable.Chip_android_ellipsize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_maxWidth = global::ControlloGiga.Resource.Styleable.Chip_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_text = global::ControlloGiga.Resource.Styleable.Chip_android_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_textAppearance = global::ControlloGiga.Resource.Styleable.Chip_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIcon = global::ControlloGiga.Resource.Styleable.Chip_checkedIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIconEnabled = global::ControlloGiga.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIconVisible = global::ControlloGiga.Resource.Styleable.Chip_checkedIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipBackgroundColor = global::ControlloGiga.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipCornerRadius = global::ControlloGiga.Resource.Styleable.Chip_chipCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipEndPadding = global::ControlloGiga.Resource.Styleable.Chip_chipEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIcon = global::ControlloGiga.Resource.Styleable.Chip_chipIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconEnabled = global::ControlloGiga.Resource.Styleable.Chip_chipIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconSize = global::ControlloGiga.Resource.Styleable.Chip_chipIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconTint = global::ControlloGiga.Resource.Styleable.Chip_chipIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconVisible = global::ControlloGiga.Resource.Styleable.Chip_chipIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipMinHeight = global::ControlloGiga.Resource.Styleable.Chip_chipMinHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStartPadding = global::ControlloGiga.Resource.Styleable.Chip_chipStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStrokeColor = global::ControlloGiga.Resource.Styleable.Chip_chipStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStrokeWidth = global::ControlloGiga.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIcon = global::ControlloGiga.Resource.Styleable.Chip_closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconEnabled = global::ControlloGiga.Resource.Styleable.Chip_closeIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconEndPadding = global::ControlloGiga.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconSize = global::ControlloGiga.Resource.Styleable.Chip_closeIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconStartPadding = global::ControlloGiga.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconTint = global::ControlloGiga.Resource.Styleable.Chip_closeIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconVisible = global::ControlloGiga.Resource.Styleable.Chip_closeIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_hideMotionSpec = global::ControlloGiga.Resource.Styleable.Chip_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_iconEndPadding = global::ControlloGiga.Resource.Styleable.Chip_iconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_iconStartPadding = global::ControlloGiga.Resource.Styleable.Chip_iconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_rippleColor = global::ControlloGiga.Resource.Styleable.Chip_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_showMotionSpec = global::ControlloGiga.Resource.Styleable.Chip_showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textEndPadding = global::ControlloGiga.Resource.Styleable.Chip_textEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textStartPadding = global::ControlloGiga.Resource.Styleable.Chip_textStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem = global::ControlloGiga.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_alpha = global::ControlloGiga.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::ControlloGiga.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_color = global::ControlloGiga.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton = global::ControlloGiga.Resource.Styleable.CompoundButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_android_button = global::ControlloGiga.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTint = global::ControlloGiga.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::ControlloGiga.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout = global::ControlloGiga.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_keylines = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme = global::ControlloGiga.Resource.Styleable.DesignTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::ControlloGiga.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::ControlloGiga.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_color = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton = global::ControlloGiga.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::ControlloGiga.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::ControlloGiga.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::ControlloGiga.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::ControlloGiga.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::ControlloGiga.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::ControlloGiga.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabCustomSize = global::ControlloGiga.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::ControlloGiga.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::ControlloGiga.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::ControlloGiga.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_maxImageSize = global::ControlloGiga.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::ControlloGiga.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::ControlloGiga.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_showMotionSpec = global::ControlloGiga.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::ControlloGiga.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout = global::ControlloGiga.Resource.Styleable.FlowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_itemSpacing = global::ControlloGiga.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_lineSpacing = global::ControlloGiga.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily = global::ControlloGiga.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont = global::ControlloGiga.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_font = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_font = global::ControlloGiga.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::ControlloGiga.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::ControlloGiga.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::ControlloGiga.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::ControlloGiga.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::ControlloGiga.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::ControlloGiga.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::ControlloGiga.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::ControlloGiga.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor = global::ControlloGiga.Resource.Styleable.GradientColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem = global::ControlloGiga.Resource.Styleable.GradientColorItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_color = global::ControlloGiga.Resource.Styleable.GradientColorItem_android_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_offset = global::ControlloGiga.Resource.Styleable.GradientColorItem_android_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerColor = global::ControlloGiga.Resource.Styleable.GradientColor_android_centerColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerX = global::ControlloGiga.Resource.Styleable.GradientColor_android_centerX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerY = global::ControlloGiga.Resource.Styleable.GradientColor_android_centerY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endColor = global::ControlloGiga.Resource.Styleable.GradientColor_android_endColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endX = global::ControlloGiga.Resource.Styleable.GradientColor_android_endX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endY = global::ControlloGiga.Resource.Styleable.GradientColor_android_endY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_gradientRadius = global::ControlloGiga.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startColor = global::ControlloGiga.Resource.Styleable.GradientColor_android_startColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startX = global::ControlloGiga.Resource.Styleable.GradientColor_android_startX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startY = global::ControlloGiga.Resource.Styleable.GradientColor_android_startY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_tileMode = global::ControlloGiga.Resource.Styleable.GradientColor_android_tileMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_type = global::ControlloGiga.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_divider = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow = global::ControlloGiga.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::ControlloGiga.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::ControlloGiga.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton = global::ControlloGiga.Resource.Styleable.MaterialButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetBottom = global::ControlloGiga.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetLeft = global::ControlloGiga.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetRight = global::ControlloGiga.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetTop = global::ControlloGiga.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_backgroundTint = global::ControlloGiga.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_backgroundTintMode = global::ControlloGiga.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_cornerRadius = global::ControlloGiga.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_icon = global::ControlloGiga.Resource.Styleable.MaterialButton_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconGravity = global::ControlloGiga.Resource.Styleable.MaterialButton_iconGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconPadding = global::ControlloGiga.Resource.Styleable.MaterialButton_iconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconSize = global::ControlloGiga.Resource.Styleable.MaterialButton_iconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconTint = global::ControlloGiga.Resource.Styleable.MaterialButton_iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconTintMode = global::ControlloGiga.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_rippleColor = global::ControlloGiga.Resource.Styleable.MaterialButton_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_strokeColor = global::ControlloGiga.Resource.Styleable.MaterialButton_strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_strokeWidth = global::ControlloGiga.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView = global::ControlloGiga.Resource.Styleable.MaterialCardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView_strokeColor = global::ControlloGiga.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView_strokeWidth = global::ControlloGiga.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup = global::ControlloGiga.Resource.Styleable.MenuGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::ControlloGiga.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_enabled = global::ControlloGiga.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_id = global::ControlloGiga.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::ControlloGiga.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::ControlloGiga.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_visible = global::ControlloGiga.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem = global::ControlloGiga.Resource.Styleable.MenuItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionLayout = global::ControlloGiga.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionProviderClass = global::ControlloGiga.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionViewClass = global::ControlloGiga.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::ControlloGiga.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::ControlloGiga.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checkable = global::ControlloGiga.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checked = global::ControlloGiga.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_enabled = global::ControlloGiga.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_icon = global::ControlloGiga.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_id = global::ControlloGiga.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_menuCategory = global::ControlloGiga.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::ControlloGiga.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_onClick = global::ControlloGiga.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::ControlloGiga.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_title = global::ControlloGiga.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::ControlloGiga.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_visible = global::ControlloGiga.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_contentDescription = global::ControlloGiga.Resource.Styleable.MenuItem_contentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTint = global::ControlloGiga.Resource.Styleable.MenuItem_iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTintMode = global::ControlloGiga.Resource.Styleable.MenuItem_iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_numericModifiers = global::ControlloGiga.Resource.Styleable.MenuItem_numericModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_showAsAction = global::ControlloGiga.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_tooltipText = global::ControlloGiga.Resource.Styleable.MenuItem_tooltipText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView = global::ControlloGiga.Resource.Styleable.MenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_headerBackground = global::ControlloGiga.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::ControlloGiga.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemBackground = global::ControlloGiga.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::ControlloGiga.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::ControlloGiga.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_verticalDivider = global::ControlloGiga.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::ControlloGiga.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::ControlloGiga.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_subMenuArrow = global::ControlloGiga.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView = global::ControlloGiga.Resource.Styleable.NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_background = global::ControlloGiga.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::ControlloGiga.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_maxWidth = global::ControlloGiga.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_elevation = global::ControlloGiga.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_headerLayout = global::ControlloGiga.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemBackground = global::ControlloGiga.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemHorizontalPadding = global::ControlloGiga.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconPadding = global::ControlloGiga.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconTint = global::ControlloGiga.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::ControlloGiga.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::ControlloGiga.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_menu = global::ControlloGiga.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow = global::ControlloGiga.Resource.Styleable.PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::ControlloGiga.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::ControlloGiga.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::ControlloGiga.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::ControlloGiga.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::ControlloGiga.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView = global::ControlloGiga.Resource.Styleable.RecycleListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::ControlloGiga.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::ControlloGiga.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView = global::ControlloGiga.Resource.Styleable.RecyclerView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::ControlloGiga.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_orientation = global::ControlloGiga.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_layoutManager = global::ControlloGiga.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_reverseLayout = global::ControlloGiga.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_spanCount = global::ControlloGiga.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::ControlloGiga.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::ControlloGiga.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::ControlloGiga.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::ControlloGiga.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::ControlloGiga.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView = global::ControlloGiga.Resource.Styleable.SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_focusable = global::ControlloGiga.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_imeOptions = global::ControlloGiga.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_inputType = global::ControlloGiga.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_maxWidth = global::ControlloGiga.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_closeIcon = global::ControlloGiga.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_commitIcon = global::ControlloGiga.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_defaultQueryHint = global::ControlloGiga.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_goIcon = global::ControlloGiga.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::ControlloGiga.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_layout = global::ControlloGiga.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryBackground = global::ControlloGiga.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryHint = global::ControlloGiga.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchHintIcon = global::ControlloGiga.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchIcon = global::ControlloGiga.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_submitBackground = global::ControlloGiga.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::ControlloGiga.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::ControlloGiga.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar = global::ControlloGiga.Resource.Styleable.Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout = global::ControlloGiga.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::ControlloGiga.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::ControlloGiga.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::ControlloGiga.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::ControlloGiga.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarStyle = global::ControlloGiga.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner = global::ControlloGiga.Resource.Styleable.Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::ControlloGiga.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_entries = global::ControlloGiga.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_popupBackground = global::ControlloGiga.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::ControlloGiga.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::ControlloGiga.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable = global::ControlloGiga.Resource.Styleable.StateListDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem = global::ControlloGiga.Resource.Styleable.StateListDrawableItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::ControlloGiga.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_constantSize = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_dither = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_dither;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_variablePadding = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_visible = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat = global::ControlloGiga.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::ControlloGiga.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::ControlloGiga.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_thumb = global::ControlloGiga.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_showText = global::ControlloGiga.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_splitTrack = global::ControlloGiga.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::ControlloGiga.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchPadding = global::ControlloGiga.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::ControlloGiga.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::ControlloGiga.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTint = global::ControlloGiga.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::ControlloGiga.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_track = global::ControlloGiga.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTint = global::ControlloGiga.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::ControlloGiga.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem = global::ControlloGiga.Resource.Styleable.TabItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_icon = global::ControlloGiga.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_layout = global::ControlloGiga.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_text = global::ControlloGiga.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout = global::ControlloGiga.Resource.Styleable.TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabBackground = global::ControlloGiga.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabContentStart = global::ControlloGiga.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabGravity = global::ControlloGiga.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTint = global::ControlloGiga.Resource.Styleable.TabLayout_tabIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTintMode = global::ControlloGiga.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicator = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorGravity = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabInlineLabel = global::ControlloGiga.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::ControlloGiga.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMinWidth = global::ControlloGiga.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMode = global::ControlloGiga.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPadding = global::ControlloGiga.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::ControlloGiga.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::ControlloGiga.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::ControlloGiga.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::ControlloGiga.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabRippleColor = global::ControlloGiga.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::ControlloGiga.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::ControlloGiga.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::ControlloGiga.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabUnboundedRipple = global::ControlloGiga.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance = global::ControlloGiga.Resource.Styleable.TextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::ControlloGiga.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::ControlloGiga.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::ControlloGiga.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::ControlloGiga.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::ControlloGiga.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColor = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textSize = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textStyle = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_typeface = global::ControlloGiga.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_fontFamily = global::ControlloGiga.Resource.Styleable.TextAppearance_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_textAllCaps = global::ControlloGiga.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout = global::ControlloGiga.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_hint = global::ControlloGiga.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::ControlloGiga.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeColor = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::ControlloGiga.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperText = global::ControlloGiga.Resource.Styleable.TextInputLayout_helperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement = global::ControlloGiga.Resource.Styleable.ThemeEnforcement;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::ControlloGiga.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::ControlloGiga.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::ControlloGiga.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar = global::ControlloGiga.Resource.Styleable.Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_gravity = global::ControlloGiga.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_minHeight = global::ControlloGiga.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_buttonGravity = global::ControlloGiga.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::ControlloGiga.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseIcon = global::ControlloGiga.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetRight = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStart = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logo = global::ControlloGiga.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logoDescription = global::ControlloGiga.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::ControlloGiga.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::ControlloGiga.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationIcon = global::ControlloGiga.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_popupTheme = global::ControlloGiga.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitle = global::ControlloGiga.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::ControlloGiga.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::ControlloGiga.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_title = global::ControlloGiga.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargin = global::ControlloGiga.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::ControlloGiga.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::ControlloGiga.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::ControlloGiga.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginStart = global::ControlloGiga.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginTop = global::ControlloGiga.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::ControlloGiga.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextColor = global::ControlloGiga.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View = global::ControlloGiga.Resource.Styleable.View;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper = global::ControlloGiga.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::ControlloGiga.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::ControlloGiga.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::ControlloGiga.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat = global::ControlloGiga.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::ControlloGiga.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ControlloGiga.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::ControlloGiga.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_focusable = global::ControlloGiga.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_theme = global::ControlloGiga.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::ControlloGiga.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::ControlloGiga.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::ControlloGiga.Resource.Styleable.View_theme;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_in = global::ControlloGiga.Resource.Animation.abc_fade_in;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_fade_out = global::ControlloGiga.Resource.Animation.abc_fade_out;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_grow_fade_in_from_bottom = global::ControlloGiga.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_popup_enter = global::ControlloGiga.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_popup_exit = global::ControlloGiga.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_shrink_fade_out_from_bottom = global::ControlloGiga.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_in_bottom = global::ControlloGiga.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_in_top = global::ControlloGiga.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_out_bottom = global::ControlloGiga.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_slide_out_top = global::ControlloGiga.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_tooltip_enter = global::ControlloGiga.Resource.Animation.abc_tooltip_enter;
+			global::Xamarin.Forms.Platform.Resource.Animation.abc_tooltip_exit = global::ControlloGiga.Resource.Animation.abc_tooltip_exit;
+			global::Xamarin.Forms.Platform.Resource.Animation.design_bottom_sheet_slide_in = global::ControlloGiga.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Forms.Platform.Resource.Animation.design_bottom_sheet_slide_out = global::ControlloGiga.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Forms.Platform.Resource.Animation.design_snackbar_in = global::ControlloGiga.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Forms.Platform.Resource.Animation.design_snackbar_out = global::ControlloGiga.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Forms.Platform.Resource.Animation.EnterFromLeft = global::ControlloGiga.Resource.Animation.EnterFromLeft;
+			global::Xamarin.Forms.Platform.Resource.Animation.EnterFromRight = global::ControlloGiga.Resource.Animation.EnterFromRight;
+			global::Xamarin.Forms.Platform.Resource.Animation.ExitToLeft = global::ControlloGiga.Resource.Animation.ExitToLeft;
+			global::Xamarin.Forms.Platform.Resource.Animation.ExitToRight = global::ControlloGiga.Resource.Animation.ExitToRight;
+			global::Xamarin.Forms.Platform.Resource.Animator.design_appbar_state_list_animator = global::ControlloGiga.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Forms.Platform.Resource.Animator.design_fab_hide_motion_spec = global::ControlloGiga.Resource.Animator.design_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.design_fab_show_motion_spec = global::ControlloGiga.Resource.Animator.design_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_btn_state_list_anim = global::ControlloGiga.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::ControlloGiga.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_chip_state_list_anim = global::ControlloGiga.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_fab_hide_motion_spec = global::ControlloGiga.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_fab_show_motion_spec = global::ControlloGiga.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::ControlloGiga.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Xamarin.Forms.Platform.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::ControlloGiga.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarDivider = global::ControlloGiga.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarItemBackground = global::ControlloGiga.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarPopupTheme = global::ControlloGiga.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarSize = global::ControlloGiga.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarSplitStyle = global::ControlloGiga.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarStyle = global::ControlloGiga.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabBarStyle = global::ControlloGiga.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabStyle = global::ControlloGiga.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTabTextStyle = global::ControlloGiga.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarTheme = global::ControlloGiga.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionBarWidgetTheme = global::ControlloGiga.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionButtonStyle = global::ControlloGiga.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionDropDownStyle = global::ControlloGiga.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionLayout = global::ControlloGiga.Resource.Attribute.actionLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionMenuTextAppearance = global::ControlloGiga.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionMenuTextColor = global::ControlloGiga.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeBackground = global::ControlloGiga.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCloseButtonStyle = global::ControlloGiga.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCloseDrawable = global::ControlloGiga.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCopyDrawable = global::ControlloGiga.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeCutDrawable = global::ControlloGiga.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeFindDrawable = global::ControlloGiga.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModePasteDrawable = global::ControlloGiga.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModePopupWindowStyle = global::ControlloGiga.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeSelectAllDrawable = global::ControlloGiga.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeShareDrawable = global::ControlloGiga.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeSplitBackground = global::ControlloGiga.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeStyle = global::ControlloGiga.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionModeWebSearchDrawable = global::ControlloGiga.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionOverflowButtonStyle = global::ControlloGiga.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionOverflowMenuStyle = global::ControlloGiga.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionProviderClass = global::ControlloGiga.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Forms.Platform.Resource.Attribute.actionViewClass = global::ControlloGiga.Resource.Attribute.actionViewClass;
+			global::Xamarin.Forms.Platform.Resource.Attribute.activityChooserViewStyle = global::ControlloGiga.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogButtonGroupStyle = global::ControlloGiga.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogCenterButtons = global::ControlloGiga.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogStyle = global::ControlloGiga.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alertDialogTheme = global::ControlloGiga.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.allowStacking = global::ControlloGiga.Resource.Attribute.allowStacking;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alpha = global::ControlloGiga.Resource.Attribute.alpha;
+			global::Xamarin.Forms.Platform.Resource.Attribute.alphabeticModifiers = global::ControlloGiga.Resource.Attribute.alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Resource.Attribute.arrowHeadLength = global::ControlloGiga.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Forms.Platform.Resource.Attribute.arrowShaftLength = global::ControlloGiga.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoCompleteTextViewStyle = global::ControlloGiga.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizeMaxTextSize = global::ControlloGiga.Resource.Attribute.autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizeMinTextSize = global::ControlloGiga.Resource.Attribute.autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizePresetSizes = global::ControlloGiga.Resource.Attribute.autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizeStepGranularity = global::ControlloGiga.Resource.Attribute.autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.autoSizeTextType = global::ControlloGiga.Resource.Attribute.autoSizeTextType;
+			global::Xamarin.Forms.Platform.Resource.Attribute.background = global::ControlloGiga.Resource.Attribute.background;
+			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundSplit = global::ControlloGiga.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundStacked = global::ControlloGiga.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundTint = global::ControlloGiga.Resource.Attribute.backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.backgroundTintMode = global::ControlloGiga.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.barLength = global::ControlloGiga.Resource.Attribute.barLength;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_autoHide = global::ControlloGiga.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_fitToContents = global::ControlloGiga.Resource.Attribute.behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_hideable = global::ControlloGiga.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_overlapTop = global::ControlloGiga.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_peekHeight = global::ControlloGiga.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.behavior_skipCollapsed = global::ControlloGiga.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Resource.Attribute.borderlessButtonStyle = global::ControlloGiga.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.borderWidth = global::ControlloGiga.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.bottomAppBarStyle = global::ControlloGiga.Resource.Attribute.bottomAppBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.bottomNavigationStyle = global::ControlloGiga.Resource.Attribute.bottomNavigationStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.bottomSheetDialogTheme = global::ControlloGiga.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.bottomSheetStyle = global::ControlloGiga.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxBackgroundColor = global::ControlloGiga.Resource.Attribute.boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxBackgroundMode = global::ControlloGiga.Resource.Attribute.boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCollapsedPaddingTop = global::ControlloGiga.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCornerRadiusBottomEnd = global::ControlloGiga.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCornerRadiusBottomStart = global::ControlloGiga.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCornerRadiusTopEnd = global::ControlloGiga.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxCornerRadiusTopStart = global::ControlloGiga.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxStrokeColor = global::ControlloGiga.Resource.Attribute.boxStrokeColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.boxStrokeWidth = global::ControlloGiga.Resource.Attribute.boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarButtonStyle = global::ControlloGiga.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarNegativeButtonStyle = global::ControlloGiga.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarNeutralButtonStyle = global::ControlloGiga.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarPositiveButtonStyle = global::ControlloGiga.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonBarStyle = global::ControlloGiga.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonGravity = global::ControlloGiga.Resource.Attribute.buttonGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonIconDimen = global::ControlloGiga.Resource.Attribute.buttonIconDimen;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonPanelSideLayout = global::ControlloGiga.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonStyle = global::ControlloGiga.Resource.Attribute.buttonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonStyleSmall = global::ControlloGiga.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonTint = global::ControlloGiga.Resource.Attribute.buttonTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.buttonTintMode = global::ControlloGiga.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardBackgroundColor = global::ControlloGiga.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardCornerRadius = global::ControlloGiga.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardElevation = global::ControlloGiga.Resource.Attribute.cardElevation;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardMaxElevation = global::ControlloGiga.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardPreventCornerOverlap = global::ControlloGiga.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardUseCompatPadding = global::ControlloGiga.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cardViewStyle = global::ControlloGiga.Resource.Attribute.cardViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkboxStyle = global::ControlloGiga.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedChip = global::ControlloGiga.Resource.Attribute.checkedChip;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedIcon = global::ControlloGiga.Resource.Attribute.checkedIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedIconEnabled = global::ControlloGiga.Resource.Attribute.checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedIconVisible = global::ControlloGiga.Resource.Attribute.checkedIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Attribute.checkedTextViewStyle = global::ControlloGiga.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipBackgroundColor = global::ControlloGiga.Resource.Attribute.chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipCornerRadius = global::ControlloGiga.Resource.Attribute.chipCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipEndPadding = global::ControlloGiga.Resource.Attribute.chipEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipGroupStyle = global::ControlloGiga.Resource.Attribute.chipGroupStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIcon = global::ControlloGiga.Resource.Attribute.chipIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIconEnabled = global::ControlloGiga.Resource.Attribute.chipIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIconSize = global::ControlloGiga.Resource.Attribute.chipIconSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIconTint = global::ControlloGiga.Resource.Attribute.chipIconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipIconVisible = global::ControlloGiga.Resource.Attribute.chipIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipMinHeight = global::ControlloGiga.Resource.Attribute.chipMinHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipSpacing = global::ControlloGiga.Resource.Attribute.chipSpacing;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipSpacingHorizontal = global::ControlloGiga.Resource.Attribute.chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipSpacingVertical = global::ControlloGiga.Resource.Attribute.chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStandaloneStyle = global::ControlloGiga.Resource.Attribute.chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStartPadding = global::ControlloGiga.Resource.Attribute.chipStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStrokeColor = global::ControlloGiga.Resource.Attribute.chipStrokeColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStrokeWidth = global::ControlloGiga.Resource.Attribute.chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.chipStyle = global::ControlloGiga.Resource.Attribute.chipStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIcon = global::ControlloGiga.Resource.Attribute.closeIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconEnabled = global::ControlloGiga.Resource.Attribute.closeIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconEndPadding = global::ControlloGiga.Resource.Attribute.closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconSize = global::ControlloGiga.Resource.Attribute.closeIconSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconStartPadding = global::ControlloGiga.Resource.Attribute.closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconTint = global::ControlloGiga.Resource.Attribute.closeIconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeIconVisible = global::ControlloGiga.Resource.Attribute.closeIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Attribute.closeItemLayout = global::ControlloGiga.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collapseContentDescription = global::ControlloGiga.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collapsedTitleGravity = global::ControlloGiga.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collapsedTitleTextAppearance = global::ControlloGiga.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.collapseIcon = global::ControlloGiga.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.color = global::ControlloGiga.Resource.Attribute.color;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorAccent = global::ControlloGiga.Resource.Attribute.colorAccent;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorBackgroundFloating = global::ControlloGiga.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorButtonNormal = global::ControlloGiga.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlActivated = global::ControlloGiga.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlHighlight = global::ControlloGiga.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorControlNormal = global::ControlloGiga.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorError = global::ControlloGiga.Resource.Attribute.colorError;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorPrimary = global::ControlloGiga.Resource.Attribute.colorPrimary;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorPrimaryDark = global::ControlloGiga.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorSecondary = global::ControlloGiga.Resource.Attribute.colorSecondary;
+			global::Xamarin.Forms.Platform.Resource.Attribute.colorSwitchThumbNormal = global::ControlloGiga.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.commitIcon = global::ControlloGiga.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentDescription = global::ControlloGiga.Resource.Attribute.contentDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetEnd = global::ControlloGiga.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetEndWithActions = global::ControlloGiga.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetLeft = global::ControlloGiga.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetRight = global::ControlloGiga.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetStart = global::ControlloGiga.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentInsetStartWithNavigation = global::ControlloGiga.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPadding = global::ControlloGiga.Resource.Attribute.contentPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingBottom = global::ControlloGiga.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingLeft = global::ControlloGiga.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingRight = global::ControlloGiga.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentPaddingTop = global::ControlloGiga.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.contentScrim = global::ControlloGiga.Resource.Attribute.contentScrim;
+			global::Xamarin.Forms.Platform.Resource.Attribute.controlBackground = global::ControlloGiga.Resource.Attribute.controlBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.coordinatorLayoutStyle = global::ControlloGiga.Resource.Attribute.coordinatorLayoutStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.cornerRadius = global::ControlloGiga.Resource.Attribute.cornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.counterEnabled = global::ControlloGiga.Resource.Attribute.counterEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.counterMaxLength = global::ControlloGiga.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Forms.Platform.Resource.Attribute.counterOverflowTextAppearance = global::ControlloGiga.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.counterTextAppearance = global::ControlloGiga.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.customNavigationLayout = global::ControlloGiga.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.defaultQueryHint = global::ControlloGiga.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dialogCornerRadius = global::ControlloGiga.Resource.Attribute.dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dialogPreferredPadding = global::ControlloGiga.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dialogTheme = global::ControlloGiga.Resource.Attribute.dialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.displayOptions = global::ControlloGiga.Resource.Attribute.displayOptions;
+			global::Xamarin.Forms.Platform.Resource.Attribute.divider = global::ControlloGiga.Resource.Attribute.divider;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dividerHorizontal = global::ControlloGiga.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dividerPadding = global::ControlloGiga.Resource.Attribute.dividerPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dividerVertical = global::ControlloGiga.Resource.Attribute.dividerVertical;
+			global::Xamarin.Forms.Platform.Resource.Attribute.drawableSize = global::ControlloGiga.Resource.Attribute.drawableSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.drawerArrowStyle = global::ControlloGiga.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dropdownListPreferredItemHeight = global::ControlloGiga.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.dropDownListViewStyle = global::ControlloGiga.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.editTextBackground = global::ControlloGiga.Resource.Attribute.editTextBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.editTextColor = global::ControlloGiga.Resource.Attribute.editTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.editTextStyle = global::ControlloGiga.Resource.Attribute.editTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.elevation = global::ControlloGiga.Resource.Attribute.elevation;
+			global::Xamarin.Forms.Platform.Resource.Attribute.enforceMaterialTheme = global::ControlloGiga.Resource.Attribute.enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.enforceTextAppearance = global::ControlloGiga.Resource.Attribute.enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.errorEnabled = global::ControlloGiga.Resource.Attribute.errorEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.errorTextAppearance = global::ControlloGiga.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandActivityOverflowButtonDrawable = global::ControlloGiga.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expanded = global::ControlloGiga.Resource.Attribute.expanded;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleGravity = global::ControlloGiga.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMargin = global::ControlloGiga.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginBottom = global::ControlloGiga.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginEnd = global::ControlloGiga.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginStart = global::ControlloGiga.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleMarginTop = global::ControlloGiga.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.expandedTitleTextAppearance = global::ControlloGiga.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabAlignmentMode = global::ControlloGiga.Resource.Attribute.fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabCradleMargin = global::ControlloGiga.Resource.Attribute.fabCradleMargin;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabCradleRoundedCornerRadius = global::ControlloGiga.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabCradleVerticalOffset = global::ControlloGiga.Resource.Attribute.fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabCustomSize = global::ControlloGiga.Resource.Attribute.fabCustomSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fabSize = global::ControlloGiga.Resource.Attribute.fabSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollEnabled = global::ControlloGiga.Resource.Attribute.fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::ControlloGiga.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::ControlloGiga.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollVerticalThumbDrawable = global::ControlloGiga.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fastScrollVerticalTrackDrawable = global::ControlloGiga.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.firstBaselineToTopHeight = global::ControlloGiga.Resource.Attribute.firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.floatingActionButtonStyle = global::ControlloGiga.Resource.Attribute.floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.font = global::ControlloGiga.Resource.Attribute.font;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontFamily = global::ControlloGiga.Resource.Attribute.fontFamily;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderAuthority = global::ControlloGiga.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderCerts = global::ControlloGiga.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderFetchStrategy = global::ControlloGiga.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderFetchTimeout = global::ControlloGiga.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderPackage = global::ControlloGiga.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontProviderQuery = global::ControlloGiga.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontStyle = global::ControlloGiga.Resource.Attribute.fontStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontVariationSettings = global::ControlloGiga.Resource.Attribute.fontVariationSettings;
+			global::Xamarin.Forms.Platform.Resource.Attribute.fontWeight = global::ControlloGiga.Resource.Attribute.fontWeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.foregroundInsidePadding = global::ControlloGiga.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.gapBetweenBars = global::ControlloGiga.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Forms.Platform.Resource.Attribute.goIcon = global::ControlloGiga.Resource.Attribute.goIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.headerLayout = global::ControlloGiga.Resource.Attribute.headerLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.height = global::ControlloGiga.Resource.Attribute.height;
+			global::Xamarin.Forms.Platform.Resource.Attribute.helperText = global::ControlloGiga.Resource.Attribute.helperText;
+			global::Xamarin.Forms.Platform.Resource.Attribute.helperTextEnabled = global::ControlloGiga.Resource.Attribute.helperTextEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.helperTextTextAppearance = global::ControlloGiga.Resource.Attribute.helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hideMotionSpec = global::ControlloGiga.Resource.Attribute.hideMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hideOnContentScroll = global::ControlloGiga.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hideOnScroll = global::ControlloGiga.Resource.Attribute.hideOnScroll;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hintAnimationEnabled = global::ControlloGiga.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hintEnabled = global::ControlloGiga.Resource.Attribute.hintEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hintTextAppearance = global::ControlloGiga.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.homeAsUpIndicator = global::ControlloGiga.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.homeLayout = global::ControlloGiga.Resource.Attribute.homeLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.hoveredFocusedTranslationZ = global::ControlloGiga.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Resource.Attribute.icon = global::ControlloGiga.Resource.Attribute.icon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconEndPadding = global::ControlloGiga.Resource.Attribute.iconEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconGravity = global::ControlloGiga.Resource.Attribute.iconGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconifiedByDefault = global::ControlloGiga.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconPadding = global::ControlloGiga.Resource.Attribute.iconPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconSize = global::ControlloGiga.Resource.Attribute.iconSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconStartPadding = global::ControlloGiga.Resource.Attribute.iconStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconTint = global::ControlloGiga.Resource.Attribute.iconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.iconTintMode = global::ControlloGiga.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.imageButtonStyle = global::ControlloGiga.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.indeterminateProgressStyle = global::ControlloGiga.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.initialActivityCount = global::ControlloGiga.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Forms.Platform.Resource.Attribute.insetForeground = global::ControlloGiga.Resource.Attribute.insetForeground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.isLightTheme = global::ControlloGiga.Resource.Attribute.isLightTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemBackground = global::ControlloGiga.Resource.Attribute.itemBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemHorizontalPadding = global::ControlloGiga.Resource.Attribute.itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemHorizontalTranslationEnabled = global::ControlloGiga.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemIconPadding = global::ControlloGiga.Resource.Attribute.itemIconPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemIconSize = global::ControlloGiga.Resource.Attribute.itemIconSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemIconTint = global::ControlloGiga.Resource.Attribute.itemIconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemPadding = global::ControlloGiga.Resource.Attribute.itemPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemSpacing = global::ControlloGiga.Resource.Attribute.itemSpacing;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextAppearance = global::ControlloGiga.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextAppearanceActive = global::ControlloGiga.Resource.Attribute.itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextAppearanceInactive = global::ControlloGiga.Resource.Attribute.itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Resource.Attribute.itemTextColor = global::ControlloGiga.Resource.Attribute.itemTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.keylines = global::ControlloGiga.Resource.Attribute.keylines;
+			global::Xamarin.Forms.Platform.Resource.Attribute.labelVisibilityMode = global::ControlloGiga.Resource.Attribute.labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.lastBaselineToBottomHeight = global::ControlloGiga.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout = global::ControlloGiga.Resource.Attribute.layout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layoutManager = global::ControlloGiga.Resource.Attribute.layoutManager;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_anchor = global::ControlloGiga.Resource.Attribute.layout_anchor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_anchorGravity = global::ControlloGiga.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_behavior = global::ControlloGiga.Resource.Attribute.layout_behavior;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_collapseMode = global::ControlloGiga.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_collapseParallaxMultiplier = global::ControlloGiga.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_dodgeInsetEdges = global::ControlloGiga.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_insetEdge = global::ControlloGiga.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_keyline = global::ControlloGiga.Resource.Attribute.layout_keyline;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_scrollFlags = global::ControlloGiga.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Resource.Attribute.layout_scrollInterpolator = global::ControlloGiga.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.liftOnScroll = global::ControlloGiga.Resource.Attribute.liftOnScroll;
+			global::Xamarin.Forms.Platform.Resource.Attribute.lineHeight = global::ControlloGiga.Resource.Attribute.lineHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.lineSpacing = global::ControlloGiga.Resource.Attribute.lineSpacing;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listChoiceBackgroundIndicator = global::ControlloGiga.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listDividerAlertDialog = global::ControlloGiga.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listItemLayout = global::ControlloGiga.Resource.Attribute.listItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listLayout = global::ControlloGiga.Resource.Attribute.listLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listMenuViewStyle = global::ControlloGiga.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPopupWindowStyle = global::ControlloGiga.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeight = global::ControlloGiga.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeightLarge = global::ControlloGiga.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemHeightSmall = global::ControlloGiga.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemPaddingLeft = global::ControlloGiga.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Resource.Attribute.listPreferredItemPaddingRight = global::ControlloGiga.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.logo = global::ControlloGiga.Resource.Attribute.logo;
+			global::Xamarin.Forms.Platform.Resource.Attribute.logoDescription = global::ControlloGiga.Resource.Attribute.logoDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.materialButtonStyle = global::ControlloGiga.Resource.Attribute.materialButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.materialCardViewStyle = global::ControlloGiga.Resource.Attribute.materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.maxActionInlineWidth = global::ControlloGiga.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.maxButtonHeight = global::ControlloGiga.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.maxImageSize = global::ControlloGiga.Resource.Attribute.maxImageSize;
+			global::Xamarin.Forms.Platform.Resource.Attribute.measureWithLargestChild = global::ControlloGiga.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Resource.Attribute.menu = global::ControlloGiga.Resource.Attribute.menu;
+			global::Xamarin.Forms.Platform.Resource.Attribute.multiChoiceItemLayout = global::ControlloGiga.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.navigationContentDescription = global::ControlloGiga.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.navigationIcon = global::ControlloGiga.Resource.Attribute.navigationIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.navigationMode = global::ControlloGiga.Resource.Attribute.navigationMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.navigationViewStyle = global::ControlloGiga.Resource.Attribute.navigationViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.numericModifiers = global::ControlloGiga.Resource.Attribute.numericModifiers;
+			global::Xamarin.Forms.Platform.Resource.Attribute.overlapAnchor = global::ControlloGiga.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.paddingBottomNoButtons = global::ControlloGiga.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Resource.Attribute.paddingEnd = global::ControlloGiga.Resource.Attribute.paddingEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.paddingStart = global::ControlloGiga.Resource.Attribute.paddingStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.paddingTopNoTitle = global::ControlloGiga.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.panelBackground = global::ControlloGiga.Resource.Attribute.panelBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.panelMenuListTheme = global::ControlloGiga.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.panelMenuListWidth = global::ControlloGiga.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleContentDescription = global::ControlloGiga.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleDrawable = global::ControlloGiga.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleEnabled = global::ControlloGiga.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleTint = global::ControlloGiga.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.passwordToggleTintMode = global::ControlloGiga.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.popupMenuStyle = global::ControlloGiga.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.popupTheme = global::ControlloGiga.Resource.Attribute.popupTheme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.popupWindowStyle = global::ControlloGiga.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.preserveIconSpacing = global::ControlloGiga.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Resource.Attribute.pressedTranslationZ = global::ControlloGiga.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Resource.Attribute.progressBarPadding = global::ControlloGiga.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.progressBarStyle = global::ControlloGiga.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.queryBackground = global::ControlloGiga.Resource.Attribute.queryBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.queryHint = global::ControlloGiga.Resource.Attribute.queryHint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.radioButtonStyle = global::ControlloGiga.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ratingBarStyle = global::ControlloGiga.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ratingBarStyleIndicator = global::ControlloGiga.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ratingBarStyleSmall = global::ControlloGiga.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Resource.Attribute.reverseLayout = global::ControlloGiga.Resource.Attribute.reverseLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.rippleColor = global::ControlloGiga.Resource.Attribute.rippleColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.scrimAnimationDuration = global::ControlloGiga.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Resource.Attribute.scrimBackground = global::ControlloGiga.Resource.Attribute.scrimBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.scrimVisibleHeightTrigger = global::ControlloGiga.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Resource.Attribute.searchHintIcon = global::ControlloGiga.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.searchIcon = global::ControlloGiga.Resource.Attribute.searchIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.searchViewStyle = global::ControlloGiga.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.seekBarStyle = global::ControlloGiga.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.selectableItemBackground = global::ControlloGiga.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.selectableItemBackgroundBorderless = global::ControlloGiga.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showAsAction = global::ControlloGiga.Resource.Attribute.showAsAction;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showDividers = global::ControlloGiga.Resource.Attribute.showDividers;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showMotionSpec = global::ControlloGiga.Resource.Attribute.showMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showText = global::ControlloGiga.Resource.Attribute.showText;
+			global::Xamarin.Forms.Platform.Resource.Attribute.showTitle = global::ControlloGiga.Resource.Attribute.showTitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.singleChoiceItemLayout = global::ControlloGiga.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.singleLine = global::ControlloGiga.Resource.Attribute.singleLine;
+			global::Xamarin.Forms.Platform.Resource.Attribute.singleSelection = global::ControlloGiga.Resource.Attribute.singleSelection;
+			global::Xamarin.Forms.Platform.Resource.Attribute.snackbarButtonStyle = global::ControlloGiga.Resource.Attribute.snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.snackbarStyle = global::ControlloGiga.Resource.Attribute.snackbarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.spanCount = global::ControlloGiga.Resource.Attribute.spanCount;
+			global::Xamarin.Forms.Platform.Resource.Attribute.spinBars = global::ControlloGiga.Resource.Attribute.spinBars;
+			global::Xamarin.Forms.Platform.Resource.Attribute.spinnerDropDownItemStyle = global::ControlloGiga.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.spinnerStyle = global::ControlloGiga.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.splitTrack = global::ControlloGiga.Resource.Attribute.splitTrack;
+			global::Xamarin.Forms.Platform.Resource.Attribute.srcCompat = global::ControlloGiga.Resource.Attribute.srcCompat;
+			global::Xamarin.Forms.Platform.Resource.Attribute.stackFromEnd = global::ControlloGiga.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_above_anchor = global::ControlloGiga.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_collapsed = global::ControlloGiga.Resource.Attribute.state_collapsed;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_collapsible = global::ControlloGiga.Resource.Attribute.state_collapsible;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_liftable = global::ControlloGiga.Resource.Attribute.state_liftable;
+			global::Xamarin.Forms.Platform.Resource.Attribute.state_lifted = global::ControlloGiga.Resource.Attribute.state_lifted;
+			global::Xamarin.Forms.Platform.Resource.Attribute.statusBarBackground = global::ControlloGiga.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.statusBarScrim = global::ControlloGiga.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Forms.Platform.Resource.Attribute.strokeColor = global::ControlloGiga.Resource.Attribute.strokeColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.strokeWidth = global::ControlloGiga.Resource.Attribute.strokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subMenuArrow = global::ControlloGiga.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Forms.Platform.Resource.Attribute.submitBackground = global::ControlloGiga.Resource.Attribute.submitBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subtitle = global::ControlloGiga.Resource.Attribute.subtitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextAppearance = global::ControlloGiga.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextColor = global::ControlloGiga.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.subtitleTextStyle = global::ControlloGiga.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.suggestionRowLayout = global::ControlloGiga.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Resource.Attribute.switchMinWidth = global::ControlloGiga.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.switchPadding = global::ControlloGiga.Resource.Attribute.switchPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.switchStyle = global::ControlloGiga.Resource.Attribute.switchStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.switchTextAppearance = global::ControlloGiga.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabBackground = global::ControlloGiga.Resource.Attribute.tabBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabContentStart = global::ControlloGiga.Resource.Attribute.tabContentStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabGravity = global::ControlloGiga.Resource.Attribute.tabGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIconTint = global::ControlloGiga.Resource.Attribute.tabIconTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIconTintMode = global::ControlloGiga.Resource.Attribute.tabIconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicator = global::ControlloGiga.Resource.Attribute.tabIndicator;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorAnimationDuration = global::ControlloGiga.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorColor = global::ControlloGiga.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorFullWidth = global::ControlloGiga.Resource.Attribute.tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorGravity = global::ControlloGiga.Resource.Attribute.tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabIndicatorHeight = global::ControlloGiga.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabInlineLabel = global::ControlloGiga.Resource.Attribute.tabInlineLabel;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabMaxWidth = global::ControlloGiga.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabMinWidth = global::ControlloGiga.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabMode = global::ControlloGiga.Resource.Attribute.tabMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPadding = global::ControlloGiga.Resource.Attribute.tabPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingBottom = global::ControlloGiga.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingEnd = global::ControlloGiga.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingStart = global::ControlloGiga.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabPaddingTop = global::ControlloGiga.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabRippleColor = global::ControlloGiga.Resource.Attribute.tabRippleColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabSelectedTextColor = global::ControlloGiga.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabStyle = global::ControlloGiga.Resource.Attribute.tabStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabTextAppearance = global::ControlloGiga.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabTextColor = global::ControlloGiga.Resource.Attribute.tabTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tabUnboundedRipple = global::ControlloGiga.Resource.Attribute.tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAllCaps = global::ControlloGiga.Resource.Attribute.textAllCaps;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceBody1 = global::ControlloGiga.Resource.Attribute.textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceBody2 = global::ControlloGiga.Resource.Attribute.textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceButton = global::ControlloGiga.Resource.Attribute.textAppearanceButton;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceCaption = global::ControlloGiga.Resource.Attribute.textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline1 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline2 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline3 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline4 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline5 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceHeadline6 = global::ControlloGiga.Resource.Attribute.textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceLargePopupMenu = global::ControlloGiga.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceListItem = global::ControlloGiga.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceListItemSecondary = global::ControlloGiga.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceListItemSmall = global::ControlloGiga.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceOverline = global::ControlloGiga.Resource.Attribute.textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearancePopupMenuHeader = global::ControlloGiga.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSearchResultSubtitle = global::ControlloGiga.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSearchResultTitle = global::ControlloGiga.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSmallPopupMenu = global::ControlloGiga.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSubtitle1 = global::ControlloGiga.Resource.Attribute.textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textAppearanceSubtitle2 = global::ControlloGiga.Resource.Attribute.textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textColorAlertDialogListItem = global::ControlloGiga.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textColorSearchUrl = global::ControlloGiga.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textEndPadding = global::ControlloGiga.Resource.Attribute.textEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textInputStyle = global::ControlloGiga.Resource.Attribute.textInputStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.textStartPadding = global::ControlloGiga.Resource.Attribute.textStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.theme = global::ControlloGiga.Resource.Attribute.theme;
+			global::Xamarin.Forms.Platform.Resource.Attribute.thickness = global::ControlloGiga.Resource.Attribute.thickness;
+			global::Xamarin.Forms.Platform.Resource.Attribute.thumbTextPadding = global::ControlloGiga.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.thumbTint = global::ControlloGiga.Resource.Attribute.thumbTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.thumbTintMode = global::ControlloGiga.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tickMark = global::ControlloGiga.Resource.Attribute.tickMark;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tickMarkTint = global::ControlloGiga.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tickMarkTintMode = global::ControlloGiga.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tint = global::ControlloGiga.Resource.Attribute.tint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tintMode = global::ControlloGiga.Resource.Attribute.tintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.title = global::ControlloGiga.Resource.Attribute.title;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleEnabled = global::ControlloGiga.Resource.Attribute.titleEnabled;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMargin = global::ControlloGiga.Resource.Attribute.titleMargin;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginBottom = global::ControlloGiga.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginEnd = global::ControlloGiga.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMargins = global::ControlloGiga.Resource.Attribute.titleMargins;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginStart = global::ControlloGiga.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleMarginTop = global::ControlloGiga.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextAppearance = global::ControlloGiga.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextColor = global::ControlloGiga.Resource.Attribute.titleTextColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.titleTextStyle = global::ControlloGiga.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarId = global::ControlloGiga.Resource.Attribute.toolbarId;
+			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarNavigationButtonStyle = global::ControlloGiga.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.toolbarStyle = global::ControlloGiga.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tooltipForegroundColor = global::ControlloGiga.Resource.Attribute.tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tooltipFrameBackground = global::ControlloGiga.Resource.Attribute.tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Resource.Attribute.tooltipText = global::ControlloGiga.Resource.Attribute.tooltipText;
+			global::Xamarin.Forms.Platform.Resource.Attribute.track = global::ControlloGiga.Resource.Attribute.track;
+			global::Xamarin.Forms.Platform.Resource.Attribute.trackTint = global::ControlloGiga.Resource.Attribute.trackTint;
+			global::Xamarin.Forms.Platform.Resource.Attribute.trackTintMode = global::ControlloGiga.Resource.Attribute.trackTintMode;
+			global::Xamarin.Forms.Platform.Resource.Attribute.ttcIndex = global::ControlloGiga.Resource.Attribute.ttcIndex;
+			global::Xamarin.Forms.Platform.Resource.Attribute.useCompatPadding = global::ControlloGiga.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Forms.Platform.Resource.Attribute.viewInflaterClass = global::ControlloGiga.Resource.Attribute.viewInflaterClass;
+			global::Xamarin.Forms.Platform.Resource.Attribute.voiceIcon = global::ControlloGiga.Resource.Attribute.voiceIcon;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionBar = global::ControlloGiga.Resource.Attribute.windowActionBar;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionBarOverlay = global::ControlloGiga.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowActionModeOverlay = global::ControlloGiga.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedHeightMajor = global::ControlloGiga.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedHeightMinor = global::ControlloGiga.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedWidthMajor = global::ControlloGiga.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowFixedWidthMinor = global::ControlloGiga.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowMinWidthMajor = global::ControlloGiga.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowMinWidthMinor = global::ControlloGiga.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Resource.Attribute.windowNoTitle = global::ControlloGiga.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Boolean.abc_action_bar_embed_tabs = global::ControlloGiga.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Forms.Platform.Resource.Boolean.abc_allow_stacked_button_bar = global::ControlloGiga.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Xamarin.Forms.Platform.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::ControlloGiga.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Forms.Platform.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::ControlloGiga.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_background_cache_hint_selector_material_dark = global::ControlloGiga.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_background_cache_hint_selector_material_light = global::ControlloGiga.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_btn_colored_borderless_text_material = global::ControlloGiga.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_btn_colored_text_material = global::ControlloGiga.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_color_highlight_material = global::ControlloGiga.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_hint_foreground_material_dark = global::ControlloGiga.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_hint_foreground_material_light = global::ControlloGiga.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_input_method_navigation_guard = global::ControlloGiga.Resource.Color.abc_input_method_navigation_guard;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_disable_only_material_dark = global::ControlloGiga.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_disable_only_material_light = global::ControlloGiga.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_material_dark = global::ControlloGiga.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_primary_text_material_light = global::ControlloGiga.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text = global::ControlloGiga.Resource.Color.abc_search_url_text;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_normal = global::ControlloGiga.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_pressed = global::ControlloGiga.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_search_url_text_selected = global::ControlloGiga.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_secondary_text_material_dark = global::ControlloGiga.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_secondary_text_material_light = global::ControlloGiga.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_btn_checkable = global::ControlloGiga.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_default = global::ControlloGiga.Resource.Color.abc_tint_default;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_edittext = global::ControlloGiga.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_seek_thumb = global::ControlloGiga.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_spinner = global::ControlloGiga.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Forms.Platform.Resource.Color.abc_tint_switch_track = global::ControlloGiga.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Forms.Platform.Resource.Color.accent_material_dark = global::ControlloGiga.Resource.Color.accent_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.accent_material_light = global::ControlloGiga.Resource.Color.accent_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.background_floating_material_dark = global::ControlloGiga.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.background_floating_material_light = global::ControlloGiga.Resource.Color.background_floating_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.background_material_dark = global::ControlloGiga.Resource.Color.background_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.background_material_light = global::ControlloGiga.Resource.Color.background_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_disabled_material_dark = global::ControlloGiga.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_disabled_material_light = global::ControlloGiga.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_inverse_material_dark = global::ControlloGiga.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_inverse_material_light = global::ControlloGiga.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_material_dark = global::ControlloGiga.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.bright_foreground_material_light = global::ControlloGiga.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.button_material_dark = global::ControlloGiga.Resource.Color.button_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.button_material_light = global::ControlloGiga.Resource.Color.button_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.cardview_dark_background = global::ControlloGiga.Resource.Color.cardview_dark_background;
+			global::Xamarin.Forms.Platform.Resource.Color.cardview_light_background = global::ControlloGiga.Resource.Color.cardview_light_background;
+			global::Xamarin.Forms.Platform.Resource.Color.cardview_shadow_end_color = global::ControlloGiga.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Forms.Platform.Resource.Color.cardview_shadow_start_color = global::ControlloGiga.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_bottom_navigation_shadow_color = global::ControlloGiga.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_default_color_primary = global::ControlloGiga.Resource.Color.design_default_color_primary;
+			global::Xamarin.Forms.Platform.Resource.Color.design_default_color_primary_dark = global::ControlloGiga.Resource.Color.design_default_color_primary_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.design_error = global::ControlloGiga.Resource.Color.design_error;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_end_color = global::ControlloGiga.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_mid_color = global::ControlloGiga.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_shadow_start_color = global::ControlloGiga.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_end_inner_color = global::ControlloGiga.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_end_outer_color = global::ControlloGiga.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_top_inner_color = global::ControlloGiga.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_fab_stroke_top_outer_color = global::ControlloGiga.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_snackbar_background_color = global::ControlloGiga.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Forms.Platform.Resource.Color.design_tint_password_toggle = global::ControlloGiga.Resource.Color.design_tint_password_toggle;
+			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_disabled_material_dark = global::ControlloGiga.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_disabled_material_light = global::ControlloGiga.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_material_dark = global::ControlloGiga.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.dim_foreground_material_light = global::ControlloGiga.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.error_color_material_dark = global::ControlloGiga.Resource.Color.error_color_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.error_color_material_light = global::ControlloGiga.Resource.Color.error_color_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.foreground_material_dark = global::ControlloGiga.Resource.Color.foreground_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.foreground_material_light = global::ControlloGiga.Resource.Color.foreground_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.highlighted_text_material_dark = global::ControlloGiga.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.highlighted_text_material_light = global::ControlloGiga.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_800 = global::ControlloGiga.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_900 = global::ControlloGiga.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Forms.Platform.Resource.Color.material_blue_grey_950 = global::ControlloGiga.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Forms.Platform.Resource.Color.material_deep_teal_200 = global::ControlloGiga.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Forms.Platform.Resource.Color.material_deep_teal_500 = global::ControlloGiga.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_100 = global::ControlloGiga.Resource.Color.material_grey_100;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_300 = global::ControlloGiga.Resource.Color.material_grey_300;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_50 = global::ControlloGiga.Resource.Color.material_grey_50;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_600 = global::ControlloGiga.Resource.Color.material_grey_600;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_800 = global::ControlloGiga.Resource.Color.material_grey_800;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_850 = global::ControlloGiga.Resource.Color.material_grey_850;
+			global::Xamarin.Forms.Platform.Resource.Color.material_grey_900 = global::ControlloGiga.Resource.Color.material_grey_900;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::ControlloGiga.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_bottom_nav_item_tint = global::ControlloGiga.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_bg_color_disabled = global::ControlloGiga.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_bg_color_selector = global::ControlloGiga.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_ripple_color = global::ControlloGiga.Resource.Color.mtrl_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_stroke_color_selector = global::ControlloGiga.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_text_btn_ripple_color = global::ControlloGiga.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_text_color_disabled = global::ControlloGiga.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_text_color_selector = global::ControlloGiga.Resource.Color.mtrl_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_btn_transparent_bg_color = global::ControlloGiga.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_chip_background_color = global::ControlloGiga.Resource.Color.mtrl_chip_background_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_chip_close_icon_tint = global::ControlloGiga.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_chip_ripple_color = global::ControlloGiga.Resource.Color.mtrl_chip_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_chip_text_color = global::ControlloGiga.Resource.Color.mtrl_chip_text_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_fab_ripple_color = global::ControlloGiga.Resource.Color.mtrl_fab_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_scrim_color = global::ControlloGiga.Resource.Color.mtrl_scrim_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_colored_ripple_color = global::ControlloGiga.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_icon_color_selector = global::ControlloGiga.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::ControlloGiga.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::ControlloGiga.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_tabs_ripple_color = global::ControlloGiga.Resource.Color.mtrl_tabs_ripple_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_textinput_default_box_stroke_color = global::ControlloGiga.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_textinput_disabled_color = global::ControlloGiga.Resource.Color.mtrl_textinput_disabled_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::ControlloGiga.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::ControlloGiga.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Xamarin.Forms.Platform.Resource.Color.mtrl_text_btn_text_color_selector = global::ControlloGiga.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Resource.Color.notification_action_color_filter = global::ControlloGiga.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Forms.Platform.Resource.Color.notification_icon_bg_color = global::ControlloGiga.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Forms.Platform.Resource.Color.notification_material_background_media_default_color = global::ControlloGiga.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_dark_material_dark = global::ControlloGiga.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_dark_material_light = global::ControlloGiga.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_material_dark = global::ControlloGiga.Resource.Color.primary_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_material_light = global::ControlloGiga.Resource.Color.primary_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_text_default_material_dark = global::ControlloGiga.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_text_default_material_light = global::ControlloGiga.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_text_disabled_material_dark = global::ControlloGiga.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.primary_text_disabled_material_light = global::ControlloGiga.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.ripple_material_dark = global::ControlloGiga.Resource.Color.ripple_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.ripple_material_light = global::ControlloGiga.Resource.Color.ripple_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_default_material_dark = global::ControlloGiga.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_default_material_light = global::ControlloGiga.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_disabled_material_dark = global::ControlloGiga.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.secondary_text_disabled_material_light = global::ControlloGiga.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_disabled_material_dark = global::ControlloGiga.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_disabled_material_light = global::ControlloGiga.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_material_dark = global::ControlloGiga.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_material_light = global::ControlloGiga.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_normal_material_dark = global::ControlloGiga.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.switch_thumb_normal_material_light = global::ControlloGiga.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Forms.Platform.Resource.Color.tooltip_background_dark = global::ControlloGiga.Resource.Color.tooltip_background_dark;
+			global::Xamarin.Forms.Platform.Resource.Color.tooltip_background_light = global::ControlloGiga.Resource.Color.tooltip_background_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_content_inset_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::ControlloGiga.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_height_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_padding_end_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_default_padding_start_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_elevation_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_stacked_max_height = global::ControlloGiga.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::ControlloGiga.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::ControlloGiga.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_height_material = global::ControlloGiga.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_width_material = global::ControlloGiga.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_action_button_min_width_overflow_material = global::ControlloGiga.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_alert_dialog_button_bar_height = global::ControlloGiga.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_alert_dialog_button_dimen = global::ControlloGiga.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_inset_horizontal_material = global::ControlloGiga.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_inset_vertical_material = global::ControlloGiga.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_padding_horizontal_material = global::ControlloGiga.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_button_padding_vertical_material = global::ControlloGiga.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::ControlloGiga.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_config_prefDialogWidth = global::ControlloGiga.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_corner_material = global::ControlloGiga.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_inset_material = global::ControlloGiga.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_control_padding_material = global::ControlloGiga.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_corner_radius_material = global::ControlloGiga.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_fixed_height_major = global::ControlloGiga.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_fixed_height_minor = global::ControlloGiga.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_fixed_width_major = global::ControlloGiga.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_fixed_width_minor = global::ControlloGiga.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::ControlloGiga.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::ControlloGiga.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_min_width_major = global::ControlloGiga.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_min_width_minor = global::ControlloGiga.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_padding_material = global::ControlloGiga.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_padding_top_material = global::ControlloGiga.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dialog_title_divider_material = global::ControlloGiga.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_disabled_alpha_material_dark = global::ControlloGiga.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_disabled_alpha_material_light = global::ControlloGiga.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_icon_width = global::ControlloGiga.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_text_padding_left = global::ControlloGiga.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_dropdownitem_text_padding_right = global::ControlloGiga.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_bottom_material = global::ControlloGiga.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::ControlloGiga.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_edit_text_inset_top_material = global::ControlloGiga.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_floating_window_z = global::ControlloGiga.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_list_item_padding_horizontal_material = global::ControlloGiga.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_panel_menu_list_width = global::ControlloGiga.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_progress_bar_height_material = global::ControlloGiga.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_search_view_preferred_height = global::ControlloGiga.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_search_view_preferred_width = global::ControlloGiga.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_seekbar_track_background_height_material = global::ControlloGiga.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_seekbar_track_progress_height_material = global::ControlloGiga.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_select_dialog_padding_start_material = global::ControlloGiga.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_switch_padding = global::ControlloGiga.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_body_1_material = global::ControlloGiga.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_body_2_material = global::ControlloGiga.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_button_material = global::ControlloGiga.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_caption_material = global::ControlloGiga.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_1_material = global::ControlloGiga.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_2_material = global::ControlloGiga.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_3_material = global::ControlloGiga.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_display_4_material = global::ControlloGiga.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_headline_material = global::ControlloGiga.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_large_material = global::ControlloGiga.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_medium_material = global::ControlloGiga.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_menu_header_material = global::ControlloGiga.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_menu_material = global::ControlloGiga.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_small_material = global::ControlloGiga.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_subhead_material = global::ControlloGiga.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::ControlloGiga.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_title_material = global::ControlloGiga.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.abc_text_size_title_material_toolbar = global::ControlloGiga.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_compat_inset_shadow = global::ControlloGiga.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_default_elevation = global::ControlloGiga.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.cardview_default_radius = global::ControlloGiga.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_button_inset_horizontal_material = global::ControlloGiga.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_button_inset_vertical_material = global::ControlloGiga.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_button_padding_horizontal_material = global::ControlloGiga.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_button_padding_vertical_material = global::ControlloGiga.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_control_corner_material = global::ControlloGiga.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_notification_large_icon_max_height = global::ControlloGiga.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.compat_notification_large_icon_max_width = global::ControlloGiga.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_appbar_elevation = global::ControlloGiga.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_active_text_size = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_elevation = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_height = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_icon_size = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_item_max_width = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_item_min_width = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_margin = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_shadow_height = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_navigation_text_size = global::ControlloGiga.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_sheet_modal_elevation = global::ControlloGiga.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_bottom_sheet_peek_height_min = global::ControlloGiga.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_border_width = global::ControlloGiga.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_elevation = global::ControlloGiga.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_image_size = global::ControlloGiga.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_size_mini = global::ControlloGiga.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_size_normal = global::ControlloGiga.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_translation_z_hovered_focused = global::ControlloGiga.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_fab_translation_z_pressed = global::ControlloGiga.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_elevation = global::ControlloGiga.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_icon_padding = global::ControlloGiga.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_icon_size = global::ControlloGiga.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_item_horizontal_padding = global::ControlloGiga.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_item_icon_padding = global::ControlloGiga.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_max_width = global::ControlloGiga.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_padding_bottom = global::ControlloGiga.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_navigation_separator_vertical_padding = global::ControlloGiga.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_action_inline_max_width = global::ControlloGiga.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_background_corner_radius = global::ControlloGiga.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_elevation = global::ControlloGiga.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::ControlloGiga.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_max_width = global::ControlloGiga.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_min_width = global::ControlloGiga.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_horizontal = global::ControlloGiga.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_vertical = global::ControlloGiga.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::ControlloGiga.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_snackbar_text_size = global::ControlloGiga.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_max_width = global::ControlloGiga.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_scrollable_min_width = global::ControlloGiga.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_text_size = global::ControlloGiga.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_tab_text_size_2line = global::ControlloGiga.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Forms.Platform.Resource.Dimension.design_textinput_caption_translate_y = global::ControlloGiga.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Xamarin.Forms.Platform.Resource.Dimension.disabled_alpha_material_dark = global::ControlloGiga.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.disabled_alpha_material_light = global::ControlloGiga.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.fastscroll_default_thickness = global::ControlloGiga.Resource.Dimension.fastscroll_default_thickness;
+			global::Xamarin.Forms.Platform.Resource.Dimension.fastscroll_margin = global::ControlloGiga.Resource.Dimension.fastscroll_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.fastscroll_minimum_range = global::ControlloGiga.Resource.Dimension.fastscroll_minimum_range;
+			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_colored = global::ControlloGiga.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_dark = global::ControlloGiga.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.highlight_alpha_material_light = global::ControlloGiga.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.hint_alpha_material_dark = global::ControlloGiga.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.hint_alpha_material_light = global::ControlloGiga.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.hint_pressed_alpha_material_dark = global::ControlloGiga.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Resource.Dimension.hint_pressed_alpha_material_light = global::ControlloGiga.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Forms.Platform.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::ControlloGiga.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Forms.Platform.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::ControlloGiga.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Forms.Platform.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::ControlloGiga.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_bottomappbar_height = global::ControlloGiga.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_corner_radius = global::ControlloGiga.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::ControlloGiga.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_disabled_elevation = global::ControlloGiga.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_disabled_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_elevation = global::ControlloGiga.Resource.Dimension.mtrl_btn_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_focused_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_focused_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_hovered_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::ControlloGiga.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_icon_padding = global::ControlloGiga.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_inset = global::ControlloGiga.Resource.Dimension.mtrl_btn_inset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_letter_spacing = global::ControlloGiga.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_padding_bottom = global::ControlloGiga.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_padding_left = global::ControlloGiga.Resource.Dimension.mtrl_btn_padding_left;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_padding_right = global::ControlloGiga.Resource.Dimension.mtrl_btn_padding_right;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_padding_top = global::ControlloGiga.Resource.Dimension.mtrl_btn_padding_top;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_pressed_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_stroke_size = global::ControlloGiga.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::ControlloGiga.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::ControlloGiga.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::ControlloGiga.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_text_size = global::ControlloGiga.Resource.Dimension.mtrl_btn_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_btn_z = global::ControlloGiga.Resource.Dimension.mtrl_btn_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_card_elevation = global::ControlloGiga.Resource.Dimension.mtrl_card_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_card_spacing = global::ControlloGiga.Resource.Dimension.mtrl_card_spacing;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_chip_pressed_translation_z = global::ControlloGiga.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_chip_text_size = global::ControlloGiga.Resource.Dimension.mtrl_chip_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_fab_elevation = global::ControlloGiga.Resource.Dimension.mtrl_fab_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::ControlloGiga.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_fab_translation_z_pressed = global::ControlloGiga.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_navigation_elevation = global::ControlloGiga.Resource.Dimension.mtrl_navigation_elevation;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::ControlloGiga.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_navigation_item_icon_padding = global::ControlloGiga.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::ControlloGiga.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_snackbar_margin = global::ControlloGiga.Resource.Dimension.mtrl_snackbar_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_padding_end = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::ControlloGiga.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::ControlloGiga.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.mtrl_toolbar_default_height = global::ControlloGiga.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_action_icon_size = global::ControlloGiga.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_action_text_size = global::ControlloGiga.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_big_circle_margin = global::ControlloGiga.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_content_margin_start = global::ControlloGiga.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_large_icon_height = global::ControlloGiga.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_large_icon_width = global::ControlloGiga.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_main_column_padding_top = global::ControlloGiga.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_media_narrow_margin = global::ControlloGiga.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_right_icon_size = global::ControlloGiga.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_right_side_padding_top = global::ControlloGiga.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_small_icon_background_padding = global::ControlloGiga.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_small_icon_size_as_large = global::ControlloGiga.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_subtext_size = global::ControlloGiga.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_top_pad = global::ControlloGiga.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Forms.Platform.Resource.Dimension.notification_top_pad_large_text = global::ControlloGiga.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Forms.Platform.Resource.Dimension.subtitle_corner_radius = global::ControlloGiga.Resource.Dimension.subtitle_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.subtitle_outline_width = global::ControlloGiga.Resource.Dimension.subtitle_outline_width;
+			global::Xamarin.Forms.Platform.Resource.Dimension.subtitle_shadow_offset = global::ControlloGiga.Resource.Dimension.subtitle_shadow_offset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.subtitle_shadow_radius = global::ControlloGiga.Resource.Dimension.subtitle_shadow_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_corner_radius = global::ControlloGiga.Resource.Dimension.tooltip_corner_radius;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_horizontal_padding = global::ControlloGiga.Resource.Dimension.tooltip_horizontal_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_margin = global::ControlloGiga.Resource.Dimension.tooltip_margin;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::ControlloGiga.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_precise_anchor_threshold = global::ControlloGiga.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_vertical_padding = global::ControlloGiga.Resource.Dimension.tooltip_vertical_padding;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_y_offset_non_touch = global::ControlloGiga.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Xamarin.Forms.Platform.Resource.Dimension.tooltip_y_offset_touch = global::ControlloGiga.Resource.Dimension.tooltip_y_offset_touch;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_action_bar_item_background_material = global::ControlloGiga.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_borderless_material = global::ControlloGiga.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_material = global::ControlloGiga.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::ControlloGiga.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::ControlloGiga.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_colored_material = global::ControlloGiga.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_default_mtrl_shape = global::ControlloGiga.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_material = global::ControlloGiga.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::ControlloGiga.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::ControlloGiga.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::ControlloGiga.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::ControlloGiga.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_internal_bg = global::ControlloGiga.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_top_material = global::ControlloGiga.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_control_background_material = global::ControlloGiga.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_dialog_material_background = global::ControlloGiga.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_edit_text_material = global::ControlloGiga.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_ab_back_material = global::ControlloGiga.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::ControlloGiga.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_clear_material = global::ControlloGiga.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_go_search_api_material = global::ControlloGiga.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_overflow_material = global::ControlloGiga.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_search_api_material = global::ControlloGiga.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_black_16dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_black_36dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_black_48dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_half_black_16dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_half_black_36dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_star_half_black_48dp = global::ControlloGiga.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ic_voice_search_api_material = global::ControlloGiga.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_item_background_holo_dark = global::ControlloGiga.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_item_background_holo_light = global::ControlloGiga.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_divider_material = global::ControlloGiga.Resource.Drawable.abc_list_divider_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_divider_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_focused_holo = global::ControlloGiga.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_longpressed_holo = global::ControlloGiga.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_pressed_holo_dark = global::ControlloGiga.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_pressed_holo_light = global::ControlloGiga.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::ControlloGiga.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::ControlloGiga.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::ControlloGiga.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_disabled_holo_light = global::ControlloGiga.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_holo_dark = global::ControlloGiga.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_list_selector_holo_light = global::ControlloGiga.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::ControlloGiga.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_popup_background_mtrl_mult = global::ControlloGiga.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ratingbar_indicator_material = global::ControlloGiga.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ratingbar_material = global::ControlloGiga.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_ratingbar_small_material = global::ControlloGiga.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::ControlloGiga.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::ControlloGiga.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_seekbar_thumb_material = global::ControlloGiga.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_seekbar_tick_mark_material = global::ControlloGiga.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_seekbar_track_material = global::ControlloGiga.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::ControlloGiga.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_spinner_textfield_background_material = global::ControlloGiga.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_switch_thumb_material = global::ControlloGiga.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_switch_track_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_tab_indicator_material = global::ControlloGiga.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::ControlloGiga.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_textfield_search_material = global::ControlloGiga.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_cursor_material = global::ControlloGiga.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::ControlloGiga.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Forms.Platform.Resource.Drawable.abc_vector_test = global::ControlloGiga.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Forms.Platform.Resource.Drawable.avd_hide_password = global::ControlloGiga.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Forms.Platform.Resource.Drawable.avd_show_password = global::ControlloGiga.Resource.Drawable.avd_show_password;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_bottom_navigation_item_background = global::ControlloGiga.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_fab_background = global::ControlloGiga.Resource.Drawable.design_fab_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_ic_visibility = global::ControlloGiga.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_ic_visibility_off = global::ControlloGiga.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_password_eye = global::ControlloGiga.Resource.Drawable.design_password_eye;
+			global::Xamarin.Forms.Platform.Resource.Drawable.design_snackbar_background = global::ControlloGiga.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.ic_mtrl_chip_checked_black = global::ControlloGiga.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Xamarin.Forms.Platform.Resource.Drawable.ic_mtrl_chip_checked_circle = global::ControlloGiga.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Xamarin.Forms.Platform.Resource.Drawable.ic_mtrl_chip_close_circle = global::ControlloGiga.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_snackbar_background = global::ControlloGiga.Resource.Drawable.mtrl_snackbar_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.mtrl_tabs_default_indicator = global::ControlloGiga.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Xamarin.Forms.Platform.Resource.Drawable.navigation_empty_icon = global::ControlloGiga.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_action_background = global::ControlloGiga.Resource.Drawable.notification_action_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg = global::ControlloGiga.Resource.Drawable.notification_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_low = global::ControlloGiga.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_low_normal = global::ControlloGiga.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_low_pressed = global::ControlloGiga.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_normal = global::ControlloGiga.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_bg_normal_pressed = global::ControlloGiga.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_icon_background = global::ControlloGiga.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_template_icon_bg = global::ControlloGiga.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_template_icon_low_bg = global::ControlloGiga.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notification_tile_bg = global::ControlloGiga.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.notify_panel_notification_icon_bg = global::ControlloGiga.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Forms.Platform.Resource.Drawable.tooltip_frame_dark = global::ControlloGiga.Resource.Drawable.tooltip_frame_dark;
+			global::Xamarin.Forms.Platform.Resource.Drawable.tooltip_frame_light = global::ControlloGiga.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Platform.Resource.Id.action0 = global::ControlloGiga.Resource.Id.action0;
+			global::Xamarin.Forms.Platform.Resource.Id.actions = global::ControlloGiga.Resource.Id.actions;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar = global::ControlloGiga.Resource.Id.action_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_activity_content = global::ControlloGiga.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_container = global::ControlloGiga.Resource.Id.action_bar_container;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_root = global::ControlloGiga.Resource.Id.action_bar_root;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_spinner = global::ControlloGiga.Resource.Id.action_bar_spinner;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_subtitle = global::ControlloGiga.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Forms.Platform.Resource.Id.action_bar_title = global::ControlloGiga.Resource.Id.action_bar_title;
+			global::Xamarin.Forms.Platform.Resource.Id.action_container = global::ControlloGiga.Resource.Id.action_container;
+			global::Xamarin.Forms.Platform.Resource.Id.action_context_bar = global::ControlloGiga.Resource.Id.action_context_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.action_divider = global::ControlloGiga.Resource.Id.action_divider;
+			global::Xamarin.Forms.Platform.Resource.Id.action_image = global::ControlloGiga.Resource.Id.action_image;
+			global::Xamarin.Forms.Platform.Resource.Id.action_menu_divider = global::ControlloGiga.Resource.Id.action_menu_divider;
+			global::Xamarin.Forms.Platform.Resource.Id.action_menu_presenter = global::ControlloGiga.Resource.Id.action_menu_presenter;
+			global::Xamarin.Forms.Platform.Resource.Id.action_mode_bar = global::ControlloGiga.Resource.Id.action_mode_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.action_mode_bar_stub = global::ControlloGiga.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Forms.Platform.Resource.Id.action_mode_close_button = global::ControlloGiga.Resource.Id.action_mode_close_button;
+			global::Xamarin.Forms.Platform.Resource.Id.action_text = global::ControlloGiga.Resource.Id.action_text;
+			global::Xamarin.Forms.Platform.Resource.Id.activity_chooser_view_content = global::ControlloGiga.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Forms.Platform.Resource.Id.add = global::ControlloGiga.Resource.Id.add;
+			global::Xamarin.Forms.Platform.Resource.Id.alertTitle = global::ControlloGiga.Resource.Id.alertTitle;
+			global::Xamarin.Forms.Platform.Resource.Id.all = global::ControlloGiga.Resource.Id.all;
+			global::Xamarin.Forms.Platform.Resource.Id.ALT = global::ControlloGiga.Resource.Id.ALT;
+			global::Xamarin.Forms.Platform.Resource.Id.always = global::ControlloGiga.Resource.Id.always;
+			global::Xamarin.Forms.Platform.Resource.Id.async = global::ControlloGiga.Resource.Id.async;
+			global::Xamarin.Forms.Platform.Resource.Id.auto = global::ControlloGiga.Resource.Id.auto;
+			global::Xamarin.Forms.Platform.Resource.Id.beginning = global::ControlloGiga.Resource.Id.beginning;
+			global::Xamarin.Forms.Platform.Resource.Id.blocking = global::ControlloGiga.Resource.Id.blocking;
+			global::Xamarin.Forms.Platform.Resource.Id.bottom = global::ControlloGiga.Resource.Id.bottom;
+			global::Xamarin.Forms.Platform.Resource.Id.bottomtab_navarea = global::ControlloGiga.Resource.Id.bottomtab_navarea;
+			global::Xamarin.Forms.Platform.Resource.Id.bottomtab_tabbar = global::ControlloGiga.Resource.Id.bottomtab_tabbar;
+			global::Xamarin.Forms.Platform.Resource.Id.buttonPanel = global::ControlloGiga.Resource.Id.buttonPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.cancel_action = global::ControlloGiga.Resource.Id.cancel_action;
+			global::Xamarin.Forms.Platform.Resource.Id.center = global::ControlloGiga.Resource.Id.center;
+			global::Xamarin.Forms.Platform.Resource.Id.center_horizontal = global::ControlloGiga.Resource.Id.center_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Id.center_vertical = global::ControlloGiga.Resource.Id.center_vertical;
+			global::Xamarin.Forms.Platform.Resource.Id.checkbox = global::ControlloGiga.Resource.Id.checkbox;
+			global::Xamarin.Forms.Platform.Resource.Id.chronometer = global::ControlloGiga.Resource.Id.chronometer;
+			global::Xamarin.Forms.Platform.Resource.Id.clip_horizontal = global::ControlloGiga.Resource.Id.clip_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Id.clip_vertical = global::ControlloGiga.Resource.Id.clip_vertical;
+			global::Xamarin.Forms.Platform.Resource.Id.collapseActionView = global::ControlloGiga.Resource.Id.collapseActionView;
+			global::Xamarin.Forms.Platform.Resource.Id.container = global::ControlloGiga.Resource.Id.container;
+			global::Xamarin.Forms.Platform.Resource.Id.content = global::ControlloGiga.Resource.Id.content;
+			global::Xamarin.Forms.Platform.Resource.Id.contentPanel = global::ControlloGiga.Resource.Id.contentPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.coordinator = global::ControlloGiga.Resource.Id.coordinator;
+			global::Xamarin.Forms.Platform.Resource.Id.CTRL = global::ControlloGiga.Resource.Id.CTRL;
+			global::Xamarin.Forms.Platform.Resource.Id.custom = global::ControlloGiga.Resource.Id.custom;
+			global::Xamarin.Forms.Platform.Resource.Id.customPanel = global::ControlloGiga.Resource.Id.customPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.decor_content_parent = global::ControlloGiga.Resource.Id.decor_content_parent;
+			global::Xamarin.Forms.Platform.Resource.Id.default_activity_button = global::ControlloGiga.Resource.Id.default_activity_button;
+			global::Xamarin.Forms.Platform.Resource.Id.design_bottom_sheet = global::ControlloGiga.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Forms.Platform.Resource.Id.design_menu_item_action_area = global::ControlloGiga.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Resource.Id.design_menu_item_action_area_stub = global::ControlloGiga.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Forms.Platform.Resource.Id.design_menu_item_text = global::ControlloGiga.Resource.Id.design_menu_item_text;
+			global::Xamarin.Forms.Platform.Resource.Id.design_navigation_view = global::ControlloGiga.Resource.Id.design_navigation_view;
+			global::Xamarin.Forms.Platform.Resource.Id.disableHome = global::ControlloGiga.Resource.Id.disableHome;
+			global::Xamarin.Forms.Platform.Resource.Id.edit_query = global::ControlloGiga.Resource.Id.edit_query;
+			global::Xamarin.Forms.Platform.Resource.Id.end = global::ControlloGiga.Resource.Id.end;
+			global::Xamarin.Forms.Platform.Resource.Id.end_padder = global::ControlloGiga.Resource.Id.end_padder;
+			global::Xamarin.Forms.Platform.Resource.Id.enterAlways = global::ControlloGiga.Resource.Id.enterAlways;
+			global::Xamarin.Forms.Platform.Resource.Id.enterAlwaysCollapsed = global::ControlloGiga.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Forms.Platform.Resource.Id.exitUntilCollapsed = global::ControlloGiga.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Forms.Platform.Resource.Id.expanded_menu = global::ControlloGiga.Resource.Id.expanded_menu;
+			global::Xamarin.Forms.Platform.Resource.Id.expand_activities_button = global::ControlloGiga.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Platform.Resource.Id.fill = global::ControlloGiga.Resource.Id.fill;
+			global::Xamarin.Forms.Platform.Resource.Id.filled = global::ControlloGiga.Resource.Id.filled;
+			global::Xamarin.Forms.Platform.Resource.Id.fill_horizontal = global::ControlloGiga.Resource.Id.fill_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Id.fill_vertical = global::ControlloGiga.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Platform.Resource.Id.@fixed = global::ControlloGiga.Resource.Id.@fixed;
+			global::Xamarin.Forms.Platform.Resource.Id.flyoutcontent_appbar = global::ControlloGiga.Resource.Id.flyoutcontent_appbar;
+			global::Xamarin.Forms.Platform.Resource.Id.flyoutcontent_recycler = global::ControlloGiga.Resource.Id.flyoutcontent_recycler;
+			global::Xamarin.Forms.Platform.Resource.Id.forever = global::ControlloGiga.Resource.Id.forever;
+			global::Xamarin.Forms.Platform.Resource.Id.FUNCTION = global::ControlloGiga.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Platform.Resource.Id.ghost_view = global::ControlloGiga.Resource.Id.ghost_view;
+			global::Xamarin.Forms.Platform.Resource.Id.group_divider = global::ControlloGiga.Resource.Id.group_divider;
+			global::Xamarin.Forms.Platform.Resource.Id.home = global::ControlloGiga.Resource.Id.home;
+			global::Xamarin.Forms.Platform.Resource.Id.homeAsUp = global::ControlloGiga.Resource.Id.homeAsUp;
+			global::Xamarin.Forms.Platform.Resource.Id.icon = global::ControlloGiga.Resource.Id.icon;
+			global::Xamarin.Forms.Platform.Resource.Id.icon_group = global::ControlloGiga.Resource.Id.icon_group;
+			global::Xamarin.Forms.Platform.Resource.Id.ifRoom = global::ControlloGiga.Resource.Id.ifRoom;
+			global::Xamarin.Forms.Platform.Resource.Id.image = global::ControlloGiga.Resource.Id.image;
+			global::Xamarin.Forms.Platform.Resource.Id.info = global::ControlloGiga.Resource.Id.info;
+			global::Xamarin.Forms.Platform.Resource.Id.italic = global::ControlloGiga.Resource.Id.italic;
+			global::Xamarin.Forms.Platform.Resource.Id.item_touch_helper_previous_elevation = global::ControlloGiga.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Forms.Platform.Resource.Id.labeled = global::ControlloGiga.Resource.Id.labeled;
+			global::Xamarin.Forms.Platform.Resource.Id.largeLabel = global::ControlloGiga.Resource.Id.largeLabel;
+			global::Xamarin.Forms.Platform.Resource.Id.left = global::ControlloGiga.Resource.Id.left;
+			global::Xamarin.Forms.Platform.Resource.Id.line1 = global::ControlloGiga.Resource.Id.line1;
+			global::Xamarin.Forms.Platform.Resource.Id.line3 = global::ControlloGiga.Resource.Id.line3;
+			global::Xamarin.Forms.Platform.Resource.Id.listMode = global::ControlloGiga.Resource.Id.listMode;
+			global::Xamarin.Forms.Platform.Resource.Id.list_item = global::ControlloGiga.Resource.Id.list_item;
+			global::Xamarin.Forms.Platform.Resource.Id.main_appbar = global::ControlloGiga.Resource.Id.main_appbar;
+			global::Xamarin.Forms.Platform.Resource.Id.main_tablayout = global::ControlloGiga.Resource.Id.main_tablayout;
+			global::Xamarin.Forms.Platform.Resource.Id.main_toolbar = global::ControlloGiga.Resource.Id.main_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Id.main_viewpager = global::ControlloGiga.Resource.Id.main_viewpager;
+			global::Xamarin.Forms.Platform.Resource.Id.masked = global::ControlloGiga.Resource.Id.masked;
+			global::Xamarin.Forms.Platform.Resource.Id.media_actions = global::ControlloGiga.Resource.Id.media_actions;
+			global::Xamarin.Forms.Platform.Resource.Id.message = global::ControlloGiga.Resource.Id.message;
+			global::Xamarin.Forms.Platform.Resource.Id.META = global::ControlloGiga.Resource.Id.META;
+			global::Xamarin.Forms.Platform.Resource.Id.middle = global::ControlloGiga.Resource.Id.middle;
+			global::Xamarin.Forms.Platform.Resource.Id.mini = global::ControlloGiga.Resource.Id.mini;
+			global::Xamarin.Forms.Platform.Resource.Id.mtrl_child_content_container = global::ControlloGiga.Resource.Id.mtrl_child_content_container;
+			global::Xamarin.Forms.Platform.Resource.Id.mtrl_internal_children_alpha_tag = global::ControlloGiga.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Xamarin.Forms.Platform.Resource.Id.multiply = global::ControlloGiga.Resource.Id.multiply;
+			global::Xamarin.Forms.Platform.Resource.Id.navigation_header_container = global::ControlloGiga.Resource.Id.navigation_header_container;
+			global::Xamarin.Forms.Platform.Resource.Id.never = global::ControlloGiga.Resource.Id.never;
+			global::Xamarin.Forms.Platform.Resource.Id.none = global::ControlloGiga.Resource.Id.none;
+			global::Xamarin.Forms.Platform.Resource.Id.normal = global::ControlloGiga.Resource.Id.normal;
+			global::Xamarin.Forms.Platform.Resource.Id.notification_background = global::ControlloGiga.Resource.Id.notification_background;
+			global::Xamarin.Forms.Platform.Resource.Id.notification_main_column = global::ControlloGiga.Resource.Id.notification_main_column;
+			global::Xamarin.Forms.Platform.Resource.Id.notification_main_column_container = global::ControlloGiga.Resource.Id.notification_main_column_container;
+			global::Xamarin.Forms.Platform.Resource.Id.outline = global::ControlloGiga.Resource.Id.outline;
+			global::Xamarin.Forms.Platform.Resource.Id.parallax = global::ControlloGiga.Resource.Id.parallax;
+			global::Xamarin.Forms.Platform.Resource.Id.parentPanel = global::ControlloGiga.Resource.Id.parentPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.parent_matrix = global::ControlloGiga.Resource.Id.parent_matrix;
+			global::Xamarin.Forms.Platform.Resource.Id.pin = global::ControlloGiga.Resource.Id.pin;
+			global::Xamarin.Forms.Platform.Resource.Id.progress_circular = global::ControlloGiga.Resource.Id.progress_circular;
+			global::Xamarin.Forms.Platform.Resource.Id.progress_horizontal = global::ControlloGiga.Resource.Id.progress_horizontal;
+			global::Xamarin.Forms.Platform.Resource.Id.radio = global::ControlloGiga.Resource.Id.radio;
+			global::Xamarin.Forms.Platform.Resource.Id.right = global::ControlloGiga.Resource.Id.right;
+			global::Xamarin.Forms.Platform.Resource.Id.right_icon = global::ControlloGiga.Resource.Id.right_icon;
+			global::Xamarin.Forms.Platform.Resource.Id.right_side = global::ControlloGiga.Resource.Id.right_side;
+			global::Xamarin.Forms.Platform.Resource.Id.save_image_matrix = global::ControlloGiga.Resource.Id.save_image_matrix;
+			global::Xamarin.Forms.Platform.Resource.Id.save_non_transition_alpha = global::ControlloGiga.Resource.Id.save_non_transition_alpha;
+			global::Xamarin.Forms.Platform.Resource.Id.save_scale_type = global::ControlloGiga.Resource.Id.save_scale_type;
+			global::Xamarin.Forms.Platform.Resource.Id.screen = global::ControlloGiga.Resource.Id.screen;
+			global::Xamarin.Forms.Platform.Resource.Id.scroll = global::ControlloGiga.Resource.Id.scroll;
+			global::Xamarin.Forms.Platform.Resource.Id.scrollable = global::ControlloGiga.Resource.Id.scrollable;
+			global::Xamarin.Forms.Platform.Resource.Id.scrollIndicatorDown = global::ControlloGiga.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Forms.Platform.Resource.Id.scrollIndicatorUp = global::ControlloGiga.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Forms.Platform.Resource.Id.scrollView = global::ControlloGiga.Resource.Id.scrollView;
+			global::Xamarin.Forms.Platform.Resource.Id.search_badge = global::ControlloGiga.Resource.Id.search_badge;
+			global::Xamarin.Forms.Platform.Resource.Id.search_bar = global::ControlloGiga.Resource.Id.search_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.search_button = global::ControlloGiga.Resource.Id.search_button;
+			global::Xamarin.Forms.Platform.Resource.Id.search_close_btn = global::ControlloGiga.Resource.Id.search_close_btn;
+			global::Xamarin.Forms.Platform.Resource.Id.search_edit_frame = global::ControlloGiga.Resource.Id.search_edit_frame;
+			global::Xamarin.Forms.Platform.Resource.Id.search_go_btn = global::ControlloGiga.Resource.Id.search_go_btn;
+			global::Xamarin.Forms.Platform.Resource.Id.search_mag_icon = global::ControlloGiga.Resource.Id.search_mag_icon;
+			global::Xamarin.Forms.Platform.Resource.Id.search_plate = global::ControlloGiga.Resource.Id.search_plate;
+			global::Xamarin.Forms.Platform.Resource.Id.search_src_text = global::ControlloGiga.Resource.Id.search_src_text;
+			global::Xamarin.Forms.Platform.Resource.Id.search_voice_btn = global::ControlloGiga.Resource.Id.search_voice_btn;
+			global::Xamarin.Forms.Platform.Resource.Id.selected = global::ControlloGiga.Resource.Id.selected;
+			global::Xamarin.Forms.Platform.Resource.Id.select_dialog_listview = global::ControlloGiga.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Platform.Resource.Id.shellcontent_appbar = global::ControlloGiga.Resource.Id.shellcontent_appbar;
+			global::Xamarin.Forms.Platform.Resource.Id.shellcontent_toolbar = global::ControlloGiga.Resource.Id.shellcontent_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Id.SHIFT = global::ControlloGiga.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Platform.Resource.Id.shortcut = global::ControlloGiga.Resource.Id.shortcut;
+			global::Xamarin.Forms.Platform.Resource.Id.showCustom = global::ControlloGiga.Resource.Id.showCustom;
+			global::Xamarin.Forms.Platform.Resource.Id.showHome = global::ControlloGiga.Resource.Id.showHome;
+			global::Xamarin.Forms.Platform.Resource.Id.showTitle = global::ControlloGiga.Resource.Id.showTitle;
+			global::Xamarin.Forms.Platform.Resource.Id.smallLabel = global::ControlloGiga.Resource.Id.smallLabel;
+			global::Xamarin.Forms.Platform.Resource.Id.snackbar_action = global::ControlloGiga.Resource.Id.snackbar_action;
+			global::Xamarin.Forms.Platform.Resource.Id.snackbar_text = global::ControlloGiga.Resource.Id.snackbar_text;
+			global::Xamarin.Forms.Platform.Resource.Id.snap = global::ControlloGiga.Resource.Id.snap;
+			global::Xamarin.Forms.Platform.Resource.Id.snapMargins = global::ControlloGiga.Resource.Id.snapMargins;
+			global::Xamarin.Forms.Platform.Resource.Id.spacer = global::ControlloGiga.Resource.Id.spacer;
+			global::Xamarin.Forms.Platform.Resource.Id.split_action_bar = global::ControlloGiga.Resource.Id.split_action_bar;
+			global::Xamarin.Forms.Platform.Resource.Id.src_atop = global::ControlloGiga.Resource.Id.src_atop;
+			global::Xamarin.Forms.Platform.Resource.Id.src_in = global::ControlloGiga.Resource.Id.src_in;
+			global::Xamarin.Forms.Platform.Resource.Id.src_over = global::ControlloGiga.Resource.Id.src_over;
+			global::Xamarin.Forms.Platform.Resource.Id.start = global::ControlloGiga.Resource.Id.start;
+			global::Xamarin.Forms.Platform.Resource.Id.status_bar_latest_event_content = global::ControlloGiga.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Forms.Platform.Resource.Id.stretch = global::ControlloGiga.Resource.Id.stretch;
+			global::Xamarin.Forms.Platform.Resource.Id.submenuarrow = global::ControlloGiga.Resource.Id.submenuarrow;
+			global::Xamarin.Forms.Platform.Resource.Id.submit_area = global::ControlloGiga.Resource.Id.submit_area;
+			global::Xamarin.Forms.Platform.Resource.Id.SYM = global::ControlloGiga.Resource.Id.SYM;
+			global::Xamarin.Forms.Platform.Resource.Id.tabMode = global::ControlloGiga.Resource.Id.tabMode;
+			global::Xamarin.Forms.Platform.Resource.Id.tag_transition_group = global::ControlloGiga.Resource.Id.tag_transition_group;
+			global::Xamarin.Forms.Platform.Resource.Id.tag_unhandled_key_event_manager = global::ControlloGiga.Resource.Id.tag_unhandled_key_event_manager;
+			global::Xamarin.Forms.Platform.Resource.Id.tag_unhandled_key_listeners = global::ControlloGiga.Resource.Id.tag_unhandled_key_listeners;
+			global::Xamarin.Forms.Platform.Resource.Id.text = global::ControlloGiga.Resource.Id.text;
+			global::Xamarin.Forms.Platform.Resource.Id.text2 = global::ControlloGiga.Resource.Id.text2;
+			global::Xamarin.Forms.Platform.Resource.Id.textinput_counter = global::ControlloGiga.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Platform.Resource.Id.textinput_error = global::ControlloGiga.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Platform.Resource.Id.textinput_helper_text = global::ControlloGiga.Resource.Id.textinput_helper_text;
+			global::Xamarin.Forms.Platform.Resource.Id.textSpacerNoButtons = global::ControlloGiga.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Forms.Platform.Resource.Id.textSpacerNoTitle = global::ControlloGiga.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Id.textStart = global::ControlloGiga.Resource.Id.textStart;
+			global::Xamarin.Forms.Platform.Resource.Id.text_input_password_toggle = global::ControlloGiga.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Platform.Resource.Id.time = global::ControlloGiga.Resource.Id.time;
+			global::Xamarin.Forms.Platform.Resource.Id.title = global::ControlloGiga.Resource.Id.title;
+			global::Xamarin.Forms.Platform.Resource.Id.titleDividerNoCustom = global::ControlloGiga.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Forms.Platform.Resource.Id.title_template = global::ControlloGiga.Resource.Id.title_template;
+			global::Xamarin.Forms.Platform.Resource.Id.top = global::ControlloGiga.Resource.Id.top;
+			global::Xamarin.Forms.Platform.Resource.Id.topPanel = global::ControlloGiga.Resource.Id.topPanel;
+			global::Xamarin.Forms.Platform.Resource.Id.touch_outside = global::ControlloGiga.Resource.Id.touch_outside;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_current_scene = global::ControlloGiga.Resource.Id.transition_current_scene;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_layout_save = global::ControlloGiga.Resource.Id.transition_layout_save;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_position = global::ControlloGiga.Resource.Id.transition_position;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_scene_layoutid_cache = global::ControlloGiga.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Forms.Platform.Resource.Id.transition_transform = global::ControlloGiga.Resource.Id.transition_transform;
+			global::Xamarin.Forms.Platform.Resource.Id.uniform = global::ControlloGiga.Resource.Id.uniform;
+			global::Xamarin.Forms.Platform.Resource.Id.unlabeled = global::ControlloGiga.Resource.Id.unlabeled;
+			global::Xamarin.Forms.Platform.Resource.Id.up = global::ControlloGiga.Resource.Id.up;
+			global::Xamarin.Forms.Platform.Resource.Id.useLogo = global::ControlloGiga.Resource.Id.useLogo;
+			global::Xamarin.Forms.Platform.Resource.Id.view_offset_helper = global::ControlloGiga.Resource.Id.view_offset_helper;
+			global::Xamarin.Forms.Platform.Resource.Id.visible = global::ControlloGiga.Resource.Id.visible;
+			global::Xamarin.Forms.Platform.Resource.Id.withText = global::ControlloGiga.Resource.Id.withText;
+			global::Xamarin.Forms.Platform.Resource.Id.wrap_content = global::ControlloGiga.Resource.Id.wrap_content;
+			global::Xamarin.Forms.Platform.Resource.Integer.abc_config_activityDefaultDur = global::ControlloGiga.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Forms.Platform.Resource.Integer.abc_config_activityShortDur = global::ControlloGiga.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Forms.Platform.Resource.Integer.app_bar_elevation_anim_duration = global::ControlloGiga.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.bottom_sheet_slide_duration = global::ControlloGiga.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.cancel_button_image_alpha = global::ControlloGiga.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Forms.Platform.Resource.Integer.config_tooltipAnimTime = global::ControlloGiga.Resource.Integer.config_tooltipAnimTime;
+			global::Xamarin.Forms.Platform.Resource.Integer.design_snackbar_text_max_lines = global::ControlloGiga.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Forms.Platform.Resource.Integer.design_tab_indicator_anim_duration_ms = global::ControlloGiga.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Resource.Integer.hide_password_duration = global::ControlloGiga.Resource.Integer.hide_password_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.mtrl_btn_anim_delay_ms = global::ControlloGiga.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Xamarin.Forms.Platform.Resource.Integer.mtrl_btn_anim_duration_ms = global::ControlloGiga.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Resource.Integer.mtrl_chip_anim_duration = global::ControlloGiga.Resource.Integer.mtrl_chip_anim_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::ControlloGiga.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Resource.Integer.show_password_duration = global::ControlloGiga.Resource.Integer.show_password_duration;
+			global::Xamarin.Forms.Platform.Resource.Integer.status_bar_notification_info_maxnum = global::ControlloGiga.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Forms.Platform.Resource.Interpolator.mtrl_fast_out_linear_in = global::ControlloGiga.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Xamarin.Forms.Platform.Resource.Interpolator.mtrl_fast_out_slow_in = global::ControlloGiga.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Xamarin.Forms.Platform.Resource.Interpolator.mtrl_linear = global::ControlloGiga.Resource.Interpolator.mtrl_linear;
+			global::Xamarin.Forms.Platform.Resource.Interpolator.mtrl_linear_out_slow_in = global::ControlloGiga.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_bar_title_item = global::ControlloGiga.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_bar_up_container = global::ControlloGiga.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_menu_item_layout = global::ControlloGiga.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_menu_layout = global::ControlloGiga.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_mode_bar = global::ControlloGiga.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_action_mode_close_item_material = global::ControlloGiga.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_activity_chooser_view = global::ControlloGiga.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_activity_chooser_view_list_item = global::ControlloGiga.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_alert_dialog_button_bar_material = global::ControlloGiga.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_alert_dialog_material = global::ControlloGiga.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_alert_dialog_title_material = global::ControlloGiga.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_cascading_menu_item_layout = global::ControlloGiga.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_dialog_title_material = global::ControlloGiga.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_expanded_menu_layout = global::ControlloGiga.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_checkbox = global::ControlloGiga.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_icon = global::ControlloGiga.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_layout = global::ControlloGiga.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_list_menu_item_radio = global::ControlloGiga.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_popup_menu_header_item_layout = global::ControlloGiga.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_popup_menu_item_layout = global::ControlloGiga.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_content_include = global::ControlloGiga.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_simple = global::ControlloGiga.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_simple_overlay_action_mode = global::ControlloGiga.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_screen_toolbar = global::ControlloGiga.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_search_dropdown_item_icons_2line = global::ControlloGiga.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_search_view = global::ControlloGiga.Resource.Layout.abc_search_view;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_select_dialog_material = global::ControlloGiga.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.abc_tooltip = global::ControlloGiga.Resource.Layout.abc_tooltip;
+			global::Xamarin.Forms.Platform.Resource.Layout.BottomTabLayout = global::ControlloGiga.Resource.Layout.BottomTabLayout;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_bottom_navigation_item = global::ControlloGiga.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_bottom_sheet_dialog = global::ControlloGiga.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_snackbar = global::ControlloGiga.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_snackbar_include = global::ControlloGiga.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_tab_icon = global::ControlloGiga.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_layout_tab_text = global::ControlloGiga.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_menu_item_action_area = global::ControlloGiga.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item = global::ControlloGiga.Resource.Layout.design_navigation_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_header = global::ControlloGiga.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_separator = global::ControlloGiga.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_item_subheader = global::ControlloGiga.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_menu = global::ControlloGiga.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_navigation_menu_item = global::ControlloGiga.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Forms.Platform.Resource.Layout.design_text_input_password_icon = global::ControlloGiga.Resource.Layout.design_text_input_password_icon;
+			global::Xamarin.Forms.Platform.Resource.Layout.FlyoutContent = global::ControlloGiga.Resource.Layout.FlyoutContent;
+			global::Xamarin.Forms.Platform.Resource.Layout.mtrl_layout_snackbar = global::ControlloGiga.Resource.Layout.mtrl_layout_snackbar;
+			global::Xamarin.Forms.Platform.Resource.Layout.mtrl_layout_snackbar_include = global::ControlloGiga.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_action = global::ControlloGiga.Resource.Layout.notification_action;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_action_tombstone = global::ControlloGiga.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_media_action = global::ControlloGiga.Resource.Layout.notification_media_action;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_media_cancel_action = global::ControlloGiga.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media = global::ControlloGiga.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media_custom = global::ControlloGiga.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media_narrow = global::ControlloGiga.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_big_media_narrow_custom = global::ControlloGiga.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_custom_big = global::ControlloGiga.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_icon_group = global::ControlloGiga.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_lines_media = global::ControlloGiga.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_media = global::ControlloGiga.Resource.Layout.notification_template_media;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_media_custom = global::ControlloGiga.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_part_chronometer = global::ControlloGiga.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Forms.Platform.Resource.Layout.notification_template_part_time = global::ControlloGiga.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Forms.Platform.Resource.Layout.RootLayout = global::ControlloGiga.Resource.Layout.RootLayout;
+			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_item_material = global::ControlloGiga.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_multichoice_material = global::ControlloGiga.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.select_dialog_singlechoice_material = global::ControlloGiga.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Forms.Platform.Resource.Layout.ShellContent = global::ControlloGiga.Resource.Layout.ShellContent;
+			global::Xamarin.Forms.Platform.Resource.Layout.support_simple_spinner_dropdown_item = global::ControlloGiga.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_home_description = global::ControlloGiga.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Forms.Platform.Resource.String.abc_action_bar_up_description = global::ControlloGiga.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Forms.Platform.Resource.String.abc_action_menu_overflow_description = global::ControlloGiga.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Forms.Platform.Resource.String.abc_action_mode_done = global::ControlloGiga.Resource.String.abc_action_mode_done;
+			global::Xamarin.Forms.Platform.Resource.String.abc_activitychooserview_choose_application = global::ControlloGiga.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Forms.Platform.Resource.String.abc_activity_chooser_view_see_all = global::ControlloGiga.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Platform.Resource.String.abc_capital_off = global::ControlloGiga.Resource.String.abc_capital_off;
+			global::Xamarin.Forms.Platform.Resource.String.abc_capital_on = global::ControlloGiga.Resource.String.abc_capital_on;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_body_1_material = global::ControlloGiga.Resource.String.abc_font_family_body_1_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_body_2_material = global::ControlloGiga.Resource.String.abc_font_family_body_2_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_button_material = global::ControlloGiga.Resource.String.abc_font_family_button_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_caption_material = global::ControlloGiga.Resource.String.abc_font_family_caption_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_display_1_material = global::ControlloGiga.Resource.String.abc_font_family_display_1_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_display_2_material = global::ControlloGiga.Resource.String.abc_font_family_display_2_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_display_3_material = global::ControlloGiga.Resource.String.abc_font_family_display_3_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_display_4_material = global::ControlloGiga.Resource.String.abc_font_family_display_4_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_headline_material = global::ControlloGiga.Resource.String.abc_font_family_headline_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_menu_material = global::ControlloGiga.Resource.String.abc_font_family_menu_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_subhead_material = global::ControlloGiga.Resource.String.abc_font_family_subhead_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_font_family_title_material = global::ControlloGiga.Resource.String.abc_font_family_title_material;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_alt_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_alt_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_ctrl_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_delete_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_delete_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_enter_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_enter_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_function_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_function_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_meta_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_meta_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_shift_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_shift_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_space_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_space_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_menu_sym_shortcut_label = global::ControlloGiga.Resource.String.abc_menu_sym_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_prepend_shortcut_label = global::ControlloGiga.Resource.String.abc_prepend_shortcut_label;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_clear = global::ControlloGiga.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_query = global::ControlloGiga.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_search = global::ControlloGiga.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_submit = global::ControlloGiga.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Forms.Platform.Resource.String.abc_searchview_description_voice = global::ControlloGiga.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Forms.Platform.Resource.String.abc_search_hint = global::ControlloGiga.Resource.String.abc_search_hint;
+			global::Xamarin.Forms.Platform.Resource.String.abc_shareactionprovider_share_with = global::ControlloGiga.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Forms.Platform.Resource.String.abc_shareactionprovider_share_with_application = global::ControlloGiga.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Forms.Platform.Resource.String.abc_toolbar_collapse_description = global::ControlloGiga.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Forms.Platform.Resource.String.appbar_scrolling_view_behavior = global::ControlloGiga.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.bottom_sheet_behavior = global::ControlloGiga.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.character_counter_content_description = global::ControlloGiga.Resource.String.character_counter_content_description;
+			global::Xamarin.Forms.Platform.Resource.String.character_counter_pattern = global::ControlloGiga.Resource.String.character_counter_pattern;
+			global::Xamarin.Forms.Platform.Resource.String.fab_transformation_scrim_behavior = global::ControlloGiga.Resource.String.fab_transformation_scrim_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.fab_transformation_sheet_behavior = global::ControlloGiga.Resource.String.fab_transformation_sheet_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.hide_bottom_view_on_scroll_behavior = global::ControlloGiga.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Xamarin.Forms.Platform.Resource.String.mtrl_chip_close_icon_content_description = global::ControlloGiga.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Xamarin.Forms.Platform.Resource.String.password_toggle_content_description = global::ControlloGiga.Resource.String.password_toggle_content_description;
+			global::Xamarin.Forms.Platform.Resource.String.path_password_eye = global::ControlloGiga.Resource.String.path_password_eye;
+			global::Xamarin.Forms.Platform.Resource.String.path_password_eye_mask_strike_through = global::ControlloGiga.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Forms.Platform.Resource.String.path_password_eye_mask_visible = global::ControlloGiga.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Forms.Platform.Resource.String.path_password_strike_through = global::ControlloGiga.Resource.String.path_password_strike_through;
+			global::Xamarin.Forms.Platform.Resource.String.search_menu_title = global::ControlloGiga.Resource.String.search_menu_title;
+			global::Xamarin.Forms.Platform.Resource.String.status_bar_notification_info_overflow = global::ControlloGiga.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.AlertDialog_AppCompat = global::ControlloGiga.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.AlertDialog_AppCompat_Light = global::ControlloGiga.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_DropDownUp = global::ControlloGiga.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Resource.Style.Animation_AppCompat_Tooltip = global::ControlloGiga.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Resource.Style.Animation_Design_BottomSheetDialog = global::ControlloGiga.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_AlertDialog_AppCompat = global::ControlloGiga.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_AlertDialog_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Animation_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::ControlloGiga.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Animation_AppCompat_Tooltip = global::ControlloGiga.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_CardView = global::ControlloGiga.Resource.Style.Base_CardView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::ControlloGiga.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_DialogWindowTitle_AppCompat = global::ControlloGiga.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Button = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Large = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Small = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ControlloGiga.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ControlloGiga.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ControlloGiga.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::ControlloGiga.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::ControlloGiga.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::ControlloGiga.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V22_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V22_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V23_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V23_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V26_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V26_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::ControlloGiga.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V28_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V28_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat = global::ControlloGiga.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::ControlloGiga.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::ControlloGiga.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::ControlloGiga.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::ControlloGiga.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActionMode = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Button_Small = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_EditText = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ImageButton = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_RatingBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SearchView = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SeekBar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Spinner = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Toolbar = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::ControlloGiga.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_Design_TabLayout = global::ControlloGiga.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_MaterialComponents_Chip = global::ControlloGiga.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::ControlloGiga.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::ControlloGiga.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.CardView = global::ControlloGiga.Resource.Style.CardView;
+			global::Xamarin.Forms.Platform.Resource.Style.CardView_Dark = global::ControlloGiga.Resource.Style.CardView_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.CardView_Light = global::ControlloGiga.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.collectionViewStyle = global::ControlloGiga.Resource.Style.collectionViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Style.NestedScrollBarStyle = global::ControlloGiga.Resource.Style.NestedScrollBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_AppCompat = global::ControlloGiga.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_AppCompat_Light = global::ControlloGiga.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_MaterialComponents = global::ControlloGiga.Resource.Style.Platform_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_MaterialComponents_Light = global::ControlloGiga.Resource.Style.Platform_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::ControlloGiga.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat = global::ControlloGiga.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::ControlloGiga.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::ControlloGiga.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_V21_AppCompat = global::ControlloGiga.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_V21_AppCompat_Light = global::ControlloGiga.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_V25_AppCompat = global::ControlloGiga.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_V25_AppCompat_Light = global::ControlloGiga.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Platform_Widget_AppCompat_Spinner = global::ControlloGiga.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::ControlloGiga.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::ControlloGiga.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::ControlloGiga.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::ControlloGiga.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Body1 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Body2 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Button = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Caption = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display1 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display2 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display3 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Display4 = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Headline = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Large = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Medium = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Menu = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Small = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Subhead = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Tooltip = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::ControlloGiga.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Info = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Time = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Title = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::ControlloGiga.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::ControlloGiga.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Counter = global::ControlloGiga.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Counter_Overflow = global::ControlloGiga.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Error = global::ControlloGiga.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_HelperText = global::ControlloGiga.Resource.Style.TextAppearance_Design_HelperText;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Hint = global::ControlloGiga.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Snackbar_Message = global::ControlloGiga.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Design_Tab = global::ControlloGiga.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Button = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Caption = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Chip = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Overline = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_MaterialComponents_Tab = global::ControlloGiga.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::ControlloGiga.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::ControlloGiga.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::ControlloGiga.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dark = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_AppCompat_Light = global::ControlloGiga.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::ControlloGiga.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat = global::ControlloGiga.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_CompactMenu = global::ControlloGiga.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog = global::ControlloGiga.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_AppCompat_NoActionBar = global::ControlloGiga.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design = global::ControlloGiga.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_BottomSheetDialog = global::ControlloGiga.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_Light = global::ControlloGiga.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::ControlloGiga.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_Light_NoActionBar = global::ControlloGiga.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_Design_NoActionBar = global::ControlloGiga.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents = global::ControlloGiga.Resource.Style.Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_CompactMenu = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Dialog = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_NoActionBar = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::ControlloGiga.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActionMode = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ActivityChooserView = global::ControlloGiga.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::ControlloGiga.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ButtonBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::ControlloGiga.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Borderless = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Colored = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Button_Small = global::ControlloGiga.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::ControlloGiga.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::ControlloGiga.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::ControlloGiga.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::ControlloGiga.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::ControlloGiga.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_EditText = global::ControlloGiga.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ImageButton = global::ControlloGiga.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_SearchView = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListMenuView = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListPopupWindow = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView_DropDown = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ListView_Menu = global::ControlloGiga.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupMenu = global::ControlloGiga.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::ControlloGiga.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_PopupWindow = global::ControlloGiga.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ProgressBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::ControlloGiga.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_RatingBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::ControlloGiga.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_RatingBar_Small = global::ControlloGiga.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SearchView = global::ControlloGiga.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SeekBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::ControlloGiga.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner = global::ControlloGiga.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::ControlloGiga.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::ControlloGiga.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::ControlloGiga.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Toolbar = global::ControlloGiga.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::ControlloGiga.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Compat_NotificationActionContainer = global::ControlloGiga.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Compat_NotificationActionText = global::ControlloGiga.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_AppBarLayout = global::ControlloGiga.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_BottomNavigationView = global::ControlloGiga.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_BottomSheet_Modal = global::ControlloGiga.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_CollapsingToolbar = global::ControlloGiga.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_FloatingActionButton = global::ControlloGiga.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_NavigationView = global::ControlloGiga.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::ControlloGiga.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_Snackbar = global::ControlloGiga.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_TabLayout = global::ControlloGiga.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Design_TextInputLayout = global::ControlloGiga.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_CardView = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_ChipGroup = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Chip_Action = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_NavigationView = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Snackbar = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TabLayout = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_MaterialComponents_Toolbar = global::ControlloGiga.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Style.Widget_Support_CoordinatorLayout = global::ControlloGiga.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar = global::ControlloGiga.Resource.Styleable.ActionBar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBarLayout = global::ControlloGiga.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::ControlloGiga.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_background = global::ControlloGiga.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_backgroundSplit = global::ControlloGiga.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_backgroundStacked = global::ControlloGiga.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetEnd = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetLeft = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetRight = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetStart = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::ControlloGiga.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_customNavigationLayout = global::ControlloGiga.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_displayOptions = global::ControlloGiga.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_divider = global::ControlloGiga.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_elevation = global::ControlloGiga.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_height = global::ControlloGiga.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_hideOnContentScroll = global::ControlloGiga.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_homeAsUpIndicator = global::ControlloGiga.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_homeLayout = global::ControlloGiga.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_icon = global::ControlloGiga.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::ControlloGiga.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_itemPadding = global::ControlloGiga.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_logo = global::ControlloGiga.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_navigationMode = global::ControlloGiga.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_popupTheme = global::ControlloGiga.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_progressBarPadding = global::ControlloGiga.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_progressBarStyle = global::ControlloGiga.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_subtitle = global::ControlloGiga.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_subtitleTextStyle = global::ControlloGiga.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_title = global::ControlloGiga.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionBar_titleTextStyle = global::ControlloGiga.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuItemView = global::ControlloGiga.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuItemView_android_minWidth = global::ControlloGiga.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMenuView = global::ControlloGiga.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode = global::ControlloGiga.Resource.Styleable.ActionMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_background = global::ControlloGiga.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_backgroundSplit = global::ControlloGiga.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_closeItemLayout = global::ControlloGiga.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_height = global::ControlloGiga.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_subtitleTextStyle = global::ControlloGiga.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActionMode_titleTextStyle = global::ControlloGiga.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView = global::ControlloGiga.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::ControlloGiga.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ActivityChooserView_initialActivityCount = global::ControlloGiga.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog = global::ControlloGiga.Resource.Styleable.AlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_android_layout = global::ControlloGiga.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_buttonIconDimen = global::ControlloGiga.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_listItemLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_listLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_showTitle = global::ControlloGiga.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::ControlloGiga.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableItem = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::ControlloGiga.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout = global::ControlloGiga.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates_state_liftable = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayoutStates_state_lifted = global::ControlloGiga.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_android_background = global::ControlloGiga.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::ControlloGiga.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::ControlloGiga.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_elevation = global::ControlloGiga.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_expanded = global::ControlloGiga.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_Layout = global::ControlloGiga.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::ControlloGiga.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::ControlloGiga.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppBarLayout_liftOnScroll = global::ControlloGiga.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView = global::ControlloGiga.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView_android_src = global::ControlloGiga.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView_srcCompat = global::ControlloGiga.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView_tint = global::ControlloGiga.Resource.Styleable.AppCompatImageView_tint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatImageView_tintMode = global::ControlloGiga.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar_android_thumb = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar_tickMark = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::ControlloGiga.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::ControlloGiga.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView = global::ControlloGiga.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_android_textAppearance = global::ControlloGiga.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::ControlloGiga.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::ControlloGiga.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_fontFamily = global::ControlloGiga.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::ControlloGiga.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_lineHeight = global::ControlloGiga.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTextView_textAllCaps = global::ControlloGiga.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarDivider = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarSize = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::ControlloGiga.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::ControlloGiga.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::ControlloGiga.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_checkboxStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorAccent = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorControlActivated = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorControlNormal = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorError = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorError;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorPrimary = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::ControlloGiga.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_controlBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dialogTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dividerVertical = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_editTextBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_editTextColor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_editTextStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::ControlloGiga.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::ControlloGiga.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_panelBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::ControlloGiga.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::ControlloGiga.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::ControlloGiga.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::ControlloGiga.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_searchViewStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_seekBarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::ControlloGiga.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_spinnerStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_switchStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::ControlloGiga.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_toolbarStyle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::ControlloGiga.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::ControlloGiga.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowActionBar = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.AppCompatTheme_windowNoTitle = global::ControlloGiga.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar = global::ControlloGiga.Resource.Styleable.BottomAppBar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_backgroundTint = global::ControlloGiga.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::ControlloGiga.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_fabCradleMargin = global::ControlloGiga.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::ControlloGiga.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::ControlloGiga.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomAppBar_hideOnScroll = global::ControlloGiga.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView = global::ControlloGiga.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_elevation = global::ControlloGiga.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemBackground = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemIconSize = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemIconTint = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_itemTextColor = global::ControlloGiga.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::ControlloGiga.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomNavigationView_menu = global::ControlloGiga.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::ControlloGiga.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ButtonBarLayout = global::ControlloGiga.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ButtonBarLayout_allowStacking = global::ControlloGiga.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView = global::ControlloGiga.Resource.Styleable.CardView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_android_minHeight = global::ControlloGiga.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_android_minWidth = global::ControlloGiga.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardBackgroundColor = global::ControlloGiga.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardCornerRadius = global::ControlloGiga.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardElevation = global::ControlloGiga.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardMaxElevation = global::ControlloGiga.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardPreventCornerOverlap = global::ControlloGiga.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_cardUseCompatPadding = global::ControlloGiga.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPadding = global::ControlloGiga.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingBottom = global::ControlloGiga.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingLeft = global::ControlloGiga.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingRight = global::ControlloGiga.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CardView_contentPaddingTop = global::ControlloGiga.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip = global::ControlloGiga.Resource.Styleable.Chip;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup = global::ControlloGiga.Resource.Styleable.ChipGroup;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_checkedChip = global::ControlloGiga.Resource.Styleable.ChipGroup_checkedChip;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_chipSpacing = global::ControlloGiga.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::ControlloGiga.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_chipSpacingVertical = global::ControlloGiga.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_singleLine = global::ControlloGiga.Resource.Styleable.ChipGroup_singleLine;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ChipGroup_singleSelection = global::ControlloGiga.Resource.Styleable.ChipGroup_singleSelection;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_checkable = global::ControlloGiga.Resource.Styleable.Chip_android_checkable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_ellipsize = global::ControlloGiga.Resource.Styleable.Chip_android_ellipsize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_maxWidth = global::ControlloGiga.Resource.Styleable.Chip_android_maxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_text = global::ControlloGiga.Resource.Styleable.Chip_android_text;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_android_textAppearance = global::ControlloGiga.Resource.Styleable.Chip_android_textAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_checkedIcon = global::ControlloGiga.Resource.Styleable.Chip_checkedIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_checkedIconEnabled = global::ControlloGiga.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_checkedIconVisible = global::ControlloGiga.Resource.Styleable.Chip_checkedIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipBackgroundColor = global::ControlloGiga.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipCornerRadius = global::ControlloGiga.Resource.Styleable.Chip_chipCornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipEndPadding = global::ControlloGiga.Resource.Styleable.Chip_chipEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIcon = global::ControlloGiga.Resource.Styleable.Chip_chipIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIconEnabled = global::ControlloGiga.Resource.Styleable.Chip_chipIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIconSize = global::ControlloGiga.Resource.Styleable.Chip_chipIconSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIconTint = global::ControlloGiga.Resource.Styleable.Chip_chipIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipIconVisible = global::ControlloGiga.Resource.Styleable.Chip_chipIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipMinHeight = global::ControlloGiga.Resource.Styleable.Chip_chipMinHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipStartPadding = global::ControlloGiga.Resource.Styleable.Chip_chipStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipStrokeColor = global::ControlloGiga.Resource.Styleable.Chip_chipStrokeColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_chipStrokeWidth = global::ControlloGiga.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIcon = global::ControlloGiga.Resource.Styleable.Chip_closeIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconEnabled = global::ControlloGiga.Resource.Styleable.Chip_closeIconEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconEndPadding = global::ControlloGiga.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconSize = global::ControlloGiga.Resource.Styleable.Chip_closeIconSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconStartPadding = global::ControlloGiga.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconTint = global::ControlloGiga.Resource.Styleable.Chip_closeIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_closeIconVisible = global::ControlloGiga.Resource.Styleable.Chip_closeIconVisible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_hideMotionSpec = global::ControlloGiga.Resource.Styleable.Chip_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_iconEndPadding = global::ControlloGiga.Resource.Styleable.Chip_iconEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_iconStartPadding = global::ControlloGiga.Resource.Styleable.Chip_iconStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_rippleColor = global::ControlloGiga.Resource.Styleable.Chip_rippleColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_showMotionSpec = global::ControlloGiga.Resource.Styleable.Chip_showMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_textEndPadding = global::ControlloGiga.Resource.Styleable.Chip_textEndPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Chip_textStartPadding = global::ControlloGiga.Resource.Styleable.Chip_textStartPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_Layout = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_title = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::ControlloGiga.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ColorStateListItem = global::ControlloGiga.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ColorStateListItem_alpha = global::ControlloGiga.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ColorStateListItem_android_alpha = global::ControlloGiga.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ColorStateListItem_android_color = global::ControlloGiga.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton = global::ControlloGiga.Resource.Styleable.CompoundButton;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_android_button = global::ControlloGiga.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_buttonTint = global::ControlloGiga.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CompoundButton_buttonTintMode = global::ControlloGiga.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout = global::ControlloGiga.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_keylines = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Forms.Platform.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::ControlloGiga.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DesignTheme = global::ControlloGiga.Resource.Styleable.DesignTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::ControlloGiga.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DesignTheme_bottomSheetStyle = global::ControlloGiga.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_barLength = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_color = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_drawableSize = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_spinBars = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Forms.Platform.Resource.Styleable.DrawerArrowToggle_thickness = global::ControlloGiga.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton = global::ControlloGiga.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_backgroundTint = global::ControlloGiga.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::ControlloGiga.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::ControlloGiga.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::ControlloGiga.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_borderWidth = global::ControlloGiga.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_elevation = global::ControlloGiga.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_fabCustomSize = global::ControlloGiga.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_fabSize = global::ControlloGiga.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::ControlloGiga.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::ControlloGiga.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_maxImageSize = global::ControlloGiga.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::ControlloGiga.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_rippleColor = global::ControlloGiga.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_showMotionSpec = global::ControlloGiga.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FloatingActionButton_useCompatPadding = global::ControlloGiga.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FlowLayout = global::ControlloGiga.Resource.Styleable.FlowLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FlowLayout_itemSpacing = global::ControlloGiga.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FlowLayout_lineSpacing = global::ControlloGiga.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily = global::ControlloGiga.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont = global::ControlloGiga.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_font = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_fontStyle = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_fontWeight = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::ControlloGiga.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_font = global::ControlloGiga.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_fontStyle = global::ControlloGiga.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::ControlloGiga.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_fontWeight = global::ControlloGiga.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamilyFont_ttcIndex = global::ControlloGiga.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderAuthority = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderCerts = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderPackage = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Platform.Resource.Styleable.FontFamily_fontProviderQuery = global::ControlloGiga.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ForegroundLinearLayout = global::ControlloGiga.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::ControlloGiga.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::ControlloGiga.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::ControlloGiga.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor = global::ControlloGiga.Resource.Styleable.GradientColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColorItem = global::ControlloGiga.Resource.Styleable.GradientColorItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColorItem_android_color = global::ControlloGiga.Resource.Styleable.GradientColorItem_android_color;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColorItem_android_offset = global::ControlloGiga.Resource.Styleable.GradientColorItem_android_offset;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_centerColor = global::ControlloGiga.Resource.Styleable.GradientColor_android_centerColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_centerX = global::ControlloGiga.Resource.Styleable.GradientColor_android_centerX;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_centerY = global::ControlloGiga.Resource.Styleable.GradientColor_android_centerY;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_endColor = global::ControlloGiga.Resource.Styleable.GradientColor_android_endColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_endX = global::ControlloGiga.Resource.Styleable.GradientColor_android_endX;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_endY = global::ControlloGiga.Resource.Styleable.GradientColor_android_endY;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_gradientRadius = global::ControlloGiga.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_startColor = global::ControlloGiga.Resource.Styleable.GradientColor_android_startColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_startX = global::ControlloGiga.Resource.Styleable.GradientColor_android_startX;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_startY = global::ControlloGiga.Resource.Styleable.GradientColor_android_startY;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_tileMode = global::ControlloGiga.Resource.Styleable.GradientColor_android_tileMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.GradientColor_android_type = global::ControlloGiga.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_gravity = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_orientation = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_divider = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Resource.Styleable.LinearLayoutCompat_showDividers = global::ControlloGiga.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow = global::ControlloGiga.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::ControlloGiga.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::ControlloGiga.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton = global::ControlloGiga.Resource.Styleable.MaterialButton;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_android_insetBottom = global::ControlloGiga.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_android_insetLeft = global::ControlloGiga.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_android_insetRight = global::ControlloGiga.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_android_insetTop = global::ControlloGiga.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_backgroundTint = global::ControlloGiga.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_backgroundTintMode = global::ControlloGiga.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_cornerRadius = global::ControlloGiga.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_icon = global::ControlloGiga.Resource.Styleable.MaterialButton_icon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconGravity = global::ControlloGiga.Resource.Styleable.MaterialButton_iconGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconPadding = global::ControlloGiga.Resource.Styleable.MaterialButton_iconPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconSize = global::ControlloGiga.Resource.Styleable.MaterialButton_iconSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconTint = global::ControlloGiga.Resource.Styleable.MaterialButton_iconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_iconTintMode = global::ControlloGiga.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_rippleColor = global::ControlloGiga.Resource.Styleable.MaterialButton_rippleColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_strokeColor = global::ControlloGiga.Resource.Styleable.MaterialButton_strokeColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialButton_strokeWidth = global::ControlloGiga.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialCardView = global::ControlloGiga.Resource.Styleable.MaterialCardView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialCardView_strokeColor = global::ControlloGiga.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialCardView_strokeWidth = global::ControlloGiga.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::ControlloGiga.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup = global::ControlloGiga.Resource.Styleable.MenuGroup;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_checkableBehavior = global::ControlloGiga.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_enabled = global::ControlloGiga.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_id = global::ControlloGiga.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_menuCategory = global::ControlloGiga.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_orderInCategory = global::ControlloGiga.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuGroup_android_visible = global::ControlloGiga.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem = global::ControlloGiga.Resource.Styleable.MenuItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionLayout = global::ControlloGiga.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionProviderClass = global::ControlloGiga.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_actionViewClass = global::ControlloGiga.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_alphabeticModifiers = global::ControlloGiga.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::ControlloGiga.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_checkable = global::ControlloGiga.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_checked = global::ControlloGiga.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_enabled = global::ControlloGiga.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_icon = global::ControlloGiga.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_id = global::ControlloGiga.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_menuCategory = global::ControlloGiga.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_numericShortcut = global::ControlloGiga.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_onClick = global::ControlloGiga.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_orderInCategory = global::ControlloGiga.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_title = global::ControlloGiga.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_titleCondensed = global::ControlloGiga.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_android_visible = global::ControlloGiga.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_contentDescription = global::ControlloGiga.Resource.Styleable.MenuItem_contentDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_iconTint = global::ControlloGiga.Resource.Styleable.MenuItem_iconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_iconTintMode = global::ControlloGiga.Resource.Styleable.MenuItem_iconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_numericModifiers = global::ControlloGiga.Resource.Styleable.MenuItem_numericModifiers;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_showAsAction = global::ControlloGiga.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuItem_tooltipText = global::ControlloGiga.Resource.Styleable.MenuItem_tooltipText;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView = global::ControlloGiga.Resource.Styleable.MenuView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_headerBackground = global::ControlloGiga.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_horizontalDivider = global::ControlloGiga.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemBackground = global::ControlloGiga.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::ControlloGiga.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_itemTextAppearance = global::ControlloGiga.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_verticalDivider = global::ControlloGiga.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_android_windowAnimationStyle = global::ControlloGiga.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_preserveIconSpacing = global::ControlloGiga.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Resource.Styleable.MenuView_subMenuArrow = global::ControlloGiga.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView = global::ControlloGiga.Resource.Styleable.NavigationView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_background = global::ControlloGiga.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::ControlloGiga.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_android_maxWidth = global::ControlloGiga.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_elevation = global::ControlloGiga.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_headerLayout = global::ControlloGiga.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemBackground = global::ControlloGiga.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemHorizontalPadding = global::ControlloGiga.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemIconPadding = global::ControlloGiga.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemIconTint = global::ControlloGiga.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemTextAppearance = global::ControlloGiga.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_itemTextColor = global::ControlloGiga.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.NavigationView_menu = global::ControlloGiga.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow = global::ControlloGiga.Resource.Styleable.PopupWindow;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindowBackgroundState = global::ControlloGiga.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::ControlloGiga.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::ControlloGiga.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow_android_popupBackground = global::ControlloGiga.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.PopupWindow_overlapAnchor = global::ControlloGiga.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecycleListView = global::ControlloGiga.Resource.Styleable.RecycleListView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::ControlloGiga.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::ControlloGiga.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView = global::ControlloGiga.Resource.Styleable.RecyclerView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_android_descendantFocusability = global::ControlloGiga.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_android_orientation = global::ControlloGiga.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollEnabled = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::ControlloGiga.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_layoutManager = global::ControlloGiga.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_reverseLayout = global::ControlloGiga.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_spanCount = global::ControlloGiga.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Forms.Platform.Resource.Styleable.RecyclerView_stackFromEnd = global::ControlloGiga.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ScrimInsetsFrameLayout = global::ControlloGiga.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::ControlloGiga.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ScrollingViewBehavior_Layout = global::ControlloGiga.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::ControlloGiga.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView = global::ControlloGiga.Resource.Styleable.SearchView;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_focusable = global::ControlloGiga.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_imeOptions = global::ControlloGiga.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_inputType = global::ControlloGiga.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_android_maxWidth = global::ControlloGiga.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_closeIcon = global::ControlloGiga.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_commitIcon = global::ControlloGiga.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_defaultQueryHint = global::ControlloGiga.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_goIcon = global::ControlloGiga.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_iconifiedByDefault = global::ControlloGiga.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_layout = global::ControlloGiga.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_queryBackground = global::ControlloGiga.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_queryHint = global::ControlloGiga.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_searchHintIcon = global::ControlloGiga.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_searchIcon = global::ControlloGiga.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_submitBackground = global::ControlloGiga.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_suggestionRowLayout = global::ControlloGiga.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SearchView_voiceIcon = global::ControlloGiga.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Snackbar = global::ControlloGiga.Resource.Styleable.Snackbar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout = global::ControlloGiga.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_android_maxWidth = global::ControlloGiga.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_elevation = global::ControlloGiga.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::ControlloGiga.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Snackbar_snackbarButtonStyle = global::ControlloGiga.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Snackbar_snackbarStyle = global::ControlloGiga.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner = global::ControlloGiga.Resource.Styleable.Spinner;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_dropDownWidth = global::ControlloGiga.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_entries = global::ControlloGiga.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_popupBackground = global::ControlloGiga.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_android_prompt = global::ControlloGiga.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Spinner_popupTheme = global::ControlloGiga.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable = global::ControlloGiga.Resource.Styleable.StateListDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawableItem = global::ControlloGiga.Resource.Styleable.StateListDrawableItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawableItem_android_drawable = global::ControlloGiga.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_constantSize = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_dither = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_dither;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_variablePadding = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.StateListDrawable_android_visible = global::ControlloGiga.Resource.Styleable.StateListDrawable_android_visible;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat = global::ControlloGiga.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_textOff = global::ControlloGiga.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_textOn = global::ControlloGiga.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_android_thumb = global::ControlloGiga.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_showText = global::ControlloGiga.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_splitTrack = global::ControlloGiga.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchMinWidth = global::ControlloGiga.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchPadding = global::ControlloGiga.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_switchTextAppearance = global::ControlloGiga.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_thumbTextPadding = global::ControlloGiga.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_thumbTint = global::ControlloGiga.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_thumbTintMode = global::ControlloGiga.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_track = global::ControlloGiga.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_trackTint = global::ControlloGiga.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.SwitchCompat_trackTintMode = global::ControlloGiga.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabItem = global::ControlloGiga.Resource.Styleable.TabItem;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabItem_android_icon = global::ControlloGiga.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabItem_android_layout = global::ControlloGiga.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabItem_android_text = global::ControlloGiga.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout = global::ControlloGiga.Resource.Styleable.TabLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabBackground = global::ControlloGiga.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabContentStart = global::ControlloGiga.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabGravity = global::ControlloGiga.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIconTint = global::ControlloGiga.Resource.Styleable.TabLayout_tabIconTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIconTintMode = global::ControlloGiga.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicator = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicator;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorColor = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorGravity = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabIndicatorHeight = global::ControlloGiga.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabInlineLabel = global::ControlloGiga.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMaxWidth = global::ControlloGiga.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMinWidth = global::ControlloGiga.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabMode = global::ControlloGiga.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPadding = global::ControlloGiga.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingBottom = global::ControlloGiga.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingEnd = global::ControlloGiga.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingStart = global::ControlloGiga.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabPaddingTop = global::ControlloGiga.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabRippleColor = global::ControlloGiga.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabSelectedTextColor = global::ControlloGiga.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabTextAppearance = global::ControlloGiga.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabTextColor = global::ControlloGiga.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TabLayout_tabUnboundedRipple = global::ControlloGiga.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance = global::ControlloGiga.Resource.Styleable.TextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_fontFamily = global::ControlloGiga.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_shadowColor = global::ControlloGiga.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_shadowDx = global::ControlloGiga.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_shadowDy = global::ControlloGiga.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_shadowRadius = global::ControlloGiga.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textColor = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textColorHint = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textColorLink = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textSize = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_textStyle = global::ControlloGiga.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_android_typeface = global::ControlloGiga.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_fontFamily = global::ControlloGiga.Resource.Styleable.TextAppearance_fontFamily;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextAppearance_textAllCaps = global::ControlloGiga.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout = global::ControlloGiga.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_android_hint = global::ControlloGiga.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_android_textColorHint = global::ControlloGiga.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxStrokeColor = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::ControlloGiga.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_counterEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_counterMaxLength = global::ControlloGiga.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_counterTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_errorEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_errorTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_helperText = global::ControlloGiga.Resource.Styleable.TextInputLayout_helperText;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_helperTextEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_hintEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_hintTextAppearance = global::ControlloGiga.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleTint = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::ControlloGiga.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ThemeEnforcement = global::ControlloGiga.Resource.Styleable.ThemeEnforcement;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::ControlloGiga.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::ControlloGiga.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::ControlloGiga.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar = global::ControlloGiga.Resource.Styleable.Toolbar;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_android_gravity = global::ControlloGiga.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_android_minHeight = global::ControlloGiga.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_buttonGravity = global::ControlloGiga.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_collapseContentDescription = global::ControlloGiga.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_collapseIcon = global::ControlloGiga.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetEnd = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetLeft = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetRight = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetStart = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::ControlloGiga.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_logo = global::ControlloGiga.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_logoDescription = global::ControlloGiga.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_maxButtonHeight = global::ControlloGiga.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_navigationContentDescription = global::ControlloGiga.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_navigationIcon = global::ControlloGiga.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_popupTheme = global::ControlloGiga.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitle = global::ControlloGiga.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitleTextAppearance = global::ControlloGiga.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_subtitleTextColor = global::ControlloGiga.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_title = global::ControlloGiga.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMargin = global::ControlloGiga.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginBottom = global::ControlloGiga.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginEnd = global::ControlloGiga.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMargins = global::ControlloGiga.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginStart = global::ControlloGiga.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleMarginTop = global::ControlloGiga.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleTextAppearance = global::ControlloGiga.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Forms.Platform.Resource.Styleable.Toolbar_titleTextColor = global::ControlloGiga.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View = global::ControlloGiga.Resource.Styleable.View;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper = global::ControlloGiga.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_android_background = global::ControlloGiga.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::ControlloGiga.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::ControlloGiga.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat = global::ControlloGiga.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_id = global::ControlloGiga.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_inflatedId = global::ControlloGiga.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Forms.Platform.Resource.Styleable.ViewStubCompat_android_layout = global::ControlloGiga.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_android_focusable = global::ControlloGiga.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_android_theme = global::ControlloGiga.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingEnd = global::ControlloGiga.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_paddingStart = global::ControlloGiga.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Platform.Resource.Styleable.View_theme = global::ControlloGiga.Resource.Styleable.View_theme;
 		}
 		
 		public partial class Animation
@@ -1881,6 +7007,18 @@ namespace ControlloGiga
 			
 			// aapt resource value: 0x7F01000F
 			public const int design_snackbar_out = 2130771983;
+			
+			// aapt resource value: 0x7F010010
+			public const int EnterFromLeft = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int EnterFromRight = 2130771985;
+			
+			// aapt resource value: 0x7F010012
+			public const int ExitToLeft = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int ExitToRight = 2130771987;
 			
 			static Animation()
 			{
@@ -3747,70 +8885,73 @@ namespace ControlloGiga
 			public const int notification_icon_bg_color = 2131034224;
 			
 			// aapt resource value: 0x7F050071
-			public const int primary_dark_material_dark = 2131034225;
+			public const int notification_material_background_media_default_color = 2131034225;
 			
 			// aapt resource value: 0x7F050072
-			public const int primary_dark_material_light = 2131034226;
+			public const int primary_dark_material_dark = 2131034226;
 			
 			// aapt resource value: 0x7F050073
-			public const int primary_material_dark = 2131034227;
+			public const int primary_dark_material_light = 2131034227;
 			
 			// aapt resource value: 0x7F050074
-			public const int primary_material_light = 2131034228;
+			public const int primary_material_dark = 2131034228;
 			
 			// aapt resource value: 0x7F050075
-			public const int primary_text_default_material_dark = 2131034229;
+			public const int primary_material_light = 2131034229;
 			
 			// aapt resource value: 0x7F050076
-			public const int primary_text_default_material_light = 2131034230;
+			public const int primary_text_default_material_dark = 2131034230;
 			
 			// aapt resource value: 0x7F050077
-			public const int primary_text_disabled_material_dark = 2131034231;
+			public const int primary_text_default_material_light = 2131034231;
 			
 			// aapt resource value: 0x7F050078
-			public const int primary_text_disabled_material_light = 2131034232;
+			public const int primary_text_disabled_material_dark = 2131034232;
 			
 			// aapt resource value: 0x7F050079
-			public const int ripple_material_dark = 2131034233;
+			public const int primary_text_disabled_material_light = 2131034233;
 			
 			// aapt resource value: 0x7F05007A
-			public const int ripple_material_light = 2131034234;
+			public const int ripple_material_dark = 2131034234;
 			
 			// aapt resource value: 0x7F05007B
-			public const int secondary_text_default_material_dark = 2131034235;
+			public const int ripple_material_light = 2131034235;
 			
 			// aapt resource value: 0x7F05007C
-			public const int secondary_text_default_material_light = 2131034236;
+			public const int secondary_text_default_material_dark = 2131034236;
 			
 			// aapt resource value: 0x7F05007D
-			public const int secondary_text_disabled_material_dark = 2131034237;
+			public const int secondary_text_default_material_light = 2131034237;
 			
 			// aapt resource value: 0x7F05007E
-			public const int secondary_text_disabled_material_light = 2131034238;
+			public const int secondary_text_disabled_material_dark = 2131034238;
 			
 			// aapt resource value: 0x7F05007F
-			public const int switch_thumb_disabled_material_dark = 2131034239;
+			public const int secondary_text_disabled_material_light = 2131034239;
 			
 			// aapt resource value: 0x7F050080
-			public const int switch_thumb_disabled_material_light = 2131034240;
+			public const int switch_thumb_disabled_material_dark = 2131034240;
 			
 			// aapt resource value: 0x7F050081
-			public const int switch_thumb_material_dark = 2131034241;
+			public const int switch_thumb_disabled_material_light = 2131034241;
 			
 			// aapt resource value: 0x7F050082
-			public const int switch_thumb_material_light = 2131034242;
+			public const int switch_thumb_material_dark = 2131034242;
 			
 			// aapt resource value: 0x7F050083
-			public const int switch_thumb_normal_material_dark = 2131034243;
+			public const int switch_thumb_material_light = 2131034243;
 			
 			// aapt resource value: 0x7F050084
-			public const int switch_thumb_normal_material_light = 2131034244;
+			public const int switch_thumb_normal_material_dark = 2131034244;
 			
 			// aapt resource value: 0x7F050085
-			public const int tooltip_background_dark = 2131034245;
+			public const int switch_thumb_normal_material_light = 2131034245;
 			
 			// aapt resource value: 0x7F050086
-			public const int tooltip_background_light = 2131034246;
+			public const int tooltip_background_dark = 2131034246;
+			
+			// aapt resource value: 0x7F050087
+			public const int tooltip_background_light = 2131034247;
 			
 			static Color()
 			{
@@ -4459,28 +9600,40 @@ namespace ControlloGiga
 			public const int notification_top_pad_large_text = 2131099858;
 			
 			// aapt resource value: 0x7F0600D3
-			public const int tooltip_corner_radius = 2131099859;
+			public const int subtitle_corner_radius = 2131099859;
 			
 			// aapt resource value: 0x7F0600D4
-			public const int tooltip_horizontal_padding = 2131099860;
+			public const int subtitle_outline_width = 2131099860;
 			
 			// aapt resource value: 0x7F0600D5
-			public const int tooltip_margin = 2131099861;
+			public const int subtitle_shadow_offset = 2131099861;
 			
 			// aapt resource value: 0x7F0600D6
-			public const int tooltip_precise_anchor_extra_offset = 2131099862;
+			public const int subtitle_shadow_radius = 2131099862;
 			
 			// aapt resource value: 0x7F0600D7
-			public const int tooltip_precise_anchor_threshold = 2131099863;
+			public const int tooltip_corner_radius = 2131099863;
 			
 			// aapt resource value: 0x7F0600D8
-			public const int tooltip_vertical_padding = 2131099864;
+			public const int tooltip_horizontal_padding = 2131099864;
 			
 			// aapt resource value: 0x7F0600D9
-			public const int tooltip_y_offset_non_touch = 2131099865;
+			public const int tooltip_margin = 2131099865;
 			
 			// aapt resource value: 0x7F0600DA
-			public const int tooltip_y_offset_touch = 2131099866;
+			public const int tooltip_precise_anchor_extra_offset = 2131099866;
+			
+			// aapt resource value: 0x7F0600DB
+			public const int tooltip_precise_anchor_threshold = 2131099867;
+			
+			// aapt resource value: 0x7F0600DC
+			public const int tooltip_vertical_padding = 2131099868;
+			
+			// aapt resource value: 0x7F0600DD
+			public const int tooltip_y_offset_non_touch = 2131099869;
+			
+			// aapt resource value: 0x7F0600DE
+			public const int tooltip_y_offset_touch = 2131099870;
 			
 			static Dimension()
 			{
@@ -4754,40 +9907,40 @@ namespace ControlloGiga
 			public const int avd_show_password = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int blackLion = 2131165276;
+			public const int design_bottom_navigation_item_background = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int design_bottom_navigation_item_background = 2131165277;
+			public const int design_fab_background = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int design_fab_background = 2131165278;
+			public const int design_ic_visibility = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int design_ic_visibility = 2131165279;
+			public const int design_ic_visibility_off = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int design_ic_visibility_off = 2131165280;
+			public const int design_password_eye = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int design_password_eye = 2131165281;
+			public const int design_snackbar_background = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int design_snackbar_background = 2131165282;
+			public const int ic_dashboard_black_24dp = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int ic_dashboard_black_24dp = 2131165283;
+			public const int ic_home_black_24dp = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int ic_home_black_24dp = 2131165284;
+			public const int ic_mtrl_chip_checked_black = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int ic_mtrl_chip_checked_black = 2131165285;
+			public const int ic_mtrl_chip_checked_circle = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int ic_mtrl_chip_checked_circle = 2131165286;
+			public const int ic_mtrl_chip_close_circle = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int ic_mtrl_chip_close_circle = 2131165287;
+			public const int indacoLion = 2131165287;
 			
 			// aapt resource value: 0x7F070068
 			public const int mtrl_snackbar_background = 2131165288;
@@ -4853,632 +10006,677 @@ namespace ControlloGiga
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F080017
-			public const int actions = 2131230743;
-			
 			// aapt resource value: 0x7F080006
-			public const int action_bar = 2131230726;
-			
-			// aapt resource value: 0x7F080007
-			public const int action_bar_activity_content = 2131230727;
-			
-			// aapt resource value: 0x7F080008
-			public const int action_bar_container = 2131230728;
-			
-			// aapt resource value: 0x7F080009
-			public const int action_bar_root = 2131230729;
-			
-			// aapt resource value: 0x7F08000A
-			public const int action_bar_spinner = 2131230730;
-			
-			// aapt resource value: 0x7F08000B
-			public const int action_bar_subtitle = 2131230731;
-			
-			// aapt resource value: 0x7F08000C
-			public const int action_bar_title = 2131230732;
-			
-			// aapt resource value: 0x7F08000D
-			public const int action_container = 2131230733;
-			
-			// aapt resource value: 0x7F08000E
-			public const int action_context_bar = 2131230734;
-			
-			// aapt resource value: 0x7F08000F
-			public const int action_divider = 2131230735;
-			
-			// aapt resource value: 0x7F080010
-			public const int action_image = 2131230736;
-			
-			// aapt resource value: 0x7F080011
-			public const int action_menu_divider = 2131230737;
-			
-			// aapt resource value: 0x7F080012
-			public const int action_menu_presenter = 2131230738;
-			
-			// aapt resource value: 0x7F080013
-			public const int action_mode_bar = 2131230739;
-			
-			// aapt resource value: 0x7F080014
-			public const int action_mode_bar_stub = 2131230740;
-			
-			// aapt resource value: 0x7F080015
-			public const int action_mode_close_button = 2131230741;
-			
-			// aapt resource value: 0x7F080016
-			public const int action_text = 2131230742;
+			public const int action0 = 2131230726;
 			
 			// aapt resource value: 0x7F080018
-			public const int activity_chooser_view_content = 2131230744;
+			public const int actions = 2131230744;
+			
+			// aapt resource value: 0x7F080007
+			public const int action_bar = 2131230727;
+			
+			// aapt resource value: 0x7F080008
+			public const int action_bar_activity_content = 2131230728;
+			
+			// aapt resource value: 0x7F080009
+			public const int action_bar_container = 2131230729;
+			
+			// aapt resource value: 0x7F08000A
+			public const int action_bar_root = 2131230730;
+			
+			// aapt resource value: 0x7F08000B
+			public const int action_bar_spinner = 2131230731;
+			
+			// aapt resource value: 0x7F08000C
+			public const int action_bar_subtitle = 2131230732;
+			
+			// aapt resource value: 0x7F08000D
+			public const int action_bar_title = 2131230733;
+			
+			// aapt resource value: 0x7F08000E
+			public const int action_container = 2131230734;
+			
+			// aapt resource value: 0x7F08000F
+			public const int action_context_bar = 2131230735;
+			
+			// aapt resource value: 0x7F080010
+			public const int action_divider = 2131230736;
+			
+			// aapt resource value: 0x7F080011
+			public const int action_image = 2131230737;
+			
+			// aapt resource value: 0x7F080012
+			public const int action_menu_divider = 2131230738;
+			
+			// aapt resource value: 0x7F080013
+			public const int action_menu_presenter = 2131230739;
+			
+			// aapt resource value: 0x7F080014
+			public const int action_mode_bar = 2131230740;
+			
+			// aapt resource value: 0x7F080015
+			public const int action_mode_bar_stub = 2131230741;
+			
+			// aapt resource value: 0x7F080016
+			public const int action_mode_close_button = 2131230742;
+			
+			// aapt resource value: 0x7F080017
+			public const int action_text = 2131230743;
 			
 			// aapt resource value: 0x7F080019
-			public const int add = 2131230745;
+			public const int activity_chooser_view_content = 2131230745;
 			
 			// aapt resource value: 0x7F08001A
-			public const int alertTitle = 2131230746;
+			public const int add = 2131230746;
 			
 			// aapt resource value: 0x7F08001B
-			public const int all = 2131230747;
+			public const int alertTitle = 2131230747;
+			
+			// aapt resource value: 0x7F08001C
+			public const int all = 2131230748;
 			
 			// aapt resource value: 0x7F080000
 			public const int ALT = 2131230720;
 			
-			// aapt resource value: 0x7F08001C
-			public const int always = 2131230748;
-			
 			// aapt resource value: 0x7F08001D
-			public const int async = 2131230749;
+			public const int always = 2131230749;
 			
 			// aapt resource value: 0x7F08001E
-			public const int auto = 2131230750;
+			public const int async = 2131230750;
 			
 			// aapt resource value: 0x7F08001F
-			public const int beginning = 2131230751;
+			public const int auto = 2131230751;
 			
 			// aapt resource value: 0x7F080020
-			public const int blocking = 2131230752;
+			public const int beginning = 2131230752;
 			
 			// aapt resource value: 0x7F080021
-			public const int bottom = 2131230753;
+			public const int blocking = 2131230753;
 			
 			// aapt resource value: 0x7F080022
-			public const int browser_actions_header_text = 2131230754;
-			
-			// aapt resource value: 0x7F080025
-			public const int browser_actions_menu_items = 2131230757;
+			public const int bottom = 2131230754;
 			
 			// aapt resource value: 0x7F080023
-			public const int browser_actions_menu_item_icon = 2131230755;
+			public const int bottomtab_navarea = 2131230755;
 			
 			// aapt resource value: 0x7F080024
-			public const int browser_actions_menu_item_text = 2131230756;
+			public const int bottomtab_tabbar = 2131230756;
 			
-			// aapt resource value: 0x7F080026
-			public const int browser_actions_menu_view = 2131230758;
+			// aapt resource value: 0x7F080025
+			public const int browser_actions_header_text = 2131230757;
 			
 			// aapt resource value: 0x7F080028
-			public const int buttonok = 2131230760;
+			public const int browser_actions_menu_items = 2131230760;
+			
+			// aapt resource value: 0x7F080026
+			public const int browser_actions_menu_item_icon = 2131230758;
 			
 			// aapt resource value: 0x7F080027
-			public const int buttonPanel = 2131230759;
+			public const int browser_actions_menu_item_text = 2131230759;
 			
 			// aapt resource value: 0x7F080029
-			public const int center = 2131230761;
-			
-			// aapt resource value: 0x7F08002A
-			public const int center_horizontal = 2131230762;
+			public const int browser_actions_menu_view = 2131230761;
 			
 			// aapt resource value: 0x7F08002B
-			public const int center_vertical = 2131230763;
+			public const int buttonok = 2131230763;
+			
+			// aapt resource value: 0x7F08002A
+			public const int buttonPanel = 2131230762;
 			
 			// aapt resource value: 0x7F08002C
-			public const int checkbox = 2131230764;
+			public const int cancel_action = 2131230764;
 			
 			// aapt resource value: 0x7F08002D
-			public const int chronometer = 2131230765;
+			public const int center = 2131230765;
 			
 			// aapt resource value: 0x7F08002E
-			public const int clip_horizontal = 2131230766;
+			public const int center_horizontal = 2131230766;
 			
 			// aapt resource value: 0x7F08002F
-			public const int clip_vertical = 2131230767;
+			public const int center_vertical = 2131230767;
 			
 			// aapt resource value: 0x7F080030
-			public const int collapseActionView = 2131230768;
+			public const int checkbox = 2131230768;
 			
 			// aapt resource value: 0x7F080031
-			public const int conf_layout = 2131230769;
+			public const int chronometer = 2131230769;
 			
 			// aapt resource value: 0x7F080032
-			public const int container = 2131230770;
+			public const int clip_horizontal = 2131230770;
 			
 			// aapt resource value: 0x7F080033
-			public const int content = 2131230771;
+			public const int clip_vertical = 2131230771;
 			
 			// aapt resource value: 0x7F080034
-			public const int contentPanel = 2131230772;
+			public const int collapseActionView = 2131230772;
 			
 			// aapt resource value: 0x7F080035
-			public const int coordinator = 2131230773;
+			public const int conf_layout = 2131230773;
+			
+			// aapt resource value: 0x7F080036
+			public const int container = 2131230774;
+			
+			// aapt resource value: 0x7F080037
+			public const int content = 2131230775;
+			
+			// aapt resource value: 0x7F080038
+			public const int contentPanel = 2131230776;
+			
+			// aapt resource value: 0x7F080039
+			public const int coordinator = 2131230777;
 			
 			// aapt resource value: 0x7F080001
 			public const int CTRL = 2131230721;
 			
-			// aapt resource value: 0x7F080036
-			public const int custom = 2131230774;
-			
-			// aapt resource value: 0x7F080037
-			public const int customPanel = 2131230775;
-			
-			// aapt resource value: 0x7F080038
-			public const int decor_content_parent = 2131230776;
-			
-			// aapt resource value: 0x7F080039
-			public const int default_activity_button = 2131230777;
-			
 			// aapt resource value: 0x7F08003A
-			public const int design_bottom_sheet = 2131230778;
+			public const int custom = 2131230778;
 			
 			// aapt resource value: 0x7F08003B
-			public const int design_menu_item_action_area = 2131230779;
+			public const int customPanel = 2131230779;
 			
 			// aapt resource value: 0x7F08003C
-			public const int design_menu_item_action_area_stub = 2131230780;
+			public const int decor_content_parent = 2131230780;
 			
 			// aapt resource value: 0x7F08003D
-			public const int design_menu_item_text = 2131230781;
+			public const int default_activity_button = 2131230781;
 			
 			// aapt resource value: 0x7F08003E
-			public const int design_navigation_view = 2131230782;
+			public const int design_bottom_sheet = 2131230782;
 			
 			// aapt resource value: 0x7F08003F
-			public const int disableHome = 2131230783;
+			public const int design_menu_item_action_area = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int edit_query = 2131230784;
+			public const int design_menu_item_action_area_stub = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int end = 2131230785;
+			public const int design_menu_item_text = 2131230785;
 			
 			// aapt resource value: 0x7F080042
-			public const int enterAlways = 2131230786;
+			public const int design_navigation_view = 2131230786;
 			
 			// aapt resource value: 0x7F080043
-			public const int enterAlwaysCollapsed = 2131230787;
+			public const int disableHome = 2131230787;
 			
 			// aapt resource value: 0x7F080044
-			public const int entry = 2131230788;
+			public const int edit_query = 2131230788;
 			
 			// aapt resource value: 0x7F080045
-			public const int entrypass = 2131230789;
+			public const int end = 2131230789;
 			
 			// aapt resource value: 0x7F080046
-			public const int exitUntilCollapsed = 2131230790;
-			
-			// aapt resource value: 0x7F080048
-			public const int expanded_menu = 2131230792;
+			public const int end_padder = 2131230790;
 			
 			// aapt resource value: 0x7F080047
-			public const int expand_activities_button = 2131230791;
+			public const int enterAlways = 2131230791;
+			
+			// aapt resource value: 0x7F080048
+			public const int enterAlwaysCollapsed = 2131230792;
 			
 			// aapt resource value: 0x7F080049
-			public const int fill = 2131230793;
-			
-			// aapt resource value: 0x7F08004C
-			public const int filled = 2131230796;
+			public const int entry = 2131230793;
 			
 			// aapt resource value: 0x7F08004A
-			public const int fill_horizontal = 2131230794;
+			public const int entrypass = 2131230794;
 			
 			// aapt resource value: 0x7F08004B
-			public const int fill_vertical = 2131230795;
+			public const int exitUntilCollapsed = 2131230795;
 			
 			// aapt resource value: 0x7F08004D
-			public const int @fixed = 2131230797;
+			public const int expanded_menu = 2131230797;
+			
+			// aapt resource value: 0x7F08004C
+			public const int expand_activities_button = 2131230796;
 			
 			// aapt resource value: 0x7F08004E
-			public const int forever = 2131230798;
+			public const int fill = 2131230798;
+			
+			// aapt resource value: 0x7F080051
+			public const int filled = 2131230801;
+			
+			// aapt resource value: 0x7F08004F
+			public const int fill_horizontal = 2131230799;
+			
+			// aapt resource value: 0x7F080050
+			public const int fill_vertical = 2131230800;
+			
+			// aapt resource value: 0x7F080052
+			public const int @fixed = 2131230802;
+			
+			// aapt resource value: 0x7F080053
+			public const int flyoutcontent_appbar = 2131230803;
+			
+			// aapt resource value: 0x7F080054
+			public const int flyoutcontent_recycler = 2131230804;
+			
+			// aapt resource value: 0x7F080055
+			public const int forever = 2131230805;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
-			// aapt resource value: 0x7F08004F
-			public const int ghost_view = 2131230799;
-			
-			// aapt resource value: 0x7F080050
-			public const int group_divider = 2131230800;
-			
-			// aapt resource value: 0x7F080051
-			public const int home = 2131230801;
-			
-			// aapt resource value: 0x7F080052
-			public const int homeAsUp = 2131230802;
-			
-			// aapt resource value: 0x7F080053
-			public const int home_layout = 2131230803;
-			
-			// aapt resource value: 0x7F080054
-			public const int icon = 2131230804;
-			
-			// aapt resource value: 0x7F080055
-			public const int icon_group = 2131230805;
-			
 			// aapt resource value: 0x7F080056
-			public const int ifRoom = 2131230806;
+			public const int ghost_view = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int image = 2131230807;
+			public const int group_divider = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int imageButtonRefresh = 2131230808;
+			public const int home = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int info = 2131230809;
+			public const int homeAsUp = 2131230809;
 			
 			// aapt resource value: 0x7F08005A
-			public const int italic = 2131230810;
+			public const int home_layout = 2131230810;
 			
 			// aapt resource value: 0x7F08005B
-			public const int item_touch_helper_previous_elevation = 2131230811;
+			public const int icon = 2131230811;
 			
 			// aapt resource value: 0x7F08005C
-			public const int labelcred = 2131230812;
+			public const int icon_group = 2131230812;
 			
 			// aapt resource value: 0x7F08005D
-			public const int labeled = 2131230813;
+			public const int ifRoom = 2131230813;
 			
 			// aapt resource value: 0x7F08005E
-			public const int largeLabel = 2131230814;
+			public const int image = 2131230814;
 			
 			// aapt resource value: 0x7F08005F
-			public const int left = 2131230815;
+			public const int imageButtonRefresh = 2131230815;
 			
 			// aapt resource value: 0x7F080060
-			public const int line1 = 2131230816;
+			public const int info = 2131230816;
 			
 			// aapt resource value: 0x7F080061
-			public const int line3 = 2131230817;
+			public const int italic = 2131230817;
 			
 			// aapt resource value: 0x7F080062
-			public const int listMode = 2131230818;
+			public const int item_touch_helper_previous_elevation = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int list_item = 2131230819;
+			public const int labelcred = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int masked = 2131230820;
+			public const int labeled = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int message = 2131230821;
+			public const int largeLabel = 2131230821;
+			
+			// aapt resource value: 0x7F080066
+			public const int left = 2131230822;
+			
+			// aapt resource value: 0x7F080067
+			public const int line1 = 2131230823;
+			
+			// aapt resource value: 0x7F080068
+			public const int line3 = 2131230824;
+			
+			// aapt resource value: 0x7F080069
+			public const int listMode = 2131230825;
+			
+			// aapt resource value: 0x7F08006A
+			public const int list_item = 2131230826;
+			
+			// aapt resource value: 0x7F08006B
+			public const int main_appbar = 2131230827;
+			
+			// aapt resource value: 0x7F08006C
+			public const int main_tablayout = 2131230828;
+			
+			// aapt resource value: 0x7F08006D
+			public const int main_toolbar = 2131230829;
+			
+			// aapt resource value: 0x7F08006E
+			public const int main_viewpager = 2131230830;
+			
+			// aapt resource value: 0x7F08006F
+			public const int masked = 2131230831;
+			
+			// aapt resource value: 0x7F080070
+			public const int media_actions = 2131230832;
+			
+			// aapt resource value: 0x7F080071
+			public const int message = 2131230833;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F080066
-			public const int middle = 2131230822;
-			
-			// aapt resource value: 0x7F080067
-			public const int mini = 2131230823;
-			
-			// aapt resource value: 0x7F080068
-			public const int mtrl_child_content_container = 2131230824;
-			
-			// aapt resource value: 0x7F080069
-			public const int mtrl_internal_children_alpha_tag = 2131230825;
-			
-			// aapt resource value: 0x7F08006A
-			public const int multiply = 2131230826;
-			
-			// aapt resource value: 0x7F08006B
-			public const int navigation = 2131230827;
-			
-			// aapt resource value: 0x7F08006C
-			public const int navigation_dashboard = 2131230828;
-			
-			// aapt resource value: 0x7F08006D
-			public const int navigation_header_container = 2131230829;
-			
-			// aapt resource value: 0x7F08006E
-			public const int navigation_home = 2131230830;
-			
-			// aapt resource value: 0x7F08006F
-			public const int never = 2131230831;
-			
-			// aapt resource value: 0x7F080070
-			public const int none = 2131230832;
-			
-			// aapt resource value: 0x7F080071
-			public const int normal = 2131230833;
-			
 			// aapt resource value: 0x7F080072
-			public const int notification_background = 2131230834;
+			public const int middle = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int notification_main_column = 2131230835;
+			public const int mini = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int notification_main_column_container = 2131230836;
+			public const int mtrl_child_content_container = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int outline = 2131230837;
+			public const int mtrl_internal_children_alpha_tag = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int parallax = 2131230838;
+			public const int multiply = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int parentPanel = 2131230839;
+			public const int navigation = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int parent_matrix = 2131230840;
+			public const int navigation_dashboard = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int pin = 2131230841;
+			public const int navigation_header_container = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int progressBar1 = 2131230842;
+			public const int navigation_home = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int progress_circular = 2131230843;
+			public const int never = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int progress_horizontal = 2131230844;
+			public const int none = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int radio = 2131230845;
+			public const int normal = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int right = 2131230846;
+			public const int notification_background = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int right_icon = 2131230847;
+			public const int notification_main_column = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int right_side = 2131230848;
+			public const int notification_main_column_container = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int save_image_matrix = 2131230849;
+			public const int outline = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int save_non_transition_alpha = 2131230850;
+			public const int parallax = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int save_scale_type = 2131230851;
+			public const int parentPanel = 2131230851;
 			
 			// aapt resource value: 0x7F080084
-			public const int screen = 2131230852;
+			public const int parent_matrix = 2131230852;
 			
 			// aapt resource value: 0x7F080085
-			public const int scroll = 2131230853;
-			
-			// aapt resource value: 0x7F080089
-			public const int scrollable = 2131230857;
+			public const int pin = 2131230853;
 			
 			// aapt resource value: 0x7F080086
-			public const int scrollIndicatorDown = 2131230854;
+			public const int progressBar1 = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int scrollIndicatorUp = 2131230855;
+			public const int progress_circular = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int scrollView = 2131230856;
+			public const int progress_horizontal = 2131230856;
+			
+			// aapt resource value: 0x7F080089
+			public const int radio = 2131230857;
 			
 			// aapt resource value: 0x7F08008A
-			public const int search_badge = 2131230858;
+			public const int right = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int search_bar = 2131230859;
+			public const int right_icon = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int search_button = 2131230860;
+			public const int right_side = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int search_close_btn = 2131230861;
+			public const int save_image_matrix = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int search_edit_frame = 2131230862;
+			public const int save_non_transition_alpha = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int search_go_btn = 2131230863;
+			public const int save_scale_type = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int search_mag_icon = 2131230864;
+			public const int screen = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int search_plate = 2131230865;
-			
-			// aapt resource value: 0x7F080092
-			public const int search_src_text = 2131230866;
-			
-			// aapt resource value: 0x7F080093
-			public const int search_voice_btn = 2131230867;
+			public const int scroll = 2131230865;
 			
 			// aapt resource value: 0x7F080095
-			public const int selected = 2131230869;
+			public const int scrollable = 2131230869;
+			
+			// aapt resource value: 0x7F080092
+			public const int scrollIndicatorDown = 2131230866;
+			
+			// aapt resource value: 0x7F080093
+			public const int scrollIndicatorUp = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int select_dialog_listview = 2131230868;
+			public const int scrollView = 2131230868;
+			
+			// aapt resource value: 0x7F080096
+			public const int search_badge = 2131230870;
+			
+			// aapt resource value: 0x7F080097
+			public const int search_bar = 2131230871;
+			
+			// aapt resource value: 0x7F080098
+			public const int search_button = 2131230872;
+			
+			// aapt resource value: 0x7F080099
+			public const int search_close_btn = 2131230873;
+			
+			// aapt resource value: 0x7F08009A
+			public const int search_edit_frame = 2131230874;
+			
+			// aapt resource value: 0x7F08009B
+			public const int search_go_btn = 2131230875;
+			
+			// aapt resource value: 0x7F08009C
+			public const int search_mag_icon = 2131230876;
+			
+			// aapt resource value: 0x7F08009D
+			public const int search_plate = 2131230877;
+			
+			// aapt resource value: 0x7F08009E
+			public const int search_src_text = 2131230878;
+			
+			// aapt resource value: 0x7F08009F
+			public const int search_voice_btn = 2131230879;
+			
+			// aapt resource value: 0x7F0800A1
+			public const int selected = 2131230881;
+			
+			// aapt resource value: 0x7F0800A0
+			public const int select_dialog_listview = 2131230880;
+			
+			// aapt resource value: 0x7F0800A2
+			public const int shellcontent_appbar = 2131230882;
+			
+			// aapt resource value: 0x7F0800A3
+			public const int shellcontent_toolbar = 2131230883;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F080096
-			public const int shortcut = 2131230870;
-			
-			// aapt resource value: 0x7F080097
-			public const int showCustom = 2131230871;
-			
-			// aapt resource value: 0x7F080098
-			public const int showHome = 2131230872;
-			
-			// aapt resource value: 0x7F080099
-			public const int showTitle = 2131230873;
-			
-			// aapt resource value: 0x7F08009A
-			public const int smallLabel = 2131230874;
-			
-			// aapt resource value: 0x7F08009B
-			public const int snackbar_action = 2131230875;
-			
-			// aapt resource value: 0x7F08009C
-			public const int snackbar_text = 2131230876;
-			
-			// aapt resource value: 0x7F08009D
-			public const int snap = 2131230877;
-			
-			// aapt resource value: 0x7F08009E
-			public const int snapMargins = 2131230878;
-			
-			// aapt resource value: 0x7F08009F
-			public const int space1 = 2131230879;
-			
-			// aapt resource value: 0x7F0800A0
-			public const int space2 = 2131230880;
-			
-			// aapt resource value: 0x7F0800A1
-			public const int space3 = 2131230881;
-			
-			// aapt resource value: 0x7F0800A2
-			public const int spacer = 2131230882;
-			
-			// aapt resource value: 0x7F0800A3
-			public const int split_action_bar = 2131230883;
-			
 			// aapt resource value: 0x7F0800A4
-			public const int src_atop = 2131230884;
+			public const int shortcut = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int src_in = 2131230885;
+			public const int showCustom = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int src_over = 2131230886;
+			public const int showHome = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int start = 2131230887;
+			public const int showTitle = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int stretch = 2131230888;
+			public const int smallLabel = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int submenuarrow = 2131230889;
+			public const int snackbar_action = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int submit_area = 2131230890;
+			public const int snackbar_text = 2131230890;
+			
+			// aapt resource value: 0x7F0800AB
+			public const int snap = 2131230891;
+			
+			// aapt resource value: 0x7F0800AC
+			public const int snapMargins = 2131230892;
+			
+			// aapt resource value: 0x7F0800AD
+			public const int space1 = 2131230893;
+			
+			// aapt resource value: 0x7F0800AE
+			public const int space2 = 2131230894;
+			
+			// aapt resource value: 0x7F0800AF
+			public const int space3 = 2131230895;
+			
+			// aapt resource value: 0x7F0800B0
+			public const int spacer = 2131230896;
+			
+			// aapt resource value: 0x7F0800B1
+			public const int split_action_bar = 2131230897;
+			
+			// aapt resource value: 0x7F0800B2
+			public const int src_atop = 2131230898;
+			
+			// aapt resource value: 0x7F0800B3
+			public const int src_in = 2131230899;
+			
+			// aapt resource value: 0x7F0800B4
+			public const int src_over = 2131230900;
+			
+			// aapt resource value: 0x7F0800B5
+			public const int start = 2131230901;
+			
+			// aapt resource value: 0x7F0800B6
+			public const int status_bar_latest_event_content = 2131230902;
+			
+			// aapt resource value: 0x7F0800B7
+			public const int stretch = 2131230903;
+			
+			// aapt resource value: 0x7F0800B8
+			public const int submenuarrow = 2131230904;
+			
+			// aapt resource value: 0x7F0800B9
+			public const int submit_area = 2131230905;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800AB
-			public const int tabMode = 2131230891;
-			
-			// aapt resource value: 0x7F0800AC
-			public const int tag_transition_group = 2131230892;
-			
-			// aapt resource value: 0x7F0800AD
-			public const int tag_unhandled_key_event_manager = 2131230893;
-			
-			// aapt resource value: 0x7F0800AE
-			public const int tag_unhandled_key_listeners = 2131230894;
-			
-			// aapt resource value: 0x7F0800AF
-			public const int text = 2131230895;
-			
-			// aapt resource value: 0x7F0800B0
-			public const int text2 = 2131230896;
-			
 			// aapt resource value: 0x7F0800BA
-			public const int textinput_counter = 2131230906;
+			public const int tabMode = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int textinput_error = 2131230907;
+			public const int tag_transition_group = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int textinput_helper_text = 2131230908;
-			
-			// aapt resource value: 0x7F0800B1
-			public const int textSpacerNoButtons = 2131230897;
-			
-			// aapt resource value: 0x7F0800B2
-			public const int textSpacerNoTitle = 2131230898;
-			
-			// aapt resource value: 0x7F0800B3
-			public const int textStart = 2131230899;
-			
-			// aapt resource value: 0x7F0800B4
-			public const int textViewCharge = 2131230900;
-			
-			// aapt resource value: 0x7F0800B5
-			public const int textViewCredits = 2131230901;
-			
-			// aapt resource value: 0x7F0800B6
-			public const int textViewDate = 2131230902;
-			
-			// aapt resource value: 0x7F0800B7
-			public const int textViewStatus = 2131230903;
-			
-			// aapt resource value: 0x7F0800B8
-			public const int textViewUsage = 2131230904;
-			
-			// aapt resource value: 0x7F0800B9
-			public const int text_input_password_toggle = 2131230905;
+			public const int tag_unhandled_key_event_manager = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int time = 2131230909;
+			public const int tag_unhandled_key_listeners = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int title = 2131230910;
+			public const int text = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int titleDividerNoCustom = 2131230911;
-			
-			// aapt resource value: 0x7F0800C0
-			public const int title_template = 2131230912;
-			
-			// aapt resource value: 0x7F0800C1
-			public const int top = 2131230913;
-			
-			// aapt resource value: 0x7F0800C2
-			public const int topPanel = 2131230914;
-			
-			// aapt resource value: 0x7F0800C3
-			public const int touch_outside = 2131230915;
-			
-			// aapt resource value: 0x7F0800C4
-			public const int transition_current_scene = 2131230916;
-			
-			// aapt resource value: 0x7F0800C5
-			public const int transition_layout_save = 2131230917;
-			
-			// aapt resource value: 0x7F0800C6
-			public const int transition_position = 2131230918;
-			
-			// aapt resource value: 0x7F0800C7
-			public const int transition_scene_layoutid_cache = 2131230919;
-			
-			// aapt resource value: 0x7F0800C8
-			public const int transition_transform = 2131230920;
+			public const int text2 = 2131230911;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int uniform = 2131230921;
+			public const int textinput_counter = 2131230921;
 			
 			// aapt resource value: 0x7F0800CA
-			public const int unlabeled = 2131230922;
+			public const int textinput_error = 2131230922;
 			
 			// aapt resource value: 0x7F0800CB
-			public const int up = 2131230923;
+			public const int textinput_helper_text = 2131230923;
+			
+			// aapt resource value: 0x7F0800C0
+			public const int textSpacerNoButtons = 2131230912;
+			
+			// aapt resource value: 0x7F0800C1
+			public const int textSpacerNoTitle = 2131230913;
+			
+			// aapt resource value: 0x7F0800C2
+			public const int textStart = 2131230914;
+			
+			// aapt resource value: 0x7F0800C3
+			public const int textViewCharge = 2131230915;
+			
+			// aapt resource value: 0x7F0800C4
+			public const int textViewCredits = 2131230916;
+			
+			// aapt resource value: 0x7F0800C5
+			public const int textViewDate = 2131230917;
+			
+			// aapt resource value: 0x7F0800C6
+			public const int textViewStatus = 2131230918;
+			
+			// aapt resource value: 0x7F0800C7
+			public const int textViewUsage = 2131230919;
+			
+			// aapt resource value: 0x7F0800C8
+			public const int text_input_password_toggle = 2131230920;
 			
 			// aapt resource value: 0x7F0800CC
-			public const int useLogo = 2131230924;
+			public const int time = 2131230924;
 			
 			// aapt resource value: 0x7F0800CD
-			public const int view_offset_helper = 2131230925;
+			public const int title = 2131230925;
 			
 			// aapt resource value: 0x7F0800CE
-			public const int visible = 2131230926;
+			public const int titleDividerNoCustom = 2131230926;
 			
 			// aapt resource value: 0x7F0800CF
-			public const int withText = 2131230927;
+			public const int title_template = 2131230927;
 			
 			// aapt resource value: 0x7F0800D0
-			public const int wrap_content = 2131230928;
+			public const int top = 2131230928;
+			
+			// aapt resource value: 0x7F0800D1
+			public const int topPanel = 2131230929;
+			
+			// aapt resource value: 0x7F0800D2
+			public const int touch_outside = 2131230930;
+			
+			// aapt resource value: 0x7F0800D3
+			public const int transition_current_scene = 2131230931;
+			
+			// aapt resource value: 0x7F0800D4
+			public const int transition_layout_save = 2131230932;
+			
+			// aapt resource value: 0x7F0800D5
+			public const int transition_position = 2131230933;
+			
+			// aapt resource value: 0x7F0800D6
+			public const int transition_scene_layoutid_cache = 2131230934;
+			
+			// aapt resource value: 0x7F0800D7
+			public const int transition_transform = 2131230935;
+			
+			// aapt resource value: 0x7F0800D8
+			public const int uniform = 2131230936;
+			
+			// aapt resource value: 0x7F0800D9
+			public const int unlabeled = 2131230937;
+			
+			// aapt resource value: 0x7F0800DA
+			public const int up = 2131230938;
+			
+			// aapt resource value: 0x7F0800DB
+			public const int useLogo = 2131230939;
+			
+			// aapt resource value: 0x7F0800DC
+			public const int view_offset_helper = 2131230940;
+			
+			// aapt resource value: 0x7F0800DD
+			public const int visible = 2131230941;
+			
+			// aapt resource value: 0x7F0800DE
+			public const int withText = 2131230942;
+			
+			// aapt resource value: 0x7F0800DF
+			public const int wrap_content = 2131230943;
 			
 			static Id()
 			{
@@ -5664,88 +10862,127 @@ namespace ControlloGiga
 			public const int activity_main = 2131427356;
 			
 			// aapt resource value: 0x7F0B001D
-			public const int browser_actions_context_menu_page = 2131427357;
+			public const int BottomTabLayout = 2131427357;
 			
 			// aapt resource value: 0x7F0B001E
-			public const int browser_actions_context_menu_row = 2131427358;
+			public const int browser_actions_context_menu_page = 2131427358;
 			
 			// aapt resource value: 0x7F0B001F
-			public const int design_bottom_navigation_item = 2131427359;
+			public const int browser_actions_context_menu_row = 2131427359;
 			
 			// aapt resource value: 0x7F0B0020
-			public const int design_bottom_sheet_dialog = 2131427360;
+			public const int design_bottom_navigation_item = 2131427360;
 			
 			// aapt resource value: 0x7F0B0021
-			public const int design_layout_snackbar = 2131427361;
+			public const int design_bottom_sheet_dialog = 2131427361;
 			
 			// aapt resource value: 0x7F0B0022
-			public const int design_layout_snackbar_include = 2131427362;
+			public const int design_layout_snackbar = 2131427362;
 			
 			// aapt resource value: 0x7F0B0023
-			public const int design_layout_tab_icon = 2131427363;
+			public const int design_layout_snackbar_include = 2131427363;
 			
 			// aapt resource value: 0x7F0B0024
-			public const int design_layout_tab_text = 2131427364;
+			public const int design_layout_tab_icon = 2131427364;
 			
 			// aapt resource value: 0x7F0B0025
-			public const int design_menu_item_action_area = 2131427365;
+			public const int design_layout_tab_text = 2131427365;
 			
 			// aapt resource value: 0x7F0B0026
-			public const int design_navigation_item = 2131427366;
+			public const int design_menu_item_action_area = 2131427366;
 			
 			// aapt resource value: 0x7F0B0027
-			public const int design_navigation_item_header = 2131427367;
+			public const int design_navigation_item = 2131427367;
 			
 			// aapt resource value: 0x7F0B0028
-			public const int design_navigation_item_separator = 2131427368;
+			public const int design_navigation_item_header = 2131427368;
 			
 			// aapt resource value: 0x7F0B0029
-			public const int design_navigation_item_subheader = 2131427369;
+			public const int design_navigation_item_separator = 2131427369;
 			
 			// aapt resource value: 0x7F0B002A
-			public const int design_navigation_menu = 2131427370;
+			public const int design_navigation_item_subheader = 2131427370;
 			
 			// aapt resource value: 0x7F0B002B
-			public const int design_navigation_menu_item = 2131427371;
+			public const int design_navigation_menu = 2131427371;
 			
 			// aapt resource value: 0x7F0B002C
-			public const int design_text_input_password_icon = 2131427372;
+			public const int design_navigation_menu_item = 2131427372;
 			
 			// aapt resource value: 0x7F0B002D
-			public const int mtrl_layout_snackbar = 2131427373;
+			public const int design_text_input_password_icon = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
-			public const int mtrl_layout_snackbar_include = 2131427374;
+			public const int FlyoutContent = 2131427374;
 			
 			// aapt resource value: 0x7F0B002F
-			public const int notification_action = 2131427375;
+			public const int mtrl_layout_snackbar = 2131427375;
 			
 			// aapt resource value: 0x7F0B0030
-			public const int notification_action_tombstone = 2131427376;
+			public const int mtrl_layout_snackbar_include = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int notification_template_custom_big = 2131427377;
+			public const int notification_action = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int notification_template_icon_group = 2131427378;
+			public const int notification_action_tombstone = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int notification_template_part_chronometer = 2131427379;
+			public const int notification_media_action = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int notification_template_part_time = 2131427380;
+			public const int notification_media_cancel_action = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int select_dialog_item_material = 2131427381;
+			public const int notification_template_big_media = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int select_dialog_multichoice_material = 2131427382;
+			public const int notification_template_big_media_custom = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int select_dialog_singlechoice_material = 2131427383;
+			public const int notification_template_big_media_narrow = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int support_simple_spinner_dropdown_item = 2131427384;
+			public const int notification_template_big_media_narrow_custom = 2131427384;
+			
+			// aapt resource value: 0x7F0B0039
+			public const int notification_template_custom_big = 2131427385;
+			
+			// aapt resource value: 0x7F0B003A
+			public const int notification_template_icon_group = 2131427386;
+			
+			// aapt resource value: 0x7F0B003B
+			public const int notification_template_lines_media = 2131427387;
+			
+			// aapt resource value: 0x7F0B003C
+			public const int notification_template_media = 2131427388;
+			
+			// aapt resource value: 0x7F0B003D
+			public const int notification_template_media_custom = 2131427389;
+			
+			// aapt resource value: 0x7F0B003E
+			public const int notification_template_part_chronometer = 2131427390;
+			
+			// aapt resource value: 0x7F0B003F
+			public const int notification_template_part_time = 2131427391;
+			
+			// aapt resource value: 0x7F0B0040
+			public const int RootLayout = 2131427392;
+			
+			// aapt resource value: 0x7F0B0041
+			public const int select_dialog_item_material = 2131427393;
+			
+			// aapt resource value: 0x7F0B0042
+			public const int select_dialog_multichoice_material = 2131427394;
+			
+			// aapt resource value: 0x7F0B0043
+			public const int select_dialog_singlechoice_material = 2131427395;
+			
+			// aapt resource value: 0x7F0B0044
+			public const int ShellContent = 2131427396;
+			
+			// aapt resource value: 0x7F0B0045
+			public const int support_simple_spinner_dropdown_item = 2131427397;
 			
 			static Layout()
 			{
@@ -6636,899 +11873,920 @@ namespace ControlloGiga
 			// aapt resource value: 0x7F0F00C5
 			public const int CardView_Light = 2131689669;
 			
+			// aapt resource value: 0x7F0F01F6
+			public const int collectionViewStyle = 2131689974;
+			
 			// aapt resource value: 0x7F0F00C6
-			public const int Platform_AppCompat = 2131689670;
+			public const int NestedScrollBarStyle = 2131689670;
 			
 			// aapt resource value: 0x7F0F00C7
-			public const int Platform_AppCompat_Light = 2131689671;
+			public const int Platform_AppCompat = 2131689671;
 			
 			// aapt resource value: 0x7F0F00C8
-			public const int Platform_MaterialComponents = 2131689672;
+			public const int Platform_AppCompat_Light = 2131689672;
 			
 			// aapt resource value: 0x7F0F00C9
-			public const int Platform_MaterialComponents_Dialog = 2131689673;
+			public const int Platform_MaterialComponents = 2131689673;
 			
 			// aapt resource value: 0x7F0F00CA
-			public const int Platform_MaterialComponents_Light = 2131689674;
+			public const int Platform_MaterialComponents_Dialog = 2131689674;
 			
 			// aapt resource value: 0x7F0F00CB
-			public const int Platform_MaterialComponents_Light_Dialog = 2131689675;
+			public const int Platform_MaterialComponents_Light = 2131689675;
 			
 			// aapt resource value: 0x7F0F00CC
-			public const int Platform_ThemeOverlay_AppCompat = 2131689676;
+			public const int Platform_MaterialComponents_Light_Dialog = 2131689676;
 			
 			// aapt resource value: 0x7F0F00CD
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689677;
+			public const int Platform_ThemeOverlay_AppCompat = 2131689677;
 			
 			// aapt resource value: 0x7F0F00CE
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689678;
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131689678;
 			
 			// aapt resource value: 0x7F0F00CF
-			public const int Platform_V21_AppCompat = 2131689679;
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131689679;
 			
 			// aapt resource value: 0x7F0F00D0
-			public const int Platform_V21_AppCompat_Light = 2131689680;
+			public const int Platform_V21_AppCompat = 2131689680;
 			
 			// aapt resource value: 0x7F0F00D1
-			public const int Platform_V25_AppCompat = 2131689681;
+			public const int Platform_V21_AppCompat_Light = 2131689681;
 			
 			// aapt resource value: 0x7F0F00D2
-			public const int Platform_V25_AppCompat_Light = 2131689682;
+			public const int Platform_V25_AppCompat = 2131689682;
 			
 			// aapt resource value: 0x7F0F00D3
-			public const int Platform_Widget_AppCompat_Spinner = 2131689683;
+			public const int Platform_V25_AppCompat_Light = 2131689683;
 			
 			// aapt resource value: 0x7F0F00D4
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689684;
+			public const int Platform_Widget_AppCompat_Spinner = 2131689684;
 			
 			// aapt resource value: 0x7F0F00D5
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689685;
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131689685;
 			
 			// aapt resource value: 0x7F0F00D6
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689686;
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131689686;
 			
 			// aapt resource value: 0x7F0F00D7
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689687;
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131689687;
 			
 			// aapt resource value: 0x7F0F00D8
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689688;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131689688;
 			
 			// aapt resource value: 0x7F0F00D9
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689689;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131689689;
 			
 			// aapt resource value: 0x7F0F00DA
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689690;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = 2131689690;
 			
 			// aapt resource value: 0x7F0F00DB
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689691;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = 2131689691;
 			
 			// aapt resource value: 0x7F0F00DC
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689692;
-			
-			// aapt resource value: 0x7F0F00E2
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689698;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131689692;
 			
 			// aapt resource value: 0x7F0F00DD
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689693;
-			
-			// aapt resource value: 0x7F0F00DE
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689694;
-			
-			// aapt resource value: 0x7F0F00DF
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689695;
-			
-			// aapt resource value: 0x7F0F00E0
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689696;
-			
-			// aapt resource value: 0x7F0F00E1
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689697;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = 2131689693;
 			
 			// aapt resource value: 0x7F0F00E3
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689699;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131689699;
+			
+			// aapt resource value: 0x7F0F00DE
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131689694;
+			
+			// aapt resource value: 0x7F0F00DF
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131689695;
+			
+			// aapt resource value: 0x7F0F00E0
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131689696;
+			
+			// aapt resource value: 0x7F0F00E1
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131689697;
+			
+			// aapt resource value: 0x7F0F00E2
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131689698;
 			
 			// aapt resource value: 0x7F0F00E4
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689700;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131689700;
 			
 			// aapt resource value: 0x7F0F00E5
-			public const int TextAppearance_AppCompat = 2131689701;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131689701;
 			
 			// aapt resource value: 0x7F0F00E6
-			public const int TextAppearance_AppCompat_Body1 = 2131689702;
+			public const int TextAppearance_AppCompat = 2131689702;
 			
 			// aapt resource value: 0x7F0F00E7
-			public const int TextAppearance_AppCompat_Body2 = 2131689703;
+			public const int TextAppearance_AppCompat_Body1 = 2131689703;
 			
 			// aapt resource value: 0x7F0F00E8
-			public const int TextAppearance_AppCompat_Button = 2131689704;
+			public const int TextAppearance_AppCompat_Body2 = 2131689704;
 			
 			// aapt resource value: 0x7F0F00E9
-			public const int TextAppearance_AppCompat_Caption = 2131689705;
+			public const int TextAppearance_AppCompat_Button = 2131689705;
 			
 			// aapt resource value: 0x7F0F00EA
-			public const int TextAppearance_AppCompat_Display1 = 2131689706;
+			public const int TextAppearance_AppCompat_Caption = 2131689706;
 			
 			// aapt resource value: 0x7F0F00EB
-			public const int TextAppearance_AppCompat_Display2 = 2131689707;
+			public const int TextAppearance_AppCompat_Display1 = 2131689707;
 			
 			// aapt resource value: 0x7F0F00EC
-			public const int TextAppearance_AppCompat_Display3 = 2131689708;
+			public const int TextAppearance_AppCompat_Display2 = 2131689708;
 			
 			// aapt resource value: 0x7F0F00ED
-			public const int TextAppearance_AppCompat_Display4 = 2131689709;
+			public const int TextAppearance_AppCompat_Display3 = 2131689709;
 			
 			// aapt resource value: 0x7F0F00EE
-			public const int TextAppearance_AppCompat_Headline = 2131689710;
+			public const int TextAppearance_AppCompat_Display4 = 2131689710;
 			
 			// aapt resource value: 0x7F0F00EF
-			public const int TextAppearance_AppCompat_Inverse = 2131689711;
+			public const int TextAppearance_AppCompat_Headline = 2131689711;
 			
 			// aapt resource value: 0x7F0F00F0
-			public const int TextAppearance_AppCompat_Large = 2131689712;
+			public const int TextAppearance_AppCompat_Inverse = 2131689712;
 			
 			// aapt resource value: 0x7F0F00F1
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131689713;
+			public const int TextAppearance_AppCompat_Large = 2131689713;
 			
 			// aapt resource value: 0x7F0F00F2
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689714;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131689714;
 			
 			// aapt resource value: 0x7F0F00F3
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689715;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131689715;
 			
 			// aapt resource value: 0x7F0F00F4
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689716;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131689716;
 			
 			// aapt resource value: 0x7F0F00F5
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689717;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131689717;
 			
 			// aapt resource value: 0x7F0F00F6
-			public const int TextAppearance_AppCompat_Medium = 2131689718;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131689718;
 			
 			// aapt resource value: 0x7F0F00F7
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689719;
+			public const int TextAppearance_AppCompat_Medium = 2131689719;
 			
 			// aapt resource value: 0x7F0F00F8
-			public const int TextAppearance_AppCompat_Menu = 2131689720;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131689720;
 			
 			// aapt resource value: 0x7F0F00F9
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689721;
+			public const int TextAppearance_AppCompat_Menu = 2131689721;
 			
 			// aapt resource value: 0x7F0F00FA
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689722;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131689722;
 			
 			// aapt resource value: 0x7F0F00FB
-			public const int TextAppearance_AppCompat_Small = 2131689723;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131689723;
 			
 			// aapt resource value: 0x7F0F00FC
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131689724;
+			public const int TextAppearance_AppCompat_Small = 2131689724;
 			
 			// aapt resource value: 0x7F0F00FD
-			public const int TextAppearance_AppCompat_Subhead = 2131689725;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131689725;
 			
 			// aapt resource value: 0x7F0F00FE
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689726;
+			public const int TextAppearance_AppCompat_Subhead = 2131689726;
 			
 			// aapt resource value: 0x7F0F00FF
-			public const int TextAppearance_AppCompat_Title = 2131689727;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131689727;
 			
 			// aapt resource value: 0x7F0F0100
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131689728;
+			public const int TextAppearance_AppCompat_Title = 2131689728;
 			
 			// aapt resource value: 0x7F0F0101
-			public const int TextAppearance_AppCompat_Tooltip = 2131689729;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131689729;
 			
 			// aapt resource value: 0x7F0F0102
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689730;
+			public const int TextAppearance_AppCompat_Tooltip = 2131689730;
 			
 			// aapt resource value: 0x7F0F0103
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689731;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131689731;
 			
 			// aapt resource value: 0x7F0F0104
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689732;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131689732;
 			
 			// aapt resource value: 0x7F0F0105
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689733;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131689733;
 			
 			// aapt resource value: 0x7F0F0106
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689734;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131689734;
 			
 			// aapt resource value: 0x7F0F0107
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689735;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131689735;
 			
 			// aapt resource value: 0x7F0F0108
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689736;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131689736;
 			
 			// aapt resource value: 0x7F0F0109
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689737;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131689737;
 			
 			// aapt resource value: 0x7F0F010A
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689738;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131689738;
 			
 			// aapt resource value: 0x7F0F010B
-			public const int TextAppearance_AppCompat_Widget_Button = 2131689739;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131689739;
 			
 			// aapt resource value: 0x7F0F010C
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689740;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131689740;
 			
 			// aapt resource value: 0x7F0F010D
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689741;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131689741;
 			
 			// aapt resource value: 0x7F0F010E
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689742;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131689742;
 			
 			// aapt resource value: 0x7F0F010F
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689743;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131689743;
 			
 			// aapt resource value: 0x7F0F0110
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689744;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131689744;
 			
 			// aapt resource value: 0x7F0F0111
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689745;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131689745;
 			
 			// aapt resource value: 0x7F0F0112
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689746;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131689746;
 			
 			// aapt resource value: 0x7F0F0113
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131689747;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131689747;
 			
 			// aapt resource value: 0x7F0F0114
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689748;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131689748;
 			
 			// aapt resource value: 0x7F0F0115
-			public const int TextAppearance_Compat_Notification = 2131689749;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131689749;
 			
 			// aapt resource value: 0x7F0F0116
-			public const int TextAppearance_Compat_Notification_Info = 2131689750;
+			public const int TextAppearance_Compat_Notification = 2131689750;
 			
 			// aapt resource value: 0x7F0F0117
-			public const int TextAppearance_Compat_Notification_Line2 = 2131689751;
+			public const int TextAppearance_Compat_Notification_Info = 2131689751;
 			
 			// aapt resource value: 0x7F0F0118
-			public const int TextAppearance_Compat_Notification_Time = 2131689752;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131689752;
 			
 			// aapt resource value: 0x7F0F0119
-			public const int TextAppearance_Compat_Notification_Title = 2131689753;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131689753;
 			
 			// aapt resource value: 0x7F0F011A
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689754;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131689754;
 			
 			// aapt resource value: 0x7F0F011B
-			public const int TextAppearance_Design_Counter = 2131689755;
+			public const int TextAppearance_Compat_Notification_Media = 2131689755;
 			
 			// aapt resource value: 0x7F0F011C
-			public const int TextAppearance_Design_Counter_Overflow = 2131689756;
+			public const int TextAppearance_Compat_Notification_Time = 2131689756;
 			
 			// aapt resource value: 0x7F0F011D
-			public const int TextAppearance_Design_Error = 2131689757;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131689757;
 			
 			// aapt resource value: 0x7F0F011E
-			public const int TextAppearance_Design_HelperText = 2131689758;
+			public const int TextAppearance_Compat_Notification_Title = 2131689758;
 			
 			// aapt resource value: 0x7F0F011F
-			public const int TextAppearance_Design_Hint = 2131689759;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131689759;
 			
 			// aapt resource value: 0x7F0F0120
-			public const int TextAppearance_Design_Snackbar_Message = 2131689760;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131689760;
 			
 			// aapt resource value: 0x7F0F0121
-			public const int TextAppearance_Design_Tab = 2131689761;
+			public const int TextAppearance_Design_Counter = 2131689761;
 			
 			// aapt resource value: 0x7F0F0122
-			public const int TextAppearance_MaterialComponents_Body1 = 2131689762;
+			public const int TextAppearance_Design_Counter_Overflow = 2131689762;
 			
 			// aapt resource value: 0x7F0F0123
-			public const int TextAppearance_MaterialComponents_Body2 = 2131689763;
+			public const int TextAppearance_Design_Error = 2131689763;
 			
 			// aapt resource value: 0x7F0F0124
-			public const int TextAppearance_MaterialComponents_Button = 2131689764;
+			public const int TextAppearance_Design_HelperText = 2131689764;
 			
 			// aapt resource value: 0x7F0F0125
-			public const int TextAppearance_MaterialComponents_Caption = 2131689765;
+			public const int TextAppearance_Design_Hint = 2131689765;
 			
 			// aapt resource value: 0x7F0F0126
-			public const int TextAppearance_MaterialComponents_Chip = 2131689766;
+			public const int TextAppearance_Design_Snackbar_Message = 2131689766;
 			
 			// aapt resource value: 0x7F0F0127
-			public const int TextAppearance_MaterialComponents_Headline1 = 2131689767;
+			public const int TextAppearance_Design_Tab = 2131689767;
 			
 			// aapt resource value: 0x7F0F0128
-			public const int TextAppearance_MaterialComponents_Headline2 = 2131689768;
+			public const int TextAppearance_MaterialComponents_Body1 = 2131689768;
 			
 			// aapt resource value: 0x7F0F0129
-			public const int TextAppearance_MaterialComponents_Headline3 = 2131689769;
+			public const int TextAppearance_MaterialComponents_Body2 = 2131689769;
 			
 			// aapt resource value: 0x7F0F012A
-			public const int TextAppearance_MaterialComponents_Headline4 = 2131689770;
+			public const int TextAppearance_MaterialComponents_Button = 2131689770;
 			
 			// aapt resource value: 0x7F0F012B
-			public const int TextAppearance_MaterialComponents_Headline5 = 2131689771;
+			public const int TextAppearance_MaterialComponents_Caption = 2131689771;
 			
 			// aapt resource value: 0x7F0F012C
-			public const int TextAppearance_MaterialComponents_Headline6 = 2131689772;
+			public const int TextAppearance_MaterialComponents_Chip = 2131689772;
 			
 			// aapt resource value: 0x7F0F012D
-			public const int TextAppearance_MaterialComponents_Overline = 2131689773;
+			public const int TextAppearance_MaterialComponents_Headline1 = 2131689773;
 			
 			// aapt resource value: 0x7F0F012E
-			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689774;
+			public const int TextAppearance_MaterialComponents_Headline2 = 2131689774;
 			
 			// aapt resource value: 0x7F0F012F
-			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689775;
+			public const int TextAppearance_MaterialComponents_Headline3 = 2131689775;
 			
 			// aapt resource value: 0x7F0F0130
-			public const int TextAppearance_MaterialComponents_Tab = 2131689776;
+			public const int TextAppearance_MaterialComponents_Headline4 = 2131689776;
 			
 			// aapt resource value: 0x7F0F0131
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689777;
+			public const int TextAppearance_MaterialComponents_Headline5 = 2131689777;
 			
 			// aapt resource value: 0x7F0F0132
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689778;
+			public const int TextAppearance_MaterialComponents_Headline6 = 2131689778;
 			
 			// aapt resource value: 0x7F0F0133
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689779;
-			
-			// aapt resource value: 0x7F0F0164
-			public const int ThemeOverlay_AppCompat = 2131689828;
-			
-			// aapt resource value: 0x7F0F0165
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131689829;
-			
-			// aapt resource value: 0x7F0F0166
-			public const int ThemeOverlay_AppCompat_Dark = 2131689830;
-			
-			// aapt resource value: 0x7F0F0167
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689831;
-			
-			// aapt resource value: 0x7F0F0168
-			public const int ThemeOverlay_AppCompat_Dialog = 2131689832;
-			
-			// aapt resource value: 0x7F0F0169
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689833;
-			
-			// aapt resource value: 0x7F0F016A
-			public const int ThemeOverlay_AppCompat_Light = 2131689834;
-			
-			// aapt resource value: 0x7F0F016B
-			public const int ThemeOverlay_MaterialComponents = 2131689835;
-			
-			// aapt resource value: 0x7F0F016C
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689836;
-			
-			// aapt resource value: 0x7F0F016D
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131689837;
-			
-			// aapt resource value: 0x7F0F016E
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689838;
-			
-			// aapt resource value: 0x7F0F016F
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689839;
-			
-			// aapt resource value: 0x7F0F0170
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689840;
-			
-			// aapt resource value: 0x7F0F0171
-			public const int ThemeOverlay_MaterialComponents_Light = 2131689841;
-			
-			// aapt resource value: 0x7F0F0172
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689842;
-			
-			// aapt resource value: 0x7F0F0173
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689843;
-			
-			// aapt resource value: 0x7F0F0174
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689844;
-			
-			// aapt resource value: 0x7F0F0175
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689845;
-			
-			// aapt resource value: 0x7F0F0176
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689846;
+			public const int TextAppearance_MaterialComponents_Overline = 2131689779;
 			
 			// aapt resource value: 0x7F0F0134
-			public const int Theme_AppCompat = 2131689780;
+			public const int TextAppearance_MaterialComponents_Subtitle1 = 2131689780;
 			
 			// aapt resource value: 0x7F0F0135
-			public const int Theme_AppCompat_CompactMenu = 2131689781;
+			public const int TextAppearance_MaterialComponents_Subtitle2 = 2131689781;
 			
 			// aapt resource value: 0x7F0F0136
-			public const int Theme_AppCompat_DayNight = 2131689782;
+			public const int TextAppearance_MaterialComponents_Tab = 2131689782;
 			
 			// aapt resource value: 0x7F0F0137
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689783;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131689783;
 			
 			// aapt resource value: 0x7F0F0138
-			public const int Theme_AppCompat_DayNight_Dialog = 2131689784;
-			
-			// aapt resource value: 0x7F0F013B
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689787;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131689784;
 			
 			// aapt resource value: 0x7F0F0139
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689785;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131689785;
 			
-			// aapt resource value: 0x7F0F013A
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689786;
+			// aapt resource value: 0x7F0F016A
+			public const int ThemeOverlay_AppCompat = 2131689834;
 			
-			// aapt resource value: 0x7F0F013C
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689788;
+			// aapt resource value: 0x7F0F016B
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131689835;
 			
-			// aapt resource value: 0x7F0F013D
-			public const int Theme_AppCompat_Dialog = 2131689789;
+			// aapt resource value: 0x7F0F016C
+			public const int ThemeOverlay_AppCompat_Dark = 2131689836;
 			
-			// aapt resource value: 0x7F0F0140
-			public const int Theme_AppCompat_DialogWhenLarge = 2131689792;
+			// aapt resource value: 0x7F0F016D
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131689837;
 			
-			// aapt resource value: 0x7F0F013E
-			public const int Theme_AppCompat_Dialog_Alert = 2131689790;
+			// aapt resource value: 0x7F0F016E
+			public const int ThemeOverlay_AppCompat_Dialog = 2131689838;
 			
-			// aapt resource value: 0x7F0F013F
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131689791;
+			// aapt resource value: 0x7F0F016F
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131689839;
 			
-			// aapt resource value: 0x7F0F0141
-			public const int Theme_AppCompat_Light = 2131689793;
+			// aapt resource value: 0x7F0F0170
+			public const int ThemeOverlay_AppCompat_Light = 2131689840;
 			
-			// aapt resource value: 0x7F0F0142
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131689794;
+			// aapt resource value: 0x7F0F0171
+			public const int ThemeOverlay_MaterialComponents = 2131689841;
 			
-			// aapt resource value: 0x7F0F0143
-			public const int Theme_AppCompat_Light_Dialog = 2131689795;
+			// aapt resource value: 0x7F0F0172
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131689842;
 			
-			// aapt resource value: 0x7F0F0146
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689798;
+			// aapt resource value: 0x7F0F0173
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131689843;
 			
-			// aapt resource value: 0x7F0F0144
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689796;
+			// aapt resource value: 0x7F0F0174
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131689844;
 			
-			// aapt resource value: 0x7F0F0145
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689797;
+			// aapt resource value: 0x7F0F0175
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131689845;
 			
-			// aapt resource value: 0x7F0F0147
-			public const int Theme_AppCompat_Light_NoActionBar = 2131689799;
-			
-			// aapt resource value: 0x7F0F0148
-			public const int Theme_AppCompat_NoActionBar = 2131689800;
-			
-			// aapt resource value: 0x7F0F0149
-			public const int Theme_Design = 2131689801;
-			
-			// aapt resource value: 0x7F0F014A
-			public const int Theme_Design_BottomSheetDialog = 2131689802;
-			
-			// aapt resource value: 0x7F0F014B
-			public const int Theme_Design_Light = 2131689803;
-			
-			// aapt resource value: 0x7F0F014C
-			public const int Theme_Design_Light_BottomSheetDialog = 2131689804;
-			
-			// aapt resource value: 0x7F0F014D
-			public const int Theme_Design_Light_NoActionBar = 2131689805;
-			
-			// aapt resource value: 0x7F0F014E
-			public const int Theme_Design_NoActionBar = 2131689806;
-			
-			// aapt resource value: 0x7F0F014F
-			public const int Theme_MaterialComponents = 2131689807;
-			
-			// aapt resource value: 0x7F0F0150
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689808;
-			
-			// aapt resource value: 0x7F0F0151
-			public const int Theme_MaterialComponents_Bridge = 2131689809;
-			
-			// aapt resource value: 0x7F0F0152
-			public const int Theme_MaterialComponents_CompactMenu = 2131689810;
-			
-			// aapt resource value: 0x7F0F0153
-			public const int Theme_MaterialComponents_Dialog = 2131689811;
-			
-			// aapt resource value: 0x7F0F0156
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689814;
-			
-			// aapt resource value: 0x7F0F0154
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131689812;
-			
-			// aapt resource value: 0x7F0F0155
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689813;
-			
-			// aapt resource value: 0x7F0F0157
-			public const int Theme_MaterialComponents_Light = 2131689815;
-			
-			// aapt resource value: 0x7F0F0158
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689816;
-			
-			// aapt resource value: 0x7F0F0159
-			public const int Theme_MaterialComponents_Light_Bridge = 2131689817;
-			
-			// aapt resource value: 0x7F0F015A
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689818;
-			
-			// aapt resource value: 0x7F0F015B
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689819;
-			
-			// aapt resource value: 0x7F0F015C
-			public const int Theme_MaterialComponents_Light_Dialog = 2131689820;
-			
-			// aapt resource value: 0x7F0F015F
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689823;
-			
-			// aapt resource value: 0x7F0F015D
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689821;
-			
-			// aapt resource value: 0x7F0F015E
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689822;
-			
-			// aapt resource value: 0x7F0F0160
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689824;
-			
-			// aapt resource value: 0x7F0F0161
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689825;
-			
-			// aapt resource value: 0x7F0F0162
-			public const int Theme_MaterialComponents_NoActionBar = 2131689826;
-			
-			// aapt resource value: 0x7F0F0163
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689827;
+			// aapt resource value: 0x7F0F0176
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131689846;
 			
 			// aapt resource value: 0x7F0F0177
-			public const int Widget_AppCompat_ActionBar = 2131689847;
+			public const int ThemeOverlay_MaterialComponents_Light = 2131689847;
 			
 			// aapt resource value: 0x7F0F0178
-			public const int Widget_AppCompat_ActionBar_Solid = 2131689848;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131689848;
 			
 			// aapt resource value: 0x7F0F0179
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131689849;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131689849;
 			
 			// aapt resource value: 0x7F0F017A
-			public const int Widget_AppCompat_ActionBar_TabText = 2131689850;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689850;
 			
 			// aapt resource value: 0x7F0F017B
-			public const int Widget_AppCompat_ActionBar_TabView = 2131689851;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131689851;
 			
 			// aapt resource value: 0x7F0F017C
-			public const int Widget_AppCompat_ActionButton = 2131689852;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689852;
+			
+			// aapt resource value: 0x7F0F013A
+			public const int Theme_AppCompat = 2131689786;
+			
+			// aapt resource value: 0x7F0F013B
+			public const int Theme_AppCompat_CompactMenu = 2131689787;
+			
+			// aapt resource value: 0x7F0F013C
+			public const int Theme_AppCompat_DayNight = 2131689788;
+			
+			// aapt resource value: 0x7F0F013D
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131689789;
+			
+			// aapt resource value: 0x7F0F013E
+			public const int Theme_AppCompat_DayNight_Dialog = 2131689790;
+			
+			// aapt resource value: 0x7F0F0141
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131689793;
+			
+			// aapt resource value: 0x7F0F013F
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131689791;
+			
+			// aapt resource value: 0x7F0F0140
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131689792;
+			
+			// aapt resource value: 0x7F0F0142
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131689794;
+			
+			// aapt resource value: 0x7F0F0143
+			public const int Theme_AppCompat_Dialog = 2131689795;
+			
+			// aapt resource value: 0x7F0F0146
+			public const int Theme_AppCompat_DialogWhenLarge = 2131689798;
+			
+			// aapt resource value: 0x7F0F0144
+			public const int Theme_AppCompat_Dialog_Alert = 2131689796;
+			
+			// aapt resource value: 0x7F0F0145
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131689797;
+			
+			// aapt resource value: 0x7F0F0147
+			public const int Theme_AppCompat_Light = 2131689799;
+			
+			// aapt resource value: 0x7F0F0148
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131689800;
+			
+			// aapt resource value: 0x7F0F0149
+			public const int Theme_AppCompat_Light_Dialog = 2131689801;
+			
+			// aapt resource value: 0x7F0F014C
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131689804;
+			
+			// aapt resource value: 0x7F0F014A
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131689802;
+			
+			// aapt resource value: 0x7F0F014B
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131689803;
+			
+			// aapt resource value: 0x7F0F014D
+			public const int Theme_AppCompat_Light_NoActionBar = 2131689805;
+			
+			// aapt resource value: 0x7F0F014E
+			public const int Theme_AppCompat_NoActionBar = 2131689806;
+			
+			// aapt resource value: 0x7F0F014F
+			public const int Theme_Design = 2131689807;
+			
+			// aapt resource value: 0x7F0F0150
+			public const int Theme_Design_BottomSheetDialog = 2131689808;
+			
+			// aapt resource value: 0x7F0F0151
+			public const int Theme_Design_Light = 2131689809;
+			
+			// aapt resource value: 0x7F0F0152
+			public const int Theme_Design_Light_BottomSheetDialog = 2131689810;
+			
+			// aapt resource value: 0x7F0F0153
+			public const int Theme_Design_Light_NoActionBar = 2131689811;
+			
+			// aapt resource value: 0x7F0F0154
+			public const int Theme_Design_NoActionBar = 2131689812;
+			
+			// aapt resource value: 0x7F0F0155
+			public const int Theme_MaterialComponents = 2131689813;
+			
+			// aapt resource value: 0x7F0F0156
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131689814;
+			
+			// aapt resource value: 0x7F0F0157
+			public const int Theme_MaterialComponents_Bridge = 2131689815;
+			
+			// aapt resource value: 0x7F0F0158
+			public const int Theme_MaterialComponents_CompactMenu = 2131689816;
+			
+			// aapt resource value: 0x7F0F0159
+			public const int Theme_MaterialComponents_Dialog = 2131689817;
+			
+			// aapt resource value: 0x7F0F015C
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131689820;
+			
+			// aapt resource value: 0x7F0F015A
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131689818;
+			
+			// aapt resource value: 0x7F0F015B
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131689819;
+			
+			// aapt resource value: 0x7F0F015D
+			public const int Theme_MaterialComponents_Light = 2131689821;
+			
+			// aapt resource value: 0x7F0F015E
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131689822;
+			
+			// aapt resource value: 0x7F0F015F
+			public const int Theme_MaterialComponents_Light_Bridge = 2131689823;
+			
+			// aapt resource value: 0x7F0F0160
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131689824;
+			
+			// aapt resource value: 0x7F0F0161
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131689825;
+			
+			// aapt resource value: 0x7F0F0162
+			public const int Theme_MaterialComponents_Light_Dialog = 2131689826;
+			
+			// aapt resource value: 0x7F0F0165
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131689829;
+			
+			// aapt resource value: 0x7F0F0163
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131689827;
+			
+			// aapt resource value: 0x7F0F0164
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131689828;
+			
+			// aapt resource value: 0x7F0F0166
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131689830;
+			
+			// aapt resource value: 0x7F0F0167
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131689831;
+			
+			// aapt resource value: 0x7F0F0168
+			public const int Theme_MaterialComponents_NoActionBar = 2131689832;
+			
+			// aapt resource value: 0x7F0F0169
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131689833;
 			
 			// aapt resource value: 0x7F0F017D
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689853;
+			public const int Widget_AppCompat_ActionBar = 2131689853;
 			
 			// aapt resource value: 0x7F0F017E
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131689854;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131689854;
 			
 			// aapt resource value: 0x7F0F017F
-			public const int Widget_AppCompat_ActionMode = 2131689855;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131689855;
 			
 			// aapt resource value: 0x7F0F0180
-			public const int Widget_AppCompat_ActivityChooserView = 2131689856;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131689856;
 			
 			// aapt resource value: 0x7F0F0181
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131689857;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131689857;
 			
 			// aapt resource value: 0x7F0F0182
-			public const int Widget_AppCompat_Button = 2131689858;
-			
-			// aapt resource value: 0x7F0F0188
-			public const int Widget_AppCompat_ButtonBar = 2131689864;
-			
-			// aapt resource value: 0x7F0F0189
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689865;
+			public const int Widget_AppCompat_ActionButton = 2131689858;
 			
 			// aapt resource value: 0x7F0F0183
-			public const int Widget_AppCompat_Button_Borderless = 2131689859;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131689859;
 			
 			// aapt resource value: 0x7F0F0184
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689860;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131689860;
 			
 			// aapt resource value: 0x7F0F0185
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689861;
+			public const int Widget_AppCompat_ActionMode = 2131689861;
 			
 			// aapt resource value: 0x7F0F0186
-			public const int Widget_AppCompat_Button_Colored = 2131689862;
+			public const int Widget_AppCompat_ActivityChooserView = 2131689862;
 			
 			// aapt resource value: 0x7F0F0187
-			public const int Widget_AppCompat_Button_Small = 2131689863;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131689863;
 			
-			// aapt resource value: 0x7F0F018A
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689866;
-			
-			// aapt resource value: 0x7F0F018B
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689867;
-			
-			// aapt resource value: 0x7F0F018C
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131689868;
-			
-			// aapt resource value: 0x7F0F018D
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131689869;
+			// aapt resource value: 0x7F0F0188
+			public const int Widget_AppCompat_Button = 2131689864;
 			
 			// aapt resource value: 0x7F0F018E
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689870;
+			public const int Widget_AppCompat_ButtonBar = 2131689870;
 			
 			// aapt resource value: 0x7F0F018F
-			public const int Widget_AppCompat_EditText = 2131689871;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131689871;
+			
+			// aapt resource value: 0x7F0F0189
+			public const int Widget_AppCompat_Button_Borderless = 2131689865;
+			
+			// aapt resource value: 0x7F0F018A
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131689866;
+			
+			// aapt resource value: 0x7F0F018B
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131689867;
+			
+			// aapt resource value: 0x7F0F018C
+			public const int Widget_AppCompat_Button_Colored = 2131689868;
+			
+			// aapt resource value: 0x7F0F018D
+			public const int Widget_AppCompat_Button_Small = 2131689869;
 			
 			// aapt resource value: 0x7F0F0190
-			public const int Widget_AppCompat_ImageButton = 2131689872;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131689872;
 			
 			// aapt resource value: 0x7F0F0191
-			public const int Widget_AppCompat_Light_ActionBar = 2131689873;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131689873;
 			
 			// aapt resource value: 0x7F0F0192
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689874;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131689874;
 			
 			// aapt resource value: 0x7F0F0193
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689875;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131689875;
 			
 			// aapt resource value: 0x7F0F0194
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689876;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131689876;
 			
 			// aapt resource value: 0x7F0F0195
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689877;
+			public const int Widget_AppCompat_EditText = 2131689877;
 			
 			// aapt resource value: 0x7F0F0196
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689878;
+			public const int Widget_AppCompat_ImageButton = 2131689878;
 			
 			// aapt resource value: 0x7F0F0197
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689879;
+			public const int Widget_AppCompat_Light_ActionBar = 2131689879;
 			
 			// aapt resource value: 0x7F0F0198
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689880;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131689880;
 			
 			// aapt resource value: 0x7F0F0199
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689881;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131689881;
 			
 			// aapt resource value: 0x7F0F019A
-			public const int Widget_AppCompat_Light_ActionButton = 2131689882;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131689882;
 			
 			// aapt resource value: 0x7F0F019B
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689883;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131689883;
 			
 			// aapt resource value: 0x7F0F019C
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689884;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131689884;
 			
 			// aapt resource value: 0x7F0F019D
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689885;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131689885;
 			
 			// aapt resource value: 0x7F0F019E
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689886;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131689886;
 			
 			// aapt resource value: 0x7F0F019F
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689887;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131689887;
 			
 			// aapt resource value: 0x7F0F01A0
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689888;
+			public const int Widget_AppCompat_Light_ActionButton = 2131689888;
 			
 			// aapt resource value: 0x7F0F01A1
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689889;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131689889;
 			
 			// aapt resource value: 0x7F0F01A2
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689890;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131689890;
 			
 			// aapt resource value: 0x7F0F01A3
-			public const int Widget_AppCompat_Light_PopupMenu = 2131689891;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131689891;
 			
 			// aapt resource value: 0x7F0F01A4
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689892;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131689892;
 			
 			// aapt resource value: 0x7F0F01A5
-			public const int Widget_AppCompat_Light_SearchView = 2131689893;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131689893;
 			
 			// aapt resource value: 0x7F0F01A6
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689894;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131689894;
 			
 			// aapt resource value: 0x7F0F01A7
-			public const int Widget_AppCompat_ListMenuView = 2131689895;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131689895;
 			
 			// aapt resource value: 0x7F0F01A8
-			public const int Widget_AppCompat_ListPopupWindow = 2131689896;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131689896;
 			
 			// aapt resource value: 0x7F0F01A9
-			public const int Widget_AppCompat_ListView = 2131689897;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131689897;
 			
 			// aapt resource value: 0x7F0F01AA
-			public const int Widget_AppCompat_ListView_DropDown = 2131689898;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131689898;
 			
 			// aapt resource value: 0x7F0F01AB
-			public const int Widget_AppCompat_ListView_Menu = 2131689899;
+			public const int Widget_AppCompat_Light_SearchView = 2131689899;
 			
 			// aapt resource value: 0x7F0F01AC
-			public const int Widget_AppCompat_PopupMenu = 2131689900;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131689900;
 			
 			// aapt resource value: 0x7F0F01AD
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689901;
+			public const int Widget_AppCompat_ListMenuView = 2131689901;
 			
 			// aapt resource value: 0x7F0F01AE
-			public const int Widget_AppCompat_PopupWindow = 2131689902;
+			public const int Widget_AppCompat_ListPopupWindow = 2131689902;
 			
 			// aapt resource value: 0x7F0F01AF
-			public const int Widget_AppCompat_ProgressBar = 2131689903;
+			public const int Widget_AppCompat_ListView = 2131689903;
 			
 			// aapt resource value: 0x7F0F01B0
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689904;
+			public const int Widget_AppCompat_ListView_DropDown = 2131689904;
 			
 			// aapt resource value: 0x7F0F01B1
-			public const int Widget_AppCompat_RatingBar = 2131689905;
+			public const int Widget_AppCompat_ListView_Menu = 2131689905;
 			
 			// aapt resource value: 0x7F0F01B2
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131689906;
+			public const int Widget_AppCompat_PopupMenu = 2131689906;
 			
 			// aapt resource value: 0x7F0F01B3
-			public const int Widget_AppCompat_RatingBar_Small = 2131689907;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131689907;
 			
 			// aapt resource value: 0x7F0F01B4
-			public const int Widget_AppCompat_SearchView = 2131689908;
+			public const int Widget_AppCompat_PopupWindow = 2131689908;
 			
 			// aapt resource value: 0x7F0F01B5
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131689909;
+			public const int Widget_AppCompat_ProgressBar = 2131689909;
 			
 			// aapt resource value: 0x7F0F01B6
-			public const int Widget_AppCompat_SeekBar = 2131689910;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131689910;
 			
 			// aapt resource value: 0x7F0F01B7
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131689911;
+			public const int Widget_AppCompat_RatingBar = 2131689911;
 			
 			// aapt resource value: 0x7F0F01B8
-			public const int Widget_AppCompat_Spinner = 2131689912;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131689912;
 			
 			// aapt resource value: 0x7F0F01B9
-			public const int Widget_AppCompat_Spinner_DropDown = 2131689913;
+			public const int Widget_AppCompat_RatingBar_Small = 2131689913;
 			
 			// aapt resource value: 0x7F0F01BA
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689914;
+			public const int Widget_AppCompat_SearchView = 2131689914;
 			
 			// aapt resource value: 0x7F0F01BB
-			public const int Widget_AppCompat_Spinner_Underlined = 2131689915;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131689915;
 			
 			// aapt resource value: 0x7F0F01BC
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689916;
+			public const int Widget_AppCompat_SeekBar = 2131689916;
 			
 			// aapt resource value: 0x7F0F01BD
-			public const int Widget_AppCompat_Toolbar = 2131689917;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131689917;
 			
 			// aapt resource value: 0x7F0F01BE
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689918;
+			public const int Widget_AppCompat_Spinner = 2131689918;
 			
 			// aapt resource value: 0x7F0F01BF
-			public const int Widget_Compat_NotificationActionContainer = 2131689919;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131689919;
 			
 			// aapt resource value: 0x7F0F01C0
-			public const int Widget_Compat_NotificationActionText = 2131689920;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131689920;
 			
 			// aapt resource value: 0x7F0F01C1
-			public const int Widget_Design_AppBarLayout = 2131689921;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131689921;
 			
 			// aapt resource value: 0x7F0F01C2
-			public const int Widget_Design_BottomNavigationView = 2131689922;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131689922;
 			
 			// aapt resource value: 0x7F0F01C3
-			public const int Widget_Design_BottomSheet_Modal = 2131689923;
+			public const int Widget_AppCompat_Toolbar = 2131689923;
 			
 			// aapt resource value: 0x7F0F01C4
-			public const int Widget_Design_CollapsingToolbar = 2131689924;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131689924;
 			
 			// aapt resource value: 0x7F0F01C5
-			public const int Widget_Design_FloatingActionButton = 2131689925;
+			public const int Widget_Compat_NotificationActionContainer = 2131689925;
 			
 			// aapt resource value: 0x7F0F01C6
-			public const int Widget_Design_NavigationView = 2131689926;
+			public const int Widget_Compat_NotificationActionText = 2131689926;
 			
 			// aapt resource value: 0x7F0F01C7
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689927;
+			public const int Widget_Design_AppBarLayout = 2131689927;
 			
 			// aapt resource value: 0x7F0F01C8
-			public const int Widget_Design_Snackbar = 2131689928;
+			public const int Widget_Design_BottomNavigationView = 2131689928;
 			
 			// aapt resource value: 0x7F0F01C9
-			public const int Widget_Design_TabLayout = 2131689929;
+			public const int Widget_Design_BottomSheet_Modal = 2131689929;
 			
 			// aapt resource value: 0x7F0F01CA
-			public const int Widget_Design_TextInputLayout = 2131689930;
+			public const int Widget_Design_CollapsingToolbar = 2131689930;
 			
 			// aapt resource value: 0x7F0F01CB
-			public const int Widget_MaterialComponents_BottomAppBar = 2131689931;
+			public const int Widget_Design_FloatingActionButton = 2131689931;
 			
 			// aapt resource value: 0x7F0F01CC
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689932;
+			public const int Widget_Design_NavigationView = 2131689932;
 			
 			// aapt resource value: 0x7F0F01CD
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131689933;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131689933;
 			
 			// aapt resource value: 0x7F0F01CE
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689934;
+			public const int Widget_Design_Snackbar = 2131689934;
 			
 			// aapt resource value: 0x7F0F01CF
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689935;
+			public const int Widget_Design_TabLayout = 2131689935;
 			
 			// aapt resource value: 0x7F0F01D0
-			public const int Widget_MaterialComponents_Button = 2131689936;
+			public const int Widget_Design_TextInputLayout = 2131689936;
 			
 			// aapt resource value: 0x7F0F01D1
-			public const int Widget_MaterialComponents_Button_Icon = 2131689937;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131689937;
 			
 			// aapt resource value: 0x7F0F01D2
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689938;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131689938;
 			
 			// aapt resource value: 0x7F0F01D3
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689939;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131689939;
 			
 			// aapt resource value: 0x7F0F01D4
-			public const int Widget_MaterialComponents_Button_TextButton = 2131689940;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131689940;
 			
 			// aapt resource value: 0x7F0F01D5
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689941;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131689941;
 			
 			// aapt resource value: 0x7F0F01D6
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689942;
+			public const int Widget_MaterialComponents_Button = 2131689942;
 			
 			// aapt resource value: 0x7F0F01D7
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689943;
+			public const int Widget_MaterialComponents_Button_Icon = 2131689943;
 			
 			// aapt resource value: 0x7F0F01D8
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689944;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131689944;
 			
 			// aapt resource value: 0x7F0F01D9
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689945;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131689945;
 			
 			// aapt resource value: 0x7F0F01DA
-			public const int Widget_MaterialComponents_CardView = 2131689946;
-			
-			// aapt resource value: 0x7F0F01DF
-			public const int Widget_MaterialComponents_ChipGroup = 2131689951;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131689946;
 			
 			// aapt resource value: 0x7F0F01DB
-			public const int Widget_MaterialComponents_Chip_Action = 2131689947;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131689947;
 			
 			// aapt resource value: 0x7F0F01DC
-			public const int Widget_MaterialComponents_Chip_Choice = 2131689948;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131689948;
 			
 			// aapt resource value: 0x7F0F01DD
-			public const int Widget_MaterialComponents_Chip_Entry = 2131689949;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131689949;
 			
 			// aapt resource value: 0x7F0F01DE
-			public const int Widget_MaterialComponents_Chip_Filter = 2131689950;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131689950;
+			
+			// aapt resource value: 0x7F0F01DF
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131689951;
 			
 			// aapt resource value: 0x7F0F01E0
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131689952;
-			
-			// aapt resource value: 0x7F0F01E1
-			public const int Widget_MaterialComponents_NavigationView = 2131689953;
-			
-			// aapt resource value: 0x7F0F01E2
-			public const int Widget_MaterialComponents_Snackbar = 2131689954;
-			
-			// aapt resource value: 0x7F0F01E3
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689955;
-			
-			// aapt resource value: 0x7F0F01E4
-			public const int Widget_MaterialComponents_TabLayout = 2131689956;
+			public const int Widget_MaterialComponents_CardView = 2131689952;
 			
 			// aapt resource value: 0x7F0F01E5
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689957;
+			public const int Widget_MaterialComponents_ChipGroup = 2131689957;
+			
+			// aapt resource value: 0x7F0F01E1
+			public const int Widget_MaterialComponents_Chip_Action = 2131689953;
+			
+			// aapt resource value: 0x7F0F01E2
+			public const int Widget_MaterialComponents_Chip_Choice = 2131689954;
+			
+			// aapt resource value: 0x7F0F01E3
+			public const int Widget_MaterialComponents_Chip_Entry = 2131689955;
+			
+			// aapt resource value: 0x7F0F01E4
+			public const int Widget_MaterialComponents_Chip_Filter = 2131689956;
 			
 			// aapt resource value: 0x7F0F01E6
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689958;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131689958;
 			
 			// aapt resource value: 0x7F0F01E7
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689959;
+			public const int Widget_MaterialComponents_NavigationView = 2131689959;
 			
 			// aapt resource value: 0x7F0F01E8
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689960;
+			public const int Widget_MaterialComponents_Snackbar = 2131689960;
 			
 			// aapt resource value: 0x7F0F01E9
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689961;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131689961;
 			
 			// aapt resource value: 0x7F0F01EA
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689962;
+			public const int Widget_MaterialComponents_TabLayout = 2131689962;
 			
 			// aapt resource value: 0x7F0F01EB
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689963;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131689963;
 			
 			// aapt resource value: 0x7F0F01EC
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689964;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131689964;
 			
 			// aapt resource value: 0x7F0F01ED
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689965;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131689965;
 			
 			// aapt resource value: 0x7F0F01EE
-			public const int Widget_MaterialComponents_Toolbar = 2131689966;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131689966;
 			
 			// aapt resource value: 0x7F0F01EF
-			public const int Widget_Support_CoordinatorLayout = 2131689967;
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131689967;
+			
+			// aapt resource value: 0x7F0F01F0
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131689968;
+			
+			// aapt resource value: 0x7F0F01F1
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131689969;
+			
+			// aapt resource value: 0x7F0F01F2
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131689970;
+			
+			// aapt resource value: 0x7F0F01F3
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131689971;
+			
+			// aapt resource value: 0x7F0F01F4
+			public const int Widget_MaterialComponents_Toolbar = 2131689972;
+			
+			// aapt resource value: 0x7F0F01F5
+			public const int Widget_Support_CoordinatorLayout = 2131689973;
 			
 			static Style()
 			{

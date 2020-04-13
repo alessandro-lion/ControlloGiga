@@ -17,9 +17,9 @@ namespace ControlloGiga
     {
         private TextView textMessage, textUsage, textCharge, textDate, textStatus;
         private EditText EditEntry, EditEntryPass;
-        private ProgressBar prgBar1;
-        private Button okButton;
-        private ImageButton imgButton;
+        private Android.Widget.ProgressBar prgBar1;
+        private Android.Widget.Button okButton;
+        private Android.Widget.ImageButton imgButton;
         private DateTime LastDataFetch = DateTime.Now.AddSeconds(-33);
         private BottomNavigationView navigation;
         //TODO: Prevedere gestione di un nickname per le credenziali e la possibilità di usare più di un set di credenziali per controllare i dati di più schede
@@ -39,20 +39,20 @@ namespace ControlloGiga
             EditEntry = FindViewById<EditText>(Resource.Id.entry);
             EditEntryPass = FindViewById<EditText>(Resource.Id.entrypass);
 
-            prgBar1 = FindViewById<ProgressBar>(Resource.Id.progressBar1);
+            prgBar1 = FindViewById<Android.Widget.ProgressBar>(Resource.Id.progressBar1);
 
             navigation = FindViewById<BottomNavigationView>(Resource.Id.navigation);
             navigation.SetOnNavigationItemSelectedListener(this);
 
-            var confLayout = FindViewById<RelativeLayout>(Resource.Id.conf_layout);
+            var confLayout = FindViewById<Android.Widget.RelativeLayout>(Resource.Id.conf_layout);
             confLayout.Visibility = ViewStates.Invisible;
 
-            okButton = FindViewById<Button>(Resource.Id.buttonok);
+            okButton = FindViewById<Android.Widget.Button>(Resource.Id.buttonok);
             okButton.Click += (sender, e) =>
             {
                 OnClickOK();
             };
-            imgButton = FindViewById<ImageButton>(Resource.Id.imageButtonRefresh);
+            imgButton = FindViewById<Android.Widget.ImageButton>(Resource.Id.imageButtonRefresh);
             imgButton.Click += (sender, e) =>
             {
                 OnImageButtonClicked();
@@ -94,7 +94,6 @@ namespace ControlloGiga
             }
 
         }
-
         private void OnImageButtonClicked()
         {
             RefreshData(EditEntry.Text, EditEntryPass.Text);
@@ -125,7 +124,6 @@ namespace ControlloGiga
                 {
                     //DONE: predisporre l'app su Home qualora la connessione sia avvenuta con successo.
                     navigation.SelectedItemId = Resource.Id.navigation_home;
-                    textStatus.SetText( Resource.String.title_refreshdone);
                 }
             }
         }
@@ -196,17 +194,17 @@ namespace ControlloGiga
         //TODO:: Riscrivere le SetFocus in maniera da avera una terza funzione con un parametro true false chiamata da entrambe
         {
             textMessage.SetText(Resource.String.title_home);
-            var confLayout = FindViewById<RelativeLayout>(Resource.Id.conf_layout);
+            var confLayout = FindViewById<Android.Widget.RelativeLayout>(Resource.Id.conf_layout);
             confLayout.Visibility = ViewStates.Invisible;
-            var HLayout = FindViewById<RelativeLayout>(Resource.Id.home_layout);
+            var HLayout = FindViewById<Android.Widget.RelativeLayout>(Resource.Id.home_layout);
             HLayout.Visibility = ViewStates.Visible;
         }
         private void SetDashBoardOnFocus()
         {
             textMessage.SetText(Resource.String.title_dashboard);
-            var confLayout = FindViewById<RelativeLayout>(Resource.Id.conf_layout);
+            var confLayout = FindViewById<Android.Widget.RelativeLayout>(Resource.Id.conf_layout);
             confLayout.Visibility = ViewStates.Visible;
-            var HLayout = FindViewById<RelativeLayout>(Resource.Id.home_layout);
+            var HLayout = FindViewById<Android.Widget.RelativeLayout>(Resource.Id.home_layout);
             HLayout.Visibility = ViewStates.Invisible;
         }
 
