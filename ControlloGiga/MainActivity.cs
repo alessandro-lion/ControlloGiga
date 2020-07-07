@@ -162,7 +162,7 @@ namespace ControlloGiga
                     //Update Show Results View Objects on Layout home
                     if (quotamax > 0)
                     {
-                        prgBar1.IncrementProgressBy(Convert.ToInt16(result / quotamax * 100));
+                        prgBar1.IncrementProgressBy(Convert.ToInt16(Math.Round(result / quotamax * 100)));
                     }
                     
                     textUsage.Text = Resources.GetString(Resource.String.label_utilizzati) + " " + result.ToString() + " / " + quotamax.ToString() + " " + strunitm;
