@@ -26,7 +26,7 @@ namespace PilionUtilities
             //Based on sample at https://stackoverflow.com/questions/930807/login-to-website-via-c-sharp
 
             //main output parameter
-            decimal decRet = 0;
+            decimal decRet ;
 
             //Web accesss
             var StrLoginAddress = "https://www.iliad.it/account/";
@@ -52,7 +52,7 @@ namespace PilionUtilities
                 //FIX: Converting to mb the quota value in case used is returned as mb
                 if (strUnit=="mb")
                 {
-                    decQuotaMax = decQuotaMax * 1024;
+                    decQuotaMax *= 1024;
                 }
             }
             catch
@@ -138,7 +138,7 @@ namespace PilionUtilities
             int PositionRed = StrRetToInspect.IndexOf("red\">");
             int PositionSpan = StrRetToInspect.IndexOf("</span>");
             StrRetToInspect = StrRetToInspect.Substring(PositionRed + 5, PositionSpan - 5 - PositionRed);
-            string StrValue = StrRetToInspect.Substring(0, StrRetToInspect.Length - 2);
+            string StrValue = StrRetToInspect[0..^2];
             if (GetDecValue(StrValue, out decUsed))
             {
                 //Conversion Done
@@ -156,7 +156,9 @@ namespace PilionUtilities
         {
             //Html inspection (Old School, position based)
             //TODO: Use variables for position markers that can set as property on the class instance 
+#pragma warning disable IDE0018 // Inline variable declaration
             decimal decQuotaMax = 0;
+#pragma warning restore IDE0018 // Inline variable declaration
             int PositionConsumi = strSourceHTML.IndexOf("Consumi Dati:");
             int PositionDivStart = strSourceHTML.LastIndexOf("<div class", PositionConsumi);
             int PositionDivFinish = strSourceHTML.IndexOf("</div>", PositionDivStart);

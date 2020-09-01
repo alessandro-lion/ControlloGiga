@@ -84,15 +84,16 @@
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/textViewCharge" 
-            android:layout_below="@+id/textViewUsage" />
+            android:id="@+id/textViewCharge"
+            android:layout_below="@+id/space1"
+            android:layout_marginBottom="12.5dp" />
         <TextView
             android:text="Large Text"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/textViewDate" 
-            android:layout_below="@+id/space1" />
+            android:id="@+id/textViewDate"
+            android:layout_below="@+id/textViewCharge" />
         <Space
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
