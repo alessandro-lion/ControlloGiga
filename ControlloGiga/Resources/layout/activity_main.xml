@@ -1,11 +1,9 @@
-
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-
     <RelativeLayout 
         android:id="@+id/conf_layout"
         android:layout_width="fill_parent"
@@ -28,6 +26,11 @@
             android:layout_height="wrap_content"
             android:background="@android:drawable/editbox_background"
             android:layout_below="@+id/labelcred"/>
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/space44" 
+            android:minHeight="@dimen/abc_action_button_min_height_material"/>
         <EditText
             android:inputType="textPassword"
             android:id="@+id/entrypass"
@@ -35,6 +38,11 @@
             android:layout_height="wrap_content"
             android:background="@android:drawable/editbox_background"
             android:layout_below="@+id/entry"/>
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/space45"
+            android:minHeight="@dimen/abc_list_item_height_material" />
         <Button
             android:text="@string/buttontext_ok"
             android:layout_width="fill_parent"
@@ -66,7 +74,7 @@
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"/>
         <TextView
-            android:text="Large Text"
+            android:text="@string/title_refreshing"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -80,7 +88,7 @@
             android:minHeight="@dimen/abc_action_bar_content_inset_material" 
             android:layout_below="@+id/textViewUsage" />
         <TextView
-            android:text="Large Text"
+            android:text="@string/label_dots"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -88,7 +96,7 @@
             android:layout_below="@+id/space1"
             android:layout_marginBottom="12.5dp" />
         <TextView
-            android:text="Large Text"
+            android:text="@string/label_dots"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -133,8 +141,6 @@
         android:layout_centerVertical="false"
         android:textStyle="italic"
         android:shadowColor="#ff324da5" />
-
-    
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
         android:layout_width="match_parent"
@@ -144,5 +150,4 @@
         android:background="?android:attr/windowBackground"
         android:layout_alignParentBottom="true"
         app:menu="@menu/navigation" />
-
 </RelativeLayout>

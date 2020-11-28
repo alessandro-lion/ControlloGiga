@@ -8,6 +8,8 @@ using Android.Widget;
 using MSLibrary;
 using PilionUtilities;
 using System;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace ControlloGiga
 {
@@ -15,6 +17,9 @@ namespace ControlloGiga
 
     public class MainActivity : AppCompatActivity, BottomNavigationView.IOnNavigationItemSelectedListener
     {
+        internal String strpar1 = "";
+        internal String strpar2 = "";
+        private bool bAtOpening = false;
         private TextView textMessage, textUsage, textCharge, textDate, textStatus;
         private EditText EditEntry, EditEntryPass;
         private Android.Widget.ProgressBar prgBar1;
@@ -83,16 +88,24 @@ namespace ControlloGiga
             else
             {
                 //Se ci son le credenziali usarle
-                if (RefreshData(EditEntry.Text, EditEntryPass.Text))
+                strpar1 = EditEntry.Text;
+                strpar2 = EditEntryPass.Text;
+                //FIX USO thread solo su versioni >=8 (se iniziano con 5, 6 e 7 chiamo direttamente il metodo)
+                String myversionstring= Build.VERSION.Release;
+                switch (myversionstring.Substring(0, 1))
                 {
-                    //Se le credenziali danno accesso ai dati mostro informazioni recuperate
-                    //0 or 1 ??
-                    navigation.SelectedItemId = Resource.Id.navigation_home;
-                    //System.Threading.Thread.Sleep(4000);
-
+                    case "5":
+                    case "6":
+                    case "7":
+                        //No multithreading
+                        bool bretc = RefreshData(strpar1, strpar2);
+                        break;
+                    default:
+                        //Async Refresh Data con thread separato
+                        RefreshData();
+                        break;
                 }
             }
-
         }
         private void OnImageButtonClicked()
         {
@@ -120,14 +133,31 @@ namespace ControlloGiga
             if (bret)
             {
                 //DONE: Invocare funzione per lettura 
-                if (RefreshData(EditEntry.Text, EditEntryPass.Text)==true)
+                if (RefreshData(EditEntry.Text, EditEntryPass.Text) == true)
                 {
                     //DONE: predisporre l'app su Home qualora la connessione sia avvenuta con successo.
                     navigation.SelectedItemId = Resource.Id.navigation_home;
-                }
+                } 
             }
         }
+        async void RefreshData()
+        {
+            /* V. 15 */ 
+            navigation.SelectedItemId = Resource.Id.navigation_home;
+            textStatus.Text = Resources.GetString(Resource.String.title_refreshing);
+            await Task.Run(() => {
+            bool btret = false;
+            btret = RefreshData(strpar1, strpar2);
+        });
 
+            /* V. 14 
+             * navigation.SelectedItemId = Resource.Id.navigation_home;
+             * textStatus.Text = Resources.GetString(Resource.String.title_refreshing);
+             * bool btret = false;
+             * var tasko = Task.Run(() =>btret=RefreshData(strpar1,strpar2));
+             * await tasko;
+             * */
+        }
         private bool RefreshData(String StrUser, String StrPass)
         {
             System.TimeSpan diffResult = DateTime.Now.Subtract(LastDataFetch);
@@ -141,7 +171,8 @@ namespace ControlloGiga
 
             try
             {
-                prgBar1.SetProgress(0, false);
+                //prgBar1.SetProgress(0, false);  FIX ISSUE WITH Android 6.0 Marshmallow
+                prgBar1.Progress = 0;
                 if ((StrUser != null) && (StrUser != ""))
                 {
                     textStatus.SetText(Resource.String.title_refreshing);
@@ -162,18 +193,38 @@ namespace ControlloGiga
                     //Update Show Results View Objects on Layout home
                     if (quotamax > 0)
                     {
-                        prgBar1.IncrementProgressBy(Convert.ToInt16(Math.Round(result / quotamax * 100)));
+                        //prgBar1.IncrementProgressBy(Convert.ToInt16(Math.Round(result / quotamax * 100))); FIX ISSUE WITH Android 6.0 Marshmallow
+                        int valprog = Convert.ToInt16(Math.Round((result / quotamax * 100), 0, MidpointRounding.AwayFromZero));
+                        if ( result > 0 )
+                        {
+                            valprog = Math.Max(1, valprog);
+                        }
+                        prgBar1.Progress = valprog;
                     }
-                    
+
                     textUsage.Text = Resources.GetString(Resource.String.label_utilizzati) + " " + result.ToString() + " / " + quotamax.ToString() + " " + strunitm;
                     textCharge.Text = Resources.GetString(Resource.String.label_charge) + " " + deccred.ToString() + " " + strcurr;
                     textDate.Text = Resources.GetString(Resource.String.label_datascad) + " " + dtrenew.ToString("dd/MM/yyyy");
                     textStatus.Text = Resources.GetString(Resource.String.title_refreshdone) + " " + strnumber;
+                    if (bAtOpening)
+                    {
+                        //Se le credenziali danno accesso ai dati mostro informazioni recuperate
+                        //0 or 1 ??
+                        navigation.SelectedItemId = Resource.Id.navigation_home;
+                        bAtOpening = false;
+                    }
                     return true;
                 }
                 else
                 {
                     textStatus.SetText(Resource.String.title_refreshfailednet);
+                    if (bAtOpening)
+                    {
+                        //Se le credenziali non danno accesso mostro la configurazione
+                        navigation.SelectedItemId = Resource.Id.navigation_dashboard;
+                        bAtOpening = false;
+                    }
+
                     return false;
                 }
             }
@@ -222,4 +273,6 @@ namespace ControlloGiga
             return false;
         }
     }
+
+ 
 }

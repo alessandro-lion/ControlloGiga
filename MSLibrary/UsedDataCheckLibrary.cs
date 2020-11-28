@@ -26,7 +26,7 @@ namespace PilionUtilities
             //Based on sample at https://stackoverflow.com/questions/930807/login-to-website-via-c-sharp
 
             //main output parameter
-            decimal decRet ;
+            decimal decRet;
 
             //Web accesss
             var StrLoginAddress = "https://www.iliad.it/account/";
@@ -50,7 +50,7 @@ namespace PilionUtilities
                 dtRenewal = IliadExtractRenewalDateFromSource(StrRetVal);
                 strMobileNo = IliadExtractMobileNumberFromSource(StrRetVal);
                 //FIX: Converting to mb the quota value in case used is returned as mb
-                if (strUnit=="mb")
+                if (strUnit == "mb")
                 {
                     decQuotaMax *= 1024;
                 }
