@@ -54,6 +54,7 @@ namespace PilionUtilities
                 {
                     decQuotaMax *= 1024;
                 }
+
             }
             catch
             {
@@ -69,7 +70,30 @@ namespace PilionUtilities
 
             return decRet;
         }
-        private static DateTime IliadExtractRenewalDateFromSource(this String strSourceHTML)
+
+        public static decimal IliadUsedDataCheck(this String strURL, String strUser, string strPassword, out string strUnit, out decimal decQuotaMax, out string strCurrency, out decimal decCredito, out DateTime dtRenewal, out string strMobileNo, out int intElapseddays, out int intLeftDays)
+        {
+            decimal decNestedRet = IliadUsedDataCheck(strURL, strUser, strPassword, out strUnit, out decQuotaMax, out strCurrency, out decCredito, out dtRenewal, out strMobileNo);
+            try
+            {
+                DateTime dtLastDate=dtRenewal.AddMonths(-1);
+                TimeSpan sincelast = DateTime.Now - dtLastDate;
+                intElapseddays = Convert.ToInt32(sincelast.TotalDays);
+                sincelast = dtRenewal - DateTime.Now;
+                intLeftDays=Convert.ToInt32(sincelast.TotalDays);
+                Console.WriteLine(intLeftDays);
+            }
+            catch
+            {
+                {
+                    //ERR
+                    intElapseddays = -1;
+                    intLeftDays = -1;
+                }
+            }
+            return decNestedRet;
+        }
+            private static DateTime IliadExtractRenewalDateFromSource(this String strSourceHTML)
         {
             DateTime dtRet;
 
@@ -80,7 +104,7 @@ namespace PilionUtilities
             string StrRetToInspect = strSourceHTML[PositionRenew..PositionDiv];
             StrRetToInspect = StrRetToInspect.Substring(0, 10);
 
-            string StrY = StrRetToInspect.Substring(StrRetToInspect.Length - 4);
+            string StrY = StrRetToInspect[^4..];
             string StrD = StrRetToInspect.Substring(0, 2);
             string StrM = StrRetToInspect.Substring(3, 2);
 
@@ -103,12 +127,14 @@ namespace PilionUtilities
 
         private static decimal IliadExtractCreditLeftFromSource(this String strSourceHTML, out String strCurr)
         {
+#pragma warning disable IDE0018 // Inline variable declaration
             decimal decCred = 0;
+#pragma warning restore IDE0018 // Inline variable declaration
             int PositionCred = strSourceHTML.IndexOf("Credito : ");
             int PositionBr = strSourceHTML.IndexOf("</b>", PositionCred);
             //string StrRetToInspect = strSourceHTML.Substring(PositionCred, PositionBr - PositionCred);
             string StrRetToInspect = strSourceHTML[PositionCred..PositionBr];
-            StrRetToInspect = StrRetToInspect.Substring(StrRetToInspect.LastIndexOf(">") + 1);
+            StrRetToInspect = StrRetToInspect[(StrRetToInspect.LastIndexOf(">") + 1)..];
 
             //string StrVal = StrRetToInspect.Substring(0, StrRetToInspect.Length - 1);
             string StrVal = StrRetToInspect[0..^1];
@@ -142,7 +168,7 @@ namespace PilionUtilities
             if (GetDecValue(StrValue, out decUsed))
             {
                 //Conversion Done
-                strUnitMes = StrRetToInspect.Substring(StrRetToInspect.Length - 2);
+                strUnitMes = StrRetToInspect[^2..];
             }
             else
             {

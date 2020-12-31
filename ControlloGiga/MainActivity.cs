@@ -20,7 +20,7 @@ namespace ControlloGiga
         internal String strpar1 = "";
         internal String strpar2 = "";
         private bool bAtOpening = false;
-        private TextView textMessage, textUsage, textCharge, textDate, textStatus;
+        private TextView textMessage, textUsage, textCharge, textDate, textStatus, textDays;
         private EditText EditEntry, EditEntryPass;
         private Android.Widget.ProgressBar prgBar1;
         private Android.Widget.Button okButton;
@@ -28,7 +28,7 @@ namespace ControlloGiga
         private DateTime LastDataFetch = DateTime.Now.AddSeconds(-33);
         private BottomNavigationView navigation;
         //TODO: Prevedere gestione di un nickname per le credenziali e la possibilità di usare più di un set di credenziali per controllare i dati di più schede
-        //TO DO: Vedere se vi è modo di recuperare i dati di utilizzo anche di altri operatori di telefonia, tre, tim, vodafone
+        //TO DO: Vedere se vi è modo di recuperare i dati di utilizzo anche di altri operatori di telefonia, Ho, tre, tim, vodafone
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
@@ -40,6 +40,7 @@ namespace ControlloGiga
             textCharge = FindViewById<TextView>(Resource.Id.textViewCharge);
             textDate = FindViewById<TextView>(Resource.Id.textViewDate);
             textStatus = FindViewById<TextView>(Resource.Id.textViewStatus);
+            textDays = FindViewById<TextView>(Resource.Id.textViewDays);
 
             EditEntry = FindViewById<EditText>(Resource.Id.entry);
             EditEntryPass = FindViewById<EditText>(Resource.Id.entrypass);
@@ -62,6 +63,8 @@ namespace ControlloGiga
             {
                 OnImageButtonClicked();
             };
+
+            prgBar1.ScaleY = 9;
             //Leggere i valori per le credenziali e se mancanti predisporre l'app su configurazione.
             bool gotcred = false;
             String strval = Resources.GetString(Resource.String.account_store);
@@ -87,10 +90,10 @@ namespace ControlloGiga
             }
             else
             {
-                //Se ci son le credenziali usarle
+                //Se ci son le credenziali vado ad usarle
                 strpar1 = EditEntry.Text;
                 strpar2 = EditEntryPass.Text;
-                //FIX USO thread solo su versioni >=8 (se iniziano con 5, 6 e 7 chiamo direttamente il metodo)
+                //FIX USO thread solo su versioni >=8 (se iniziano con 5, 6, 7 chiamo direttamente il metodo)
                 String myversionstring= Build.VERSION.Release;
                 switch (myversionstring.Substring(0, 1))
                 {
@@ -185,7 +188,9 @@ namespace ControlloGiga
                 }
 
                 String strval = Resources.GetString(Resource.String.url_iliad);
-                decimal result = UsedDataCheckLibrary.IliadUsedDataCheck(strval, StrUser, StrPass, out string strunitm, out decimal quotamax, out string strcurr, out decimal deccred, out DateTime dtrenew, out string strnumber);
+                //decimal result = UsedDataCheckLibrary.IliadUsedDataCheck(strval, StrUser, StrPass, out string strunitm, out decimal quotamax, out string strcurr, out decimal deccred, out DateTime dtrenew, out string strnumber);
+                //UPDATE Aggiunta conteggio giorni utilizzati e residui
+                decimal result = UsedDataCheckLibrary.IliadUsedDataCheck(strval, StrUser, StrPass, out string strunitm, out decimal quotamax, out string strcurr, out decimal deccred, out DateTime dtrenew, out string strnumber, out int intEDays, out int intLeftDays);
 
                 if (result > 0)
                 {
@@ -205,6 +210,7 @@ namespace ControlloGiga
                     textUsage.Text = Resources.GetString(Resource.String.label_utilizzati) + " " + result.ToString() + " / " + quotamax.ToString() + " " + strunitm;
                     textCharge.Text = Resources.GetString(Resource.String.label_charge) + " " + deccred.ToString() + " " + strcurr;
                     textDate.Text = Resources.GetString(Resource.String.label_datascad) + " " + dtrenew.ToString("dd/MM/yyyy");
+                    textDays.Text = Resources.GetString(Resource.String.title_elapseddays) + " " + intEDays.ToString() + " / "+(intEDays+intLeftDays).ToString() ;
                     textStatus.Text = Resources.GetString(Resource.String.title_refreshdone) + " " + strnumber;
                     if (bAtOpening)
                     {
