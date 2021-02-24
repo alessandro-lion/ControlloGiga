@@ -77,18 +77,21 @@ namespace PilionUtilities
             try
             {
                 DateTime dtLastDate=dtRenewal.AddMonths(-1);
-                TimeSpan sincelast = DateTime.Now - dtLastDate;
+                TimeSpan sincelast = DateTime.Today - dtLastDate;
                 intElapseddays = Convert.ToInt32(sincelast.TotalDays);
-                sincelast = dtRenewal - DateTime.Now;
+                sincelast = dtRenewal - DateTime.Today;
                 intLeftDays=Convert.ToInt32(sincelast.TotalDays);
+                //if (intElapseddays.Equals(0))
+                //    { intElapseddays = intLeftDays; }
+
                 Console.WriteLine(intLeftDays);
             }
             catch
             {
                 {
                     //ERR
-                    intElapseddays = -1;
-                    intLeftDays = -1;
+                    intElapseddays = 0;
+                    intLeftDays = 0;
                 }
             }
             return decNestedRet;
